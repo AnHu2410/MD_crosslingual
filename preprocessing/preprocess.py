@@ -10,7 +10,7 @@ from preprocess_helper_functions import add_aspect_word_en, \
 
 class Preprocessor(object):
     def __init__(self):
-        self.file_tsvetkov = "../../data/datasets/TsvetkovEtAl_ACL2014_testsets.xlsx"
+        self.file_tsvetkov = "../data/datasets/TsvetkovEtAl_ACL2014_testsets.xlsx"
         self.frame_tsvetkov_en = ""
         self.frame_tsvetkov_ru = ""
 
@@ -60,11 +60,11 @@ class Preprocessor(object):
     def preprocess_and_save(self):
         # save training dataset:
         self.preprocess("en")
-        save_frame_2_target_file(self.frame_tsvetkov_en, "../../data/tsvs/basic_training_dataset.tsv")
+        save_frame_2_target_file(self.frame_tsvetkov_en, "../data/tsvs/basic_training_dataset.tsv")
 
         # save Russian test dataset:
         self.preprocess("ru")
-        save_frame_2_target_file(self.frame_tsvetkov_ru, "../../data/tsvs/russian_test_dataset.tsv")
+        save_frame_2_target_file(self.frame_tsvetkov_ru, "../data/tsvs/russian_test_dataset.tsv")
 
 
 preprocessor = Preprocessor()
