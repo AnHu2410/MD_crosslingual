@@ -1,0 +1,223 @@
+	subject	verb	object	sentence	label	aspect	masked_sen
+0	century	see	development	The twentieth century saw intensive development of new technologies	1	saw	The twentieth century [MASK] intensive development of new technologies
+1	conversation	turn		Our conversation turned to the subject of “tongues”.	1	turned	Our conversation [MASK] to the subject of “tongues”.
+2	resumption	bring	relief	The resumption of school brought relief to thousands of children.	1	brought	The resumption of school [MASK] relief to thousands of children.
+3	economy	move		Utah’s economy is moving in the right direction.	1	moving	Utah’s economy is [MASK] in the right direction.
+4	service	meet	expectation	The service will meet your expectations.	1	meet	The service will [MASK] your expectations.
+5	material	live	dream	I hope all her marketing materials live the dream.	1	live	I hope all her marketing materials [MASK] the dream.
+6	unemployment	stand		Three years later, unemployment stands at 8.2 percent. 	1	stands	Three years later, unemployment [MASK] at 8.2 percent. 
+7	action	talk		Actions talk even louder than phrases. 	1	talk	Actions [MASK] even louder than phrases. 
+8	statement	sit		This statement sits oddly in the article.	1	sits	This statement [MASK] oddly in the article.
+9	income	fall		Personal income has not fallen because of welfare programs.	1	fallen	Personal income has not [MASK] because of welfare programs.
+10	silence	speak	volume	The silence spoke volumes, none of which he wanted to hear.	1	spoke	The silence [MASK] volumes, none of which he wanted to hear.
+11	car	decide		Our car decided to act raggedy on Friday, we had to take it to the shop.	1	decided	Our car [MASK] to act raggedy on Friday, we had to take it to the shop.
+12	battery	die		My computer battery died.	1	died	My computer battery [MASK].
+13		walk	document	If you walk documents into the office, you can also pay by VISA or MasterCard.	1	walk	If you [MASK] documents into the office, you can also pay by VISA or MasterCard.
+14	money	walk		The company is letting money walk out the door.	1	walk	The company is letting money [MASK] out the door.
+15	accident	wait		They are accidents waiting to happen.	1	waiting	They are accidents [MASK] to happen.
+16	Texan	break	record	Texans broke their own record for electricity demand for the third time this month.	1	broke	Texans [MASK] their own record for electricity demand for the third time this month.
+17	temperature	break		Two Fridays ago, temperatures broke 100 across central Indiana.	1	broke	Two Fridays ago, temperatures [MASK] 100 across central Indiana.
+18	insurance	cover	care	Will insurance cover my care?	1	cover	Will insurance [MASK] my care?
+19	state	cut	spending	He also says the state needs to cut spending on Medicaid.	1	cut	He also says the state needs to [MASK] spending on Medicaid.
+20	Hawaii	kill 	proposal	Hawaii kills proposal for home energy loans.	1	kills	Hawaii [MASK] proposal for home energy loans.
+21	electronics	drive	innovation	How is consumer electronics driving innovation in the U.S. and abroad?	1	driving	How is consumer electronics [MASK] innovation in the U.S. and abroad?
+22	luck	love		Luck loves those that expect it.	1	loves	Luck [MASK] those that expect it.
+23	teenager	wear	attitude	Teenagers wear attitude like a uniform.	1	wear	Teenagers [MASK] attitude like a uniform.
+24		catch	flight	He was catching a flight to New York to attend a conference.	1	catching	He was [MASK] a flight to New York to attend a conference.
+25	envy	eat		Envy eats away at your soul.	1	eats	Envy [MASK] away at your soul.
+26	data	point		Some of the most disturbing data pointed to the physical pain.	1	pointed	Some of the most disturbing data [MASK] to the physical pain.
+27	advertiser	pull	ad	Japanese advertisers pulled their ads off the air.	1	pulled	Japanese advertisers [MASK] their ads off the air.
+28		close	deal	They wanted to close a deal with the Egyptians quickly.	1	close	They wanted to [MASK] a deal with the Egyptians quickly.
+29	police	close	investigation	The police closed the investigation.	1	closed	The police [MASK] the investigation.
+30	bicycle	suffer	damage	Bicycle suffered major damage.	1	suffered	Bicycle [MASK] major damage.
+31	Tori	throw	tantrum	Just wanted to let you know Tori threw a temper tantrum and hit her head on the floor	1	threw	Just wanted to let you know Tori [MASK] a temper tantrum and hit her head on the floor
+32	fortune	smile		He started to look for other business opportunities and soon Fortune smiled at him.	1	smiled	He started to look for other business opportunities and soon Fortune [MASK] at him.
+33	excitement	fill	street	For a brief moment this week, excitement filled the streets of both Havana and Miami.	1	filled	For a brief moment this week, excitement [MASK] the streets of both Havana and Miami.
+34		fight	hunger	Please join me as we work together to fight hunger in your community.	1	fight	Please join me as we work together to [MASK] hunger in your community.
+35	competition	drop	price	Competition is dropping prices.	1	dropping	Competition is [MASK] prices.
+36	product	hit	market	That happens once a new product really hits the market.	1	hits	That happens once a new product really [MASK] the market.
+37	Murkowski	push	legislation	Murkowski is pushing legislation through Congress.	1	pushing	Murkowski is [MASK] legislation through Congress.
+38	bolt	refuse		One of the seatbelt bolts refused to budge.	1	refused	One of the seatbelt bolts [MASK] to budge.
+39	man	lay	blame	However, the stupid men laid the blame on innocent dogs.	1	laid	However, the stupid men [MASK] the blame on innocent dogs.
+40	future	hang		The future of our transportation system hangs in the balance.	1	hangs	The future of our transportation system [MASK] in the balance.
+41	change	shake	confidence	The change in teaching has shaken their confidence in the Church. 	1	shaken	The change in teaching has [MASK] their confidence in the Church. 
+42	rumor	fly		The rumors flew that this far right group was coming again.	1	flew	The rumors [MASK] that this far right group was coming again.
+43	idea	travel		A special interest is how ideas travel among enterprises within or across different trades and nations.	1	travel	A special interest is how ideas [MASK] among enterprises within or across different trades and nations.
+44	circumstance	demand		Different circumstances demand a different translation.	1	demand	Different circumstances [MASK] a different translation.
+45	solution	stare		This is a Prime Minister who has got a solution staring him in the face.	1	staring	This is a Prime Minister who has got a solution [MASK] him in the face.
+46	data	beat	expectation	On Sunday, China's manufacturing data beat expectations	1	beat	On Sunday, China's manufacturing data [MASK] expectations
+47	solution	marry	idea	Comprehensive solutions marry ideas favored by one party and opposed by the other.	1	marry	Comprehensive solutions [MASK] ideas favored by one party and opposed by the other.
+48		shoot	proposal	So before anybody starts shooting down proposals, I think we need to listen.	1	shooting	So before anybody starts [MASK] down proposals, I think we need to listen.
+49	truck	drink		These trucks drink as much as they can and happily spew a load of carbon into the air.	1	drink	These trucks [MASK] as much as they can and happily spew a load of carbon into the air.
+50	dread	settle		Dread settled in Hutch's chest with the ache of a bad cold.	1	settled	Dread [MASK] in Hutch's chest with the ache of a bad cold.
+51	association	strike	fancy	Use whatever association strikes your fancy.	1	strikes	Use whatever association [MASK] your fancy.
+52	tragedy	strike	community	Then came the War and tragedy struck the little community.	1	struck	Then came the War and tragedy [MASK] the little community.
+53		press	advantage	Indeed, Mr. Obama has made it clear that he will press advantages where he sees them.	1	press	Indeed, Mr. Obama has made it clear that he will [MASK] advantages where he sees them.
+54	marriage	survive	problem	Countless marriages have survived initial problems.	1	survived	Countless marriages have [MASK] initial problems.
+55	Bundestag	lift	ban	The Bundestag in Germany lifted the ban on the Jesuit order of priests.	1	lifted	The Bundestag in Germany [MASK] the ban on the Jesuit order of priests.
+56	kindness	touch		His kindness has really touched me. 	1	touched	His kindness has really [MASK] me. 
+57	congress	sleep		The good news is that even while Congress sleeps, there are those on both the right and left that recognize the dangers.	1	sleeps	The good news is that even while Congress [MASK], there are those on both the right and left that recognize the dangers.
+58	adventure	feed	imagination	No epic adventure has fed the imagination of millions of fans worldwide quite like the Star Wars series has.	1	fed	No epic adventure has [MASK] the imagination of millions of fans worldwide quite like the Star Wars series has.
+59	heart	cry		Their hearts cry out for worship.	1	cry	Their hearts [MASK] out for worship.
+60	thriller	stick	landing	The thriller didn’t stick its landing with all folks that ended up watching it.	1	stick	The thriller didn’t [MASK] its landing with all folks that ended up watching it.
+61	clump	nod		Across the compound, a clump of trees nodded gently in the winter breeze.	1	nodded	Across the compound, a clump of trees [MASK] gently in the winter breeze.
+62	opponent	attack	credibility	His opponents will be attacking his credibility.	1	attacking	His opponents will be [MASK] his credibility.
+63	midwesterner	spread	wealth	Midwesterners try to spread the wealth evenly.	1	spread	Midwesterners try to [MASK] the wealth evenly.
+64	rumor	spread		Rumors spread that Coco was on good terms with the Germans.	1	spread	Rumors [MASK] that Coco was on good terms with the Germans.
+65	unemployment	climb		By the end of Bush's presidency, unemployment climbed to 7.2%.	1	climbed	By the end of Bush's presidency, unemployment [MASK] to 7.2%.
+66	fate	step		Fate stepped in during her brother’s trip to NYC in September 2007.	1	stepped	Fate [MASK] in during her brother’s trip to NYC in September 2007.
+67	blunder	escape	notice	These methodological blunders escaped the notice of the eminent reviewers.	1	escaped	These methodological blunders [MASK] the notice of the eminent reviewers.
+68	court	hand	victory	The U.S. Supreme Court handed a victory to generic drug companies.	1	handed	The U.S. Supreme Court [MASK] a victory to generic drug companies.
+69	overtime	burn	goodwill	Forced overtime  burns goodwill  at an extremely high rate.	1	burns	Forced overtime  [MASK] goodwill  at an extremely high rate.
+70	stock	jump		The company’s stock jumped more than five percent,	1	jumped	The company’s stock [MASK] more than five percent,
+71	success	ride		At Southwest Airlines, they understand that success rides on friendly service.	1	rides	At Southwest Airlines, they understand that success [MASK] on friendly service.
+72		shut	brain	I find it a constant struggle to shut my brain off sometimes.	1	shut	I find it a constant struggle to [MASK] my brain off sometimes.
+73		blow	paycheck	Don’t go and blow your paycheck though.	1	blow	Don’t go and [MASK] your paycheck though.
+74	computer	slip	coma	My computer slipped into coma.	1	slipped	My computer [MASK] into coma.
+75	schedule	slip		My difficult daily schedule slips by wayside.	1	slips	My difficult daily schedule [MASK] by wayside.
+76	court	attach	meaning	"The courts have attached broad meaning to the term ""interstate commerce""."	1	attached	"The courts have [MASK] broad meaning to the term ""interstate commerce""."
+77	state	lean	republican	5 states are still solidly or strongly leaning Republican.	1	leaning	5 states are still solidly or strongly [MASK] Republican.
+78	Bernake	lean	congress	Instead, Bernanke leaned on Congress to do more.	1	leaned	Instead, Bernanke [MASK] on Congress to do more.
+79	Apple	roll	commercial	Apple has rolled out a new commercial for the iPad	1	rolled	Apple has [MASK] out a new commercial for the iPad
+80		wash	sin	Look at their smiling faces and their zeal as they try to wash their sins away.	1	wash	Look at their smiling faces and their zeal as they try to [MASK] their sins away.
+81	tablet	steal	spotlight	Like last year, Android tablets are stealing the spotlight.	1	stealing	Like last year, Android tablets are [MASK] the spotlight.
+82	result	steal	show	The stress test results stole the show from the Fed.	1	stole	The stress test results [MASK] the show from the Fed.
+83	spending	hurt	economy	Out-of-control spending was hurting the economy.	1	hurting	Out-of-control spending was [MASK] the economy.
+84	professional	stretch	truth	This is where some professionals may stretch the truth because they also know this is very important to you. 	1	stretch	This is where some professionals may [MASK] the truth because they also know this is very important to you. 
+85		knock	confidence	There are many things in life that can knock your confidence.	1	knock	There are many things in life that can [MASK] your confidence.
+86	car	complain		Once my phone was paired the car complained that my SD card was corrupt.	1	complained	Once my phone was paired the car [MASK] that my SD card was corrupt.
+87		tie	destiny	Your destiny is tied to the person you work for.	1	tied	Your destiny is [MASK] to the person you work for.
+88	society	wake		I really hope society wakes up soon.	1	wakes	I really hope society [MASK] up soon.
+89		clean	government	This would do more to clean up government than a lot of other proposals would, but that is just my opinion.	1	clean	This would do more to [MASK] up government than a lot of other proposals would, but that is just my opinion.
+90		land	internship	I recently landed a nursing internship, which I am currently enjoying.	1	landed	I recently [MASK] a nursing internship, which I am currently enjoying.
+91		kick	addiction	We need to kick our addiction to carbon.	1	kick	We need to [MASK] our addiction to carbon.
+92	electorate	swing		In his views as the primary electorate swings further right.	1	swings	In his views as the primary electorate [MASK] further right.
+93	depression	drag	market	The Great Depression dragged the market down with it.	1	dragged	The Great Depression [MASK] the market down with it.
+94	life	rush		Life rushes to replace death.	1	rushes	Life [MASK] to replace death.
+95	speech	sink	candidacy	This one speech could sink his candidacy.	1	sink	This one speech could [MASK] his candidacy.
+96	framework	bury	initiative	But it is in the company framework that buries initiative.	1	buries	But it is in the company framework that [MASK] initiative.
+97	Mitt Romney	sweep	primary	Mitt Romney swept five primaries on Tuesday night.	1	swept	Mitt Romney [MASK] five primaries on Tuesday night.
+98	class	slide	poverty	The rich are getting richer while the middle class slides into poverty.	1	slides	The rich are getting richer while the middle class [MASK] into poverty.
+99	Olmert	grab	opportunity	Plainly, Ehud Olmert, Israel’s prime minister, should grab any opportunity to talk.	1	grab	Plainly, Ehud Olmert, Israel’s prime minister, should [MASK] any opportunity to talk.
+100	headline	scream		Headlines scream of pollution and dwindling natural resources.	1	scream	Headlines [MASK] of pollution and dwindling natural resources.
+101	battle	tear	party	Primary battles have torn the party apart.	1	torn	Primary battles have [MASK] the party apart.
+102	cult	dig	activity	Nonetheless, an established cult of fans digs this activity.	1	digs	Nonetheless, an established cult of fans [MASK] this activity.
+103	funding	dry		However, the funding dried up in 2007.	1	dried	However, the funding [MASK] up in 2007.
+104	economy	shrug	impact	The German economy shrugged off the impact of eurozone debt crisis.	1	shrugged	The German economy [MASK] off the impact of eurozone debt crisis.
+105	economy	sail		The economy sailed through the world recession of 2001.	1	sailed	The economy [MASK] through the world recession of 2001.
+106	government	dream	regulation	The government dreams up regulations that affect pubs every day.	1	dreams	The government [MASK] up regulations that affect pubs every day.
+107	creativity	flow		The creativity flowed from the parents as well as the children.	1	flowed	The creativity [MASK] from the parents as well as the children.
+108	pride	burst		The pride bursts from my heart.	1	bursts	The pride [MASK] from my heart.
+109	airport	swim	money	Airports are swimming in money from passenger fees.	1	swimming	Airports are [MASK] in money from passenger fees.
+110	communism	collapse		Communism collapsed world-wide.	1	collapsed	Communism [MASK] world-wide.
+0	stranger	approach		She hated strangers approaching her for any reason.	0	approaching	She hated strangers [MASK] her for any reason.
+1	smoke	arise		The camp smoke arose from the usual places as far as I could see.	0	arose	The camp smoke [MASK] from the usual places as far as I could see.
+2	bus	arrive		The bus eventually arrived.	0	arrived	The bus eventually [MASK].
+3		attach	hose	Attach a drain hose to the radiator drain.	0	Attach	[MASK] a drain hose to the radiator drain.
+4	pirate	attack	ship	Somali pirates have attacked 62 ships.	0	attacked	Somali pirates have [MASK] 62 ships.
+5		beat	egg	In a large bowl, beat eggs until foamy.	0	beat	In a large bowl, [MASK] eggs until foamy.
+6	bomber	blow	vehicle	A suicide bomber blew up his sport-utility vehicle in the middle of a village volleyball game.	0	blew	A suicide bomber [MASK] up his sport-utility vehicle in the middle of a village volleyball game.
+7	car	break		Amidst all of that commotion, my wife’s car broke down while she was out getting us pizza.	0	broke	Amidst all of that commotion, my wife’s car [MASK] down while she was out getting us pizza.
+8	son	break	window	Her son broke my window.	0	broke	Her son [MASK] my window.
+9		bring	food	It is imperative that you bring your own food.	0	bring	It is imperative that you [MASK] your own food.
+10	candle	burn		I love that these candles burn clean!	0	burn	I love that these candles [MASK] clean!
+11	firework	burst		Fireworks burst over the stadium and lit the night sky.	0	burst	Fireworks [MASK] over the stadium and lit the night sky.
+12	army	bury	soldier	The Army started burying soldiers along the northern border of the Arlington estate.	0	burying	The Army started [MASK] soldiers along the northern border of the Arlington estate.
+13	ship	carry	passenger	Ships typically carry up to 12 passengers in comfortable single or double cabins.	0	carry	Ships typically [MASK] up to 12 passengers in comfortable single or double cabins.
+14		catch	salmon	We each caught another salmon that day, too.	0	caught	We each [MASK] another salmon that day, too.
+15		clean	stain	Clean a carpet stain immediately, even if you can't see it.	0	Clean	[MASK] a carpet stain immediately, even if you can't see it.
+16		climb	stairs	They climb the stairs to the top of the dam	0	climb	They [MASK] the stairs to the top of the dam
+17	police	close	road	The police closed the main exit road.	0	closed	The police [MASK] the main exit road.
+18	Jim	close	book	Jim closed the book.	0	closed	Jim [MASK] the book.
+19	bridge	collapse		A bridge had collapsed due to the rains.	0	collapsed	A bridge had [MASK] due to the rains.
+20	reviewer	complain		Some reviewers have complained about the smell.	0	complained	Some reviewers have [MASK] about the smell.
+21	boy	cry		By this time the young boy was crying.	0	crying	By this time the young boy was [MASK].
+22		cut	grass	I used to cut grass on a golf course when I was in college.	0	cut	I used to [MASK] grass on a golf course when I was in college.
+23	judge	decide		The judges decide on the winner of the category.	0	decide	The judges [MASK] on the winner of the category.
+24	protester	demand		The protesters demanded the release of the jailed students.	0	demanded	The protesters [MASK] the release of the jailed students.
+25	father	die		Her father died when she was very young.	0	died	Her father [MASK] when she was very young.
+26	workman	dig	pond	I found them while the workmen were digging this pond.	0	digging	I found them while the workmen were [MASK] this pond.
+27		drag	suitcase	He dragged his suitcase up the stairs of the inn.	0	dragged	He [MASK] his suitcase up the stairs of the inn.
+28	bride	dream		Some brides dream of an elegant formal ceremony in a huge castle.	0	dream	Some brides [MASK] of an elegant formal ceremony in a huge castle.
+29	camel	drink	water	Most informants agreed that camels drink more water in the winter than in the summer.	0	drink	Most informants agreed that camels [MASK] more water in the winter than in the summer.
+30	driver	drive		The driver was driving on the wrong side of the road and did not see Joshua.	0	driving	The driver was [MASK] on the wrong side of the road and did not see Joshua.
+31	paint	dry		This paint dries fast!	0	dries	This paint [MASK] fast!
+32		eat	breakfast	If you don’t eat breakfast and you’re tired by 9 am.	0	eat	If you don’t [MASK] breakfast and you’re tired by 9 am.
+33	visitor	enter	room	Passing through the hallway visitors enter into the dining room.	0	enter	Passing through the hallway visitors [MASK] into the dining room.
+34	prisoner	escape		 A couple of prisoners have escaped from the jail near Reykjavik, Iceland. 	0	escaped	 A couple of prisoners have [MASK] from the jail near Reykjavik, Iceland. 
+35	leaf	fall		All the leaves had fallen from the trees.	0	fallen	All the leaves had [MASK] from the trees.
+36		feed	cow	The farmer arrived to feed the cows.	0	feed	The farmer arrived to [MASK] the cows.
+37		fill	bottle	You will be able to fill the water bottle at a fountain.	0	fill	You will be able to [MASK] the water bottle at a fountain.
+38	lava	flow		Yesterday lava flowed 90 meters wide as far out as a hundred meters from the shoreline.	0	flowed	Yesterday lava [MASK] 90 meters wide as far out as a hundred meters from the shoreline.
+39	plane	fly		Contra planes flew north to the U.S., loaded with cocaine.	0	flew	Contra planes [MASK] north to the U.S., loaded with cocaine.
+40	man	go	city	A man went to a city.	0	went	A man [MASK] to a city.
+41		grab	towel	She grabbed a towel and wrapped it around her head.	0	grabbed	She [MASK] a towel and wrapped it around her head.
+42		grow	vegetables	And then my dad had a garden, so he grew vegetables.	0	grew	And then my dad had a garden, so he [MASK] vegetables.
+43		hand	key	A week later we handed the keys to our old apartment to our landlord.	0	handed	A week later we [MASK] the keys to our old apartment to our landlord.
+44	head	hit	ground	I remember my head hit the ground.	0	hit	I remember my head [MASK] the ground.
+45	stomach	hurt		As soon as I lie down my stomach hurts again.	0	hurts	As soon as I lie down my stomach [MASK] again.
+46	fish	jump		Now the fish are jumping out of the pond right into my net!	0	jumping	Now the fish are [MASK] out of the pond right into my net!
+47	kicker	kick	football	To score this point, a kicker must kick the football through the goal posts.	0	kick	To score this point, a [MASK]er must [MASK] the football through the goal posts.
+48	bomber	kill	person	In July, a suicide bomber killed three people including the top justice official in the region.	0	killed	In July, a suicide bomber [MASK] three people including the top justice official in the region.
+49	salesman	knock	door	How do you feel when a salesman knocks at your door when you're hurriedly getting ready for the office?	0	knocks	How do you feel when a salesman [MASK] at your door when you're hurriedly getting ready for the office?
+50	helicopter	land		The helicopter landed in the snow.	0	landed	The helicopter [MASK] in the snow.
+51	Iran	launch	satellite	Iran plans to launch an additional satellite.	0	launch	Iran plans to [MASK] an additional satellite.
+52	couple	lay	wreath	The couple laid a wreath at the Tomb of the Unknown Soldier.	0	laid	The couple [MASK] a wreath at the Tomb of the Unknown Soldier.
+53		lean	head	I shouted to the driver, who was leaning his head out the window.	0	leaning	I shouted to the driver, who was [MASK] his head out the window.
+54	pharmacist	lean		The pharmacist leaned forward and said he understood.	0	leaned	The pharmacist [MASK] forward and said he understood.
+55		lift	leg	These muscles are used to help lift your legs.	0	lift	These muscles are used to help [MASK] your legs.
+56	child	live		If my children lived nearby, I would be babysitting.	0	lived	If my children [MASK] nearby, I would be babysitting.
+57	person	love		People love to be asked about what they’re working on.	0	love	People [MASK] to be asked about what they’re working on.
+58	daughter	marry	man	My daughter has married an Indian man and we attended the traditional Hindu wedding.	0	married	My daughter has [MASK] an Indian man and we attended the traditional Hindu wedding.
+59		meet	girl	I met a girl who claimed she was in the circus.	0	met	I [MASK] a girl who claimed she was in the circus.
+60	object	move		The object then moved slowly away.	0	moved	The object then [MASK] slowly away.
+61	man	nod	approval	The man nodded his approval and walked around to me.	0	nodded	The man [MASK] his approval and walked around to me.
+62	Miranda	open	mouth	Miranda opened her mouth to reply, but no words came out.	0	opened	Miranda [MASK] her mouth to reply, but no words came out.
+63	antena	point		Note that the antennas are pointing in different directions.	0	pointing	Note that the antennas are [MASK] in different directions.
+64	horse	pull	head	The horse pulled his head away and lipped the man's nose.	0	pulled	The horse [MASK] his head away and lipped the man's nose.
+65	steam	push	piston	The steam pushed the piston up and down.	0	pushed	The steam [MASK] the piston up and down.
+66	student	raise	hand	At Pitzer College on Wednesday night, nearly 150 students raised their hands.	0	raised	At Pitzer College on Wednesday night, nearly 150 students [MASK] their hands.
+67	landlord	refuse		What can you do if the landlord refuses to make repairs to the premises?	0	refuses	What can you do if the landlord [MASK] to make repairs to the premises?
+68	cowboy	ride		A pair of cowboys rode into town.	0	rode	A pair of cowboys [MASK] into town.
+69	column	rise		Columns of smoke rose from fires burning out of control.	0	rose	Columns of smoke [MASK] from fires burning out of control.
+70	tear	roll		The tears rolled down the poor child's face.	0	rolled	The tears [MASK] down the poor child's face.
+71	horse	run		I rarely have a chance to see my horses run.	0	run	I rarely have a chance to see my horses [MASK].
+72	reporter	rush		Reporters rushed to the scene.	0	rushed	Reporters [MASK] to the scene.
+73	doctor	say		The doctor said it would heal fine that way.	0	said	The doctor [MASK] it would heal fine that way.
+74	crowd	scream		The crowd screamed and sang along as usual.	0	screamed	The crowd [MASK] and sang along as usual.
+75	immigrant	settle	Hawaii	Hawaii of course was settled by Polynesian immigrants from Tahiti about one thousand years ago.	0	settled	Hawaii of course was [MASK] by Polynesian immigrants from Tahiti about one thousand years ago.
+76	man	shake	head	The young man shook his head.	0	shook	The young man [MASK] his head.
+77		shrug	shoulder	He just shrugged his shoulders.	0	shrugged	He just [MASK] his shoulders.
+78	submarine	sink	ship	The ship was sunk by a Soviet submarine.	0	sunk	The ship was [MASK] by a Soviet submarine.
+79	cat	sit		His cat was now sitting expectantly upon his feet.	0	sitting	His cat was now [MASK] expectantly upon his feet.
+80	baby	sleep		Most babies sleep primarily in their parent’s room for months.	0	sleep	Most babies [MASK] primarily in their parent’s room for months.
+81	drawer	slide		The top right-hand drawer slid open at a touch.	0	slid	The top right-hand drawer [MASK] open at a touch.
+82	foot	slip		Theo's foot slipped on the slick stone.	0	slipped	Theo's foot [MASK] on the slick stone.
+83	Dean	slip	knife	Dean slips his own knife into the sheath in the back of his pants	0	slips	Dean [MASK] his own knife into the sheath in the back of his pants
+84	Frodo	smile		Frodo smiled amid his tears.	0	smiled	Frodo [MASK] amid his tears.
+85		spread	glue	Use a small brush to spread glue on the egg.	0	spread	Use a small brush to [MASK] glue on the egg.
+86	statue	stand		For a while, the headless statue stood in the front yard of a neighboring home.	0	stood	For a while, the headless statue [MASK] in the front yard of a neighboring home.
+87	Frodo	stare		Frodo stared at the stone in his palm for a few moments.	0	stared	Frodo [MASK] at the stone in his palm for a few moments.
+88	thief	steal	photo	The thief stole the photo from the museum in Prague.	0	stole	The thief [MASK] the photo from the museum in Prague.
+89	engineer	steal	secret	The engineer stole Boeing trade secrets.	0	stole	The engineer [MASK] Boeing trade secrets.
+90	Blair	step		Blair stepped out of the car to meet him.	0	stepped	Blair [MASK] out of the car to meet him.
+91	Beth	stick	tongue	Beth turned her head and stuck her tongue at me.	0	stuck	Beth turned her head and [MASK] her tongue at me.
+92	Frank	stretch	arm	Frank stretched his arm out across the length of the back of the bench.	0	stretched	Frank [MASK] his arm out across the length of the back of the bench.
+93	woman	suffer	pain	Some women suffer no pain at all.	0	suffer	Some women [MASK] no pain at all.
+94	bar	support	weight	The bar supports the full weight of the person.	0	supports	The bar [MASK] the full weight of the person.
+95	human	survive		Can humans survive without water?	0	survive	Can humans [MASK] without water?
+96	man	sweep	floor	The old man was sweeping the floor.	0	sweeping	The old man was [MASK] the floor.
+97	shark	swim		There were over a dozen whale sharks swimming around us.	0	swimming	There were over a dozen whale sharks [MASK] around us.
+98	politician	talk		Have you ever seen a politician talking to a rich person on TV?	0	talking	Have you ever seen a politician [MASK] to a rich person on TV?
+99	patient	tear	cuff	Older patients may tear the rotator cuff during the dislocation.	0	tear	Older patients may [MASK] the rotator cuff during the dislocation.
+100	scientist	think		Scientists think they have discovered the first liquid sea outside of Earth on Saturn's largest moon, Titan.	0	think	Scientists [MASK] they have discovered the first liquid sea outside of Earth on Saturn's largest moon, Titan.
+101	Lebanese	throw	rock	Lebanese throw rocks at Israeli soldiers.	0	throw	Lebanese [MASK] rocks at Israeli soldiers.
+102		tie	ribbon	Then you can also tie a ribbon around the card to make it look pretty.	0	tie	Then you can also [MASK] a ribbon around the card to make it look pretty.
+103	ladder	touch	ground	The longer of the two ladders is not touching the ground.	0	touching	The longer of the two ladders is not [MASK] the ground.
+104	passenger	travel		All passengers travel in cabins, and all cabins have a private shower & toilet.	0	travel	All passengers [MASK] in cabins, and all cabins have a private shower & toilet.
+105	Jim	turn		Jim turned and walked into the waiting room.	0	turned	Jim [MASK] and walked into the waiting room.
+106	thunder	wake		One morning at daybreak, thunder woke him. 	0	woke	One morning at daybreak, thunder [MASK] him. 
+107	Misha	walk	dog	Misha walks his dogs in the park.	0	walks	Misha [MASK] his dogs in the park.
+108	pedestrian	walk		Pedestrians walk between cafes and other small businesses.	0	walk	Pedestrians [MASK] between cafes and other small businesses.
+109		wear	helmet	We always wear helmets when we are riding bikes.	0	wear	We always [MASK] helmets when we are riding bikes.
+110	volunteer	welcome	visitor	Today volunteers welcome visitors and groups of all sizes.	0	welcome	Today volunteers [MASK] visitors and groups of all sizes.
