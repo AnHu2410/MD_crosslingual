@@ -1,21 +1,21 @@
 import pandas as pd
+from evaluate import Evaluator
 
 class Corpus(object):
-    def __init__(self, data_path, language, experiment):
+    def __init__(self, data_path):
         self.data_path = data_path
-        self.language = language
         self.as_dataframe = ""
         self.predictions = ""
-        self.augmented_dataset = False
 
-    def read_corpus(self):
-        self.as_dataframe = pd.read_table(file, sep="\t")
+    def read(self):
+        self.as_dataframe = pd.read_table(self.data_path, sep="\t")
         
-    def make_predictions(self):
-        pass
+    def evaluate(self):
+        labels = self.predictions["label"].tolist()
+        preds = self.predictions["predictions"].tolist()
+        evaluator = Evaluator(labels, preds)
+        evaluator.get_scores()
+        return evaluator
     
-    def write_preds_2_file(self):
-        pass
-    
-    
-       
+    def write_preds_2_file(self, target_file):
+        self.predictions.to_csv(target_file, sep="\t")
