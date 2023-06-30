@@ -5,5 +5,4 @@ word2word == 1.0.0
 scikit-learn == 1.2.0
 numpy == 1.24.1
 datasets == 2.8.0
-Adapter-transformers==3.2.1
-
+adapter-transformers==3.2.1
