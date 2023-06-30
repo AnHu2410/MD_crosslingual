@@ -48,7 +48,7 @@ class Translator(object):
 
 
 def create_dictionary():
-    testfile = "../data/tsvs/russian_test_dataset.tsv"
+    testfile = "../data/tsvs/test_dataset.tsv"
     translator = Translator(testfile)
     translator.get_all_lemmata()
     translator.translate_lemmata()
