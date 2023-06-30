@@ -1,10 +1,10 @@
-# MD_crosslingual
+### MD_crosslingual
 4 different models for performing metaphor detection cross-lingually for low-resource languages.
 
 This repository contains the code for using English as a source language and Russian as a target language. If the models should be used on other languages, the training and test data has to be preprocessed in such a way that its format is identical to the train and test file generated in bullet point 3 (preparation, see below). Also, a one-to-many electronic dictionary is needed with format and filename identical to the format and filename of the electronic dictionary generated below in bullet point 4 (preparation).
 
 
-Preparation:
+# Preparation:
 
 1. Install all libraries from requirements.txt.
 2. Download the English basic training dataset and Russian test data from Tsvetkov et al. (2014) and move it into folder "data": https://homes.cs.washington.edu/~yuliats/#publications (see link "DATA" belonging to paper "Metaphor Detection with Cross-Lingual Model Transfer")
@@ -15,14 +15,14 @@ Preparation:
 7. Follow step by step explanation on how to train a task adapter: https://docs.adapterhub.ml/training.html. Insert path to adapter in main.py (path_task_adapter).
 
 
-Classification:
+# Classification:
 
 main.py demands the following arguments: 
 
-experiment (-x): 'zero' (zero-shot classification with mBERT), 'few' (few-shot classification with mBERT, currently set to 20 instances from the target language), 'madx' (zero-shot classification with MAD-X), 'rf' (zero-shot random forest classification with conceptual features)
+- experiment (-x): 'zero' (zero-shot classification with mBERT), 'few' (few-shot classification with mBERT, currently set to 20 instances from the target language), 'madx' (zero-shot classification with MAD-X), 'rf' (zero-shot random forest classification with conceptual features)
 
-train_file (-t): file containing data used for training the models in the source language
+- train_file (-t): file containing data used for training the models in the source language
 
-predict_file (-p): file containing data used for evaluating the models in the target language
+- predict_file (-p): file containing data used for evaluating the models in the target language
 
-write_preds_2_file (-w): If 'yes' is entered for this optional argument, predictions are added to the predict file and this updated file is written into the data directory.
+- write_preds_2_file (-w): If 'yes' is entered for this optional argument, predictions are added to the predict file and this updated file is written into the data directory.
