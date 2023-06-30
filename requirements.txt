@@ -7,4 +7,4 @@ numpy == 1.24.1
 datasets == 2.8.0
 adapter-transformers==3.2.1
 openpyxl
-torch
+torch==1.13.1
