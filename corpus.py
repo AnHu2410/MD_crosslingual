@@ -17,5 +17,5 @@ class Corpus(object):
         evaluator.get_scores()
         return evaluator
     
-    def write_preds_2_file(self, target_file):
+    def write_file_with_preds(self, target_file):
         self.predictions.to_csv(target_file, sep="\t")

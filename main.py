@@ -1,7 +1,7 @@
 from corpus import Corpus
 import argparse
 from train import TrainerMbert
-from experiments import mBERT_zero, mBERT_few #, mBERT_cross_validation, mBERT_hpt, mBERT_MADX, random_forest
+from experiments import mBERT_zero, mBERT_few, mBERT_MADX, random_forest
 
 
 parser = argparse.ArgumentParser(description="This module carries out cross-lingual metaphor detection.")
@@ -20,10 +20,14 @@ parser.add_argument("-p", "--predict_file", type=str, metavar="", required=True,
                                                                                   "(see README).File "
                                                                                      "name only, no "
                                                                                      "path required.")
+parser.add_argument("-w", "--write_preds_2_file", type=str, metavar="", required=False, help="Type 'yes' if "
+                                                                                             "predictions "
+                                                                                             "should be written "
+                                                                                             "to file.")
 args = parser.parse_args()
 
 
-def md_classification(experiment, file_train, file_test):
+def md_classification(experiment, file_train, file_test, write_2_file):
     file_train = "data/tsvs/" + file_train
     file_test = "data/tsvs/" + file_test
 
@@ -51,15 +55,20 @@ def md_classification(experiment, file_train, file_test):
         target_file = "results/mBERT_finetuned"
         language = "ru"
         corpus_predict.predictions = mBERT_MADX(corpus_train, corpus_predict, target_file, language)
-    #
-    # elif experiment == "rf":
-    #     a = random_forest(corpus_train, corpus_predict, pos, language) + "\n"
-    #     print(a)
+
+    elif experiment == "rf":
+        a = random_forest(corpus_train, corpus_predict, pos, language)
+        print(a)
 
 
-        # evaluate:
-        print(corpus_predict.evaluate())
+    # evaluate:
+    print(corpus_predict.evaluate())
+
+    # write predictions to file:
+    if write_2_file == "yes":
+        target_file = "eval_corpus_with_predictions.tsv"
+        corpus_predict.write_file_with_preds(target_file)
 
 
 if __name__ == '__main__':
-    md_classification(args.experiment, args.train_file, args.predict_file)
+    md_classification(args.experiment, args.train_file, args.predict_file, args.write_preds_2_file)
