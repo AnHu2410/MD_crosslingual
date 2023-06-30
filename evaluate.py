@@ -1,6 +1,5 @@
 """
-This module contains functions that help the
-classifier to evaluate itself.
+This module contains evaluation functions.
 """
 
 def compute_acc(preds, labels):

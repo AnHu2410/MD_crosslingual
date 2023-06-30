@@ -1,3 +1,6 @@
+"""This file contains the Corpus class that allows
+reading and evaluating files as well as writing them."""
+
 import pandas as pd
 from evaluate import Evaluator
 
