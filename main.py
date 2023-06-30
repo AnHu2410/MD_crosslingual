@@ -27,7 +27,7 @@ parser.add_argument("-w", "--write_preds_2_file", type=str, metavar="", required
 args = parser.parse_args()
 
 
-def md_classification(experiment, file_train, file_test, write_2_file):
+def md_classification(experiment, file_train, file_test, write_preds_2_file):
     file_train = "data/tsvs/" + file_train
     file_test = "data/tsvs/" + file_test
 
@@ -43,13 +43,11 @@ def md_classification(experiment, file_train, file_test, write_2_file):
     if experiment == "zero":
         target_file = "results/mBERT_finetuned"
         corpus_predict.predictions = mBERT_zero(corpus_train, corpus_predict, target_file)
-        # print(corpus_predict.predictions)
 
     elif experiment == "few":
         target_file_1 = "results/mBERT_finetuned"
         mBERT_zero(corpus_train, corpus_predict, target_file_1)
         corpus_predict.predictions = mBERT_few(checkpoint=target_file_1, dataframe_train_2=corpus_predict)
-        # print(corpus_predict.predictions)
 
     elif experiment == "madx":
         target_file = "results/mBERT_finetuned"
@@ -57,15 +55,16 @@ def md_classification(experiment, file_train, file_test, write_2_file):
         corpus_predict.predictions = mBERT_MADX(corpus_train, corpus_predict, target_file, language)
 
     elif experiment == "rf":
-        a = random_forest(corpus_train, corpus_predict, pos, language)
-        print(a)
+        language = "ru"
+        corpus_predict.predictions = random_forest(corpus_train, corpus_predict, language)
 
 
     # evaluate:
+    # print(corpus_predict.predictions)
     print(corpus_predict.evaluate())
 
     # write predictions to file:
-    if write_2_file == "yes":
+    if write_preds_2_file == "yes":
         target_file = "eval_corpus_with_predictions.tsv"
         corpus_predict.write_file_with_preds(target_file)
 

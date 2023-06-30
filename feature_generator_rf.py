@@ -70,7 +70,7 @@ def read_emotion_file(file):
 class FeatureGenerator(object):
     def __init__(self, abstractness, imageability,
                  supersenses_adj, supersenses_verb,
-                 supersenses_noun, emotions, vsm, task):
+                 supersenses_noun, emotions, vsm):
         self.abstr_imag_two = True
         if self.abstr_imag_two:
             self.abstractness = read_abs_imag_file(abstractness, abstractness_two=True)
@@ -83,7 +83,7 @@ class FeatureGenerator(object):
         self.supersenses_noun = read_one_supersense(supersenses_noun)
         self.emotion = read_emotion_file(emotions)
         self.vsm = read_vsm(vsm)
-        self.task = task
+        self.task = "svo"
         self.feature_templates = {}
         self.sentence_features = {}
         self.all_features = {}

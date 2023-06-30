@@ -2,7 +2,7 @@ from train import TrainerMbert, set_seed
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from feature_generator_rf import *
-from helper_functions import replace_foreign_with_en
+from helper_functions_classi import replace_foreign_with_en
 from numpy import *
 
 set_seed(42)
@@ -38,46 +38,34 @@ def mBERT_MADX(dataframe_train, dataframe_predict, target_file, language):
 def random_forest(corpus_train, corpus_predict, language):
     # create new dataframe with English translations
     if language == "ru":
-        corpus_predict = replace_foreign_with_en(corpus_predict.as_dataframe, language)
+        corpus_predict_translated = replace_foreign_with_en(corpus_predict.as_dataframe, language)
+    directory = "data/metaphor/resources/"
+    abstractness = directory + "abstractness/en/abstractness.predictions"
+    imageability = directory + "imageability/en/imageability.predictions"
+    supersenses_nouns = directory + "supersenses/wn_noun.supersneses"
+    supersenses_adj = directory + "supersenses/wn_adj.supersneses"
+    supersenses_verb = directory + "supersenses/wn_verb.supersneses"
+    emotions = "data/NRC-VAD-Lexicon/NRC-VAD-Lexicon.txt"
+    vsm = directory + "VSM/en-svd-de-64.txt"
 
-    abstractness = "../tsvetkov_code/metaphor/resources/abstractness/en/abstractness.predictions"
-    imageability = "../tsvetkov_code/metaphor/resources/imageability/en/imageability.predictions"
-    supersenses_nouns = "../tsvetkov_code/metaphor/resources/supersenses/wn_noun.supersneses"
-    supersenses_adj = "../tsvetkov_code/metaphor/resources/supersenses/wn_adj.supersneses"
-    supersenses_verb = "../tsvetkov_code/metaphor/resources/supersenses/wn_verb.supersneses"
-    emotions = "../data/NRC-VAD-Lexicon.txt"
-    vsm = "../tsvetkov_code/metaphor/resources/VSM/en-svd-de-64.txt"
-    e = FeatureGenerator(abstractness, imageability, supersenses_adj, supersenses_verb, supersenses_nouns, emotions, vsm, task)
+    # generate feature templates from training set:
+    e = FeatureGenerator(abstractness, imageability, supersenses_adj, supersenses_verb,
+                         supersenses_nouns, emotions, vsm)
     e.collect_feature_templates(corpus_train.as_dataframe)
     print("length feature templates: ", len(e.feature_templates))
-    # print(e.feature_templates)
-    features_train, labels_train = e.collect_all_features_and_labels(corpus_train)
 
-    rf = RandomForestClassifier(random_state=random.seed(1234)) # 1234
-    #rf = RandomForestClassifier(n_estimators=10, max_depth=None, random_state=random.seed(297))
+    # train classifier:
+    features_train, labels_train = e.collect_all_features_and_labels(corpus_train.as_dataframe)
+    rf = RandomForestClassifier(random_state=random.seed(1234))
     rf.fit(features_train, labels_train.values.ravel())
 
-    e_new = FeatureGenerator(abstractness, imageability, supersenses_adj, supersenses_verb, supersenses_nouns, emotions, vsm, task)
-    e_new.collect_feature_templates(corpus_train)
-    #print(e_new.feature_templates)
-    features_predict, labels_predict = e_new.collect_all_features_and_labels(corpus_predict)
-    #features_predict.to_csv("../error_analysis/features_la")
+    # predict:
+    e_new = FeatureGenerator(abstractness, imageability, supersenses_adj, supersenses_verb,
+                             supersenses_nouns, emotions, vsm)
+    e_new.collect_feature_templates(corpus_train.as_dataframe)
+    features_predict, labels_predict = e_new.collect_all_features_and_labels(corpus_predict_translated)
     predictions = rf.predict(features_predict)
     preds = predictions.tolist()
-    lab = list(labels_predict[0])
-    sentence = corpus_predict["sentence"]
-    error_analysis = pd.DataFrame()
-    error_analysis["sentence"] = sentence
-    error_analysis["preds"] = preds
-    error_analysis["label"] = lab
-    print(error_analysis)
-    print(error_analysis["sentence"], error_analysis["preds"])
-    error_analysis.to_csv("../error_analysis_chi_2/error_analysis_la_def_basic_vad.txt", sep="\t")
+    corpus_predict.as_dataframe["predictions"] = preds
 
-    evaluate = Evaluate(lab, preds)
-    evaluate.get_scores()
-    return str(evaluate)
-
-    scores = cross_val_score(rf, features, labels.values.ravel(), cv=10)
-    print(scores)
-    return print("%0.2f accuracy with a standard deviation of %0.2f" % (scores.mean(), scores.std()))
+    return corpus_predict.as_dataframe

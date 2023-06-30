@@ -11,6 +11,7 @@ class Corpus(object):
         self.as_dataframe = pd.read_table(self.data_path, sep="\t")
         
     def evaluate(self):
+        print(self.predictions)
         labels = self.predictions["label"].tolist()
         preds = self.predictions["predictions"].tolist()
         evaluator = Evaluator(labels, preds)
