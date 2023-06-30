@@ -11,34 +11,47 @@ def mBERT_zero(dataframe_train, dataframe_predict, target_file):
     trainer_1 =  TrainerMbert(dataframe_train=dataframe_train.as_dataframe,
                               dataframe_test=dataframe_predict.as_dataframe,
                               target_file=target_file)
+
+    #train:
     trainer_1.train()
+
+    #predict:
     predictions = trainer_1.predict()
     return predictions
 
 
 """Checkpoint can either be given or retrieved by mBERT_train()."""
 def mBERT_few(checkpoint, dataframe_train_2):
-    train, test = train_test_split(dataframe_train_2.as_dataframe, test_size=20)
-    trainer_2 = TrainerMbert(dataframe_train=test,
-                             dataframe_test=train, 
+    # get 20 instances from test dataset for second fine-tuning
+    # (use the rest of the test set for evaluation):
+    train, test = train_test_split(dataframe_train_2.as_dataframe, train_size=20)
+    trainer_2 = TrainerMbert(dataframe_train=train,
+                             dataframe_test=test,
                              target_file="results/fine-tuned_twice")
+
+    # replace pretrained mBERT by mBERT fine-tuned on source language material:
     trainer_2.checkpoint = checkpoint
+
+    #train:
     trainer_2.train()
+
+    #predict:
     predictions = trainer_2.predict()
     return predictions
 
 
-def mBERT_MADX(dataframe_train, dataframe_predict, target_file, language):
+def mBERT_MADX(dataframe_train, dataframe_predict, target_file, language, path_task_adapter):
     trainer = TrainerMbert(dataframe_train=dataframe_train.as_dataframe,
                            dataframe_test=dataframe_predict.as_dataframe,
                            target_file=target_file)
-    return trainer.mad_x(language)
+    return trainer.mad_x(language, path_task_adapter)
 
 
-def random_forest(corpus_train, corpus_predict, language):
-    # create new dataframe with English translations
-    if language == "ru":
-        corpus_predict_translated = replace_foreign_with_en(corpus_predict.as_dataframe, language)
+def random_forest(corpus_train, corpus_predict):
+    # create new dataframe with English translations:
+    corpus_predict_translated = replace_foreign_with_en(corpus_predict.as_dataframe)
+
+    # get file-names of resources:
     directory = "data/metaphor/resources/"
     abstractness = directory + "abstractness/en/abstractness.predictions"
     imageability = directory + "imageability/en/imageability.predictions"

@@ -41,7 +41,7 @@ class Translator(object):
             self.translation_dict = clean_translation_dict
 
     def save_dictionary(self):
-        with open("../data/dictionary_ru.csv", "w") as outfile:
+        with open("../data/electronic_dictionary.csv", "w") as outfile:
             for k, v in self.translation_dict.items():
                 entry = k + "\t" + str(v) + "\n"
                 outfile.write(entry)

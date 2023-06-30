@@ -42,17 +42,22 @@ def md_classification(experiment, file_train, file_test, write_preds_2_file):
     # train and predict:
     if experiment == "zero":
         target_file = "results/mBERT_finetuned"
-        corpus_predict.predictions = mBERT_zero(corpus_train, corpus_predict, target_file)
+        corpus_predict.predictions = mBERT_zero(corpus_train,
+                                                corpus_predict, target_file)
 
     elif experiment == "few":
         target_file_1 = "results/mBERT_finetuned"
         mBERT_zero(corpus_train, corpus_predict, target_file_1)
-        corpus_predict.predictions = mBERT_few(checkpoint=target_file_1, dataframe_train_2=corpus_predict)
+        corpus_predict.predictions = mBERT_few(checkpoint=target_file_1,
+                                               dataframe_train_2=corpus_predict)
 
     elif experiment == "madx":
         target_file = "results/mBERT_finetuned"
         language = "ru"
-        corpus_predict.predictions = mBERT_MADX(corpus_train, corpus_predict, target_file, language)
+        path_task_adapter = "/mount/arbeitsdaten20/projekte/semrel/Models/Metaphor_Det_LowRes/" \
+        "adapter-transformers/examples/pytorch/text-classification/adapter"
+        corpus_predict.predictions = mBERT_MADX(corpus_train, corpus_predict,
+                                                target_file, language, path_task_adapter)
 
     elif experiment == "rf":
         language = "ru"
@@ -65,7 +70,7 @@ def md_classification(experiment, file_train, file_test, write_preds_2_file):
 
     # write predictions to file:
     if write_preds_2_file == "yes":
-        target_file = "eval_corpus_with_predictions.tsv"
+        target_file = "data/eval_corpus_with_predictions.tsv"
         corpus_predict.write_file_with_preds(target_file)
 
 

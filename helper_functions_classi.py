@@ -4,9 +4,9 @@ import numpy as np
 import os
 
 
-def replace_foreign_with_en(df, language):
+def replace_foreign_with_en(df):
     dic = {}
-    with open("data/dictionary_ru.csv") as f:
+    with open("data/electronic_dictionary.csv") as f:
         dictionary = f.readlines()
         for line in dictionary:
             line_split = line.split("\t")

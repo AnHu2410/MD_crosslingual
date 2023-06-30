@@ -74,7 +74,7 @@ class TrainerMbert(object):
         self.dataframe_test["predictions"] = preds
         return self.dataframe_test
 
-    def mad_x(self, language):
+    def mad_x(self, language, path_task_adapter):
         # preprocess evaluation data:
         tokenized_dataset_target = self.preprocess_data(self.input_test)
 
@@ -90,8 +90,7 @@ class TrainerMbert(object):
             print("Choose language according to language adapters available at AdapterHub.")
 
         # load pretrained task adapter for model:
-        adapter_path = "/mount/arbeitsdaten20/projekte/semrel/Models/Metaphor_Det_LowRes/" \
-                       "adapter-transformers/examples/pytorch/text-classification/adapter"
+        adapter_path = path_task_adapter
         adapter_name = model.load_adapter(adapter_path)
 
         # combine pretrained task adapter with pretrained language
