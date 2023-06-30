@@ -26,3 +26,8 @@ This repository contains the code for using English as a source language and Rus
 - predict_file (-p): file containing data used for evaluating the models in the target language
 
 - write_preds_2_file (-w): If 'yes' is entered for this optional argument, predictions are added to the predict file and this updated file is written into the data directory.
+
+## Example:
+After finishing the preparation, use the command ```python main.py -x rf -t test_dataset.tsv -p training_dataset.tsv``` to
+- train a metaphor detection model on English test dataset,
+- and make predictions on Russian test dataset using the random forest classifier with conceptual features.
