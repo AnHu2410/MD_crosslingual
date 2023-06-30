@@ -62,7 +62,7 @@ def md_classification(experiment, file_train, file_test, write_preds_2_file):
 
     elif experiment == "rf":
         language = "ru"
-        corpus_predict.predictions = random_forest(corpus_train, corpus_predict, language)
+        corpus_predict.predictions = random_forest(corpus_train, corpus_predict)
 
 
     # evaluate:
