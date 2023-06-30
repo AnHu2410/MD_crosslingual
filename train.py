@@ -115,7 +115,7 @@ class TrainerMbert(object):
                                  )
         ad_trainer = AdapterTrainer(model=model, args=args, tokenizer=self.tokenizer)
         predictions = ad_trainer.predict(tokenized_dataset_target)
-        preds = np.argmax(predictions.predictions, axis=-1, keepdims=True).tolist()
+        preds = np.argmax(predictions.predictions, axis=-1, keepdims=True)
         print(preds)
         self.dataframe_test["predictions"] = preds
         return self.dataframe_test
