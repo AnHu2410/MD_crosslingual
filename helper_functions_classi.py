@@ -1,7 +1,8 @@
+"""This file contains functions that are needed by the different classifiers."""
+
 import pandas as pd
 import json
 import numpy as np
-import os
 
 
 def replace_foreign_with_en(df):

@@ -66,6 +66,9 @@ class Preprocessor(object):
         self.preprocess("ru")
         save_frame_2_target_file(self.frame_tsvetkov_ru, "../data/tsvs/test_dataset.tsv")
 
+def preprocess():
+    preprocessor = Preprocessor()
+    preprocessor.preprocess_and_save()
 
-preprocessor = Preprocessor()
-preprocessor.preprocess_and_save()
+if __name__ == '__main__':
+    preprocess()

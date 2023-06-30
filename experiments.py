@@ -1,3 +1,8 @@
+"""This file contains the experiments zero-shot classification
+ with mBERT, few-shot classification with mBERT, MAD-X and random
+ forest classification."""
+
+
 from train import TrainerMbert, set_seed
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
@@ -5,7 +10,9 @@ from feature_generator_rf import *
 from helper_functions_classi import replace_foreign_with_en
 from numpy import *
 
+
 set_seed(42)
+
 
 def mBERT_zero(dataframe_train, dataframe_predict, target_file):
     trainer_1 =  TrainerMbert(dataframe_train=dataframe_train.as_dataframe,

@@ -23,7 +23,8 @@ parser.add_argument("-p", "--predict_file", type=str, metavar="", required=True,
 parser.add_argument("-w", "--write_preds_2_file", type=str, metavar="", required=False, help="Type 'yes' if "
                                                                                              "predictions "
                                                                                              "should be written "
-                                                                                             "to file.")
+                                                                                             "to file in data "
+                                                                                             "directory.")
 args = parser.parse_args()
 
 

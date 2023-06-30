@@ -1,3 +1,5 @@
+"""This file contains the neural trainer functions."""
+
 from datasets import Dataset
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from transformers import DataCollatorWithPadding
