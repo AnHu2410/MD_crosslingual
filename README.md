@@ -29,6 +29,6 @@ This repository contains the code for using English as a source language and Rus
 
 ## Example:
 After finishing the preparation, use the command ```python main.py -x rf -t test_dataset.tsv -p training_dataset.tsv``` to
-- train a metaphor detection model on English test dataset,
+- train a metaphor detection model on English training dataset,
 - and make predictions on Russian test dataset using the random forest classifier with conceptual features.
 The classifier can be changed by substituting *rf* by *zero*, *few*, or *madx*.
