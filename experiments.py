@@ -57,6 +57,7 @@ def mBERT_MADX(dataframe_train, dataframe_predict, target_file, language, path_t
 def random_forest(corpus_train, corpus_predict, language):
     # create new dataframe with English translations:
     corpus_predict_translated = replace_foreign_with_en(corpus_predict.as_dataframe, language)
+    print(corpus_predict_translated)
 
     # get file-names of resources:
     directory = "data/metaphor/resources/"
