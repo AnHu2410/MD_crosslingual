@@ -11,11 +11,8 @@ from transformers import set_seed
 import numpy as np
 
 
-set_seed(42)
-
-
 class TrainerMbert(object):
-    def __init__(self, dataframe_train, dataframe_test, target_file):
+    def __init__(self, dataframe_train, dataframe_test, target_file, seed):
         self.checkpoint = "bert-base-multilingual-cased"
         self.dataframe_train = dataframe_train
         self.dataframe_test = dataframe_test
@@ -24,11 +21,14 @@ class TrainerMbert(object):
         self.tokenizer = AutoTokenizer.from_pretrained(self.checkpoint)
         self.target = target_file
         self.training_args = TrainingArguments(output_dir="results")
+        self.seed = seed
 
     def preprocess_function(self, examples):
         return self.tokenizer(examples["text_a"], examples["text_b"], padding=True)
 
     def preprocess_data(self, df):
+        set_seed(self.seed)
+
         # rename columns so they are recognizable for BERT:
         df.columns = ["text_a", "text_b", "labels"]
 
@@ -41,6 +41,8 @@ class TrainerMbert(object):
         return tokenized_dataset
 
     def train(self):
+        set_seed(self.seed)
+
         # preprocess training data:
         tokenized_dataset = self.preprocess_data(self.input_train)
         print(tokenized_dataset)
@@ -61,6 +63,8 @@ class TrainerMbert(object):
         trainer.save_model(self.target)
 
     def predict(self):
+        set_seed(self.seed)
+
         # preprocess evaluation data:
         tokenized_dataset = self.preprocess_data(self.input_test)
 
@@ -92,6 +96,8 @@ class TrainerMbert(object):
             model.load_adapter("de/wiki@ukp", config=lang_adapter_config)
         elif language == "la":
             model.load_adapter("la/wiki@ukp", config=lang_adapter_config)
+        else:
+            print("***Attention: language for MAD-X must be specified in train.py.***")
 
         # load pretrained task adapter for model:
         adapter_path = path_task_adapter

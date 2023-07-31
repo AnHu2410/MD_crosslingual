@@ -27,10 +27,12 @@ parser.add_argument("-w", "--write_preds_2_file", type=str, metavar="", required
                                                                                              "should be written "
                                                                                              "to file in data "
                                                                                              "directory.")
+parser.add_argument("-s", "--seed", type=int, metavar="", required=False, default=42, help="Type in seed to be used.")
+
 args = parser.parse_args()
 
 
-def md_classification(experiment, file_train, file_test, language, write_preds_2_file):
+def md_classification(experiment, file_train, file_test, language, write_preds_2_file, seed):
     file_train = "data/tsvs/" + file_train
     file_test = "data/tsvs/" + file_test
 
@@ -75,4 +77,5 @@ def md_classification(experiment, file_train, file_test, language, write_preds_2
 
 
 if __name__ == '__main__':
-    md_classification(args.experiment, args.train_file, args.predict_file, args.language, args.write_preds_2_file)
+    md_classification(args.experiment, args.train_file, args.predict_file, args.language,
+                      args.write_preds_2_file, args.seed)
