@@ -69,9 +69,6 @@ def md_classification(experiment, file_train, file_test, language):
         results.append(corpus_predict.evaluate())
 
     print(results)
-    print(type(results[0]))
-    return
-
     stand_dev = stat.stdev(results)
     mean = sum(results)/len(results)
     print(stand_dev, mean)
