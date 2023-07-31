@@ -9,10 +9,9 @@ This repository contains the code for using English as a source language and Rus
 1. Install all libraries from *requirements.txt*.
 2. Download the English basic training dataset and Russian test data from Tsvetkov et al. (2014) by moving the downloaded zip-file into the existing directory *data*: https://homes.cs.washington.edu/~yuliats/metaphor/datasets.zip. Unzip, so that the directory *datasets* contains the training and test data: ```unzip datasets.zip -d datasets```
 3. Change to the directory *Preprocessing* and run ```PYTHON PREPROCESS.PY```. By doing this, the basic training dataset and the Russian test dataset are preprocessed and saved as tsv-files in the directory *data/tsvs*. If other files than the Russian dataset should be used, they need to be saved in this directory and have the same format as the preprocessed Russian dataset.
-4. Create a dictionary with one-to-many translations for all lemmata in the Russian test dataset by running ```python create_dictionary.py``` in the preprocess directory. If a different language is used, a translation dict of this format has to be put in the data directory. The dictionary is needed for the random forest classifier.
-5. Clone github repository from Tsvetkov (2014) to data directory in order to use the abstractness, imageability, vsm, and supersense scores. The repository is found here: https://github.com/ytsvetko/metaphor. Unzip VSM file under *metaphor/resources/VSM*: ```tar -xvf en-svd-de-64.txt.tar.gz```
-6. Download emotion scores from Mohammad (2011) into data directory from: [https://saifmohammad.com/WebPages/nrc-vad.html](https://saifmohammad.com/WebDocs/Lexicons/NRC-VAD-Lexicon.zip). Unzip directory: ```unzip NRC-VAD-Lexicon.zip```.
-7. The task adapter for MAD-X is included in this repository. For information on how it was generated, see the step by step explanation on how to train a task adapter: https://docs.adapterhub.ml/training.html.
+4. Clone github repository from Tsvetkov (2014) to data directory in order to use the abstractness, imageability, vsm, and supersense scores. The repository is found here: https://github.com/ytsvetko/metaphor. Unzip VSM file under *metaphor/resources/VSM*: ```tar -xvf en-svd-de-64.txt.tar.gz```
+5. Download emotion scores from Mohammad (2011) into data directory from: [https://saifmohammad.com/WebPages/nrc-vad.html](https://saifmohammad.com/WebDocs/Lexicons/NRC-VAD-Lexicon.zip). Unzip directory: ```unzip NRC-VAD-Lexicon.zip```.
+6. The task adapter for MAD-X is included in this repository. For information on how it was generated, see the step by step explanation on how to train a task adapter: https://docs.adapterhub.ml/training.html.
 
 
 ## Classification:

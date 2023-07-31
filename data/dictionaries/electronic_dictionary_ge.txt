@@ -1,0 +1,1232 @@
+3	du	['Did', 'Are', 'Do', 'why', 'mean']
+5	Gegner	['opponent', 'opponents', 'adversary', 'adversaries', 'worthy']
+9	ich	['thought', 'am', 'never', 'Yeah', 'need']
+10	Umschlag	['envelope', 'package', 'cover', 'letter', 'address']
+11	Vorsatz	['resolution', 'premeditation', 'intent', 'premeditated', 'intention']
+12	Jungfernhäutchen	
+17	Nummer	['number', 'Number', 'act', 'phone', 'gave']
+22	Meeresboden	['ocean', 'sea', 'bottom', 'seabed', 'sink']
+24	Graben	['ditch', 'trench', 'moat', 'digging', 'Dig']
+25	Last	['burden', 'load', 'shoulders', 'weight', 'Last']
+26	Ende	['End', 'ending', 'ends', 'finish', 'story']
+27	Teil	['Part', 'piece', 'part', 'plan', 'family']
+28	sie	['their', 'said', 'She', 'They', 'then']
+29	alle	['everybody', 'everyone', 'every', 'same', 'All']
+30	Schussrohr	
+32	Zecke	
+33	Westufer	
+36	Prothese	
+37	Berg	['mountain', 'Berg', 'Mountain', 'hill', 'Mount']
+40	Stress	['stress', 'Stress', 'stressed', 'busy', 'lately']
+41	Lungenfunktionswert	
+42	Nagel	['nail', 'Nail', 'nailed', 'broke', 'hammer']
+43	Wert	['value', 'worth', 'dollars', 'its', 'million']
+44	Blatt	['leaf', 'tide', 'sheet', 'blank', 'page']
+46	Ei	['egg', 'Egg', 'nut', 'chicken', 'eggs']
+47	Mann	['Man', 'husband', 'young', 'woman', 'old']
+48	Leistung	['performance', 'achievement', 'accomplishment', 'feat', 'effort']
+49	Sorge	['concern', 'worries', 'worried', 'fine', 'care']
+50	Anspannung	['tension', 'strain', 'tensions', 'anxiety', 'stress']
+51	Stärke	['strength', 'forte', 'Strength', 'suit', 'courage']
+57	BR	
+58	Musik	['music', 'Music', 'playing', 'listen', 'play']
+59	der	['world', 'guy', 'This', 'only', 'man']
+66	Managerin	['manager', 'manage', 'agent', 'Actually', 'hotel']
+70	Herr	['gentleman', 'lord', 'Herr', 'Master', 'master']
+75	BioWare	
+76	Reiseleiter	['guide', 'tour', 'cruise', 'director', 'Tour']
+85	Frau	['Mrs', 'lady', 'wife', 'woman', 'girl']
+86	Jürgens	['Jürgens', 'Jurgens', 'erected', 'stationery', 'demolished']
+89	wir	['Let', 'let', 'find', 'should', 'then']
+90	Butz	
+102	Oliver	['Oliver', 'Queen', 'Twist', 'name', '--']
+106	Quentin Tarantino	
+110	Leute	['Guys', 'folks', 'People', 'men', 'guys']
+112	Wirtschaftskrise	['Depression', 'economy', 'economic', 'depression', 'recession']
+113	Lage	['capable', 'situation', 'position', 'able', 'understand']
+119	Feld	['field', 'fields', 'open', 'In', 'through']
+120	Trägheit	['inertia', 'sloth', 'laziness', 'Lethargy', 'idleness']
+121	Wasser	['water', 'Water', 'underwater', 'waters', 'cold']
+126	Gefühl	['feels', 'feeling', 'sense', 'felt', 'bad']
+129	Frust	['frustration', 'frustrated', 'music', 'feeling', 'taking']
+131	man	['When', 'things', 'thing', 'How', 'never']
+135	Stolz	['pride', 'Pride', 'Proud', 'proudly', 'joy']
+139	Blut	['blood', 'Blood', 'flesh', 'lost', 'hands']
+141	Unmut	['displeasure', 'resentment', 'discontent', 'Genghis', 'express']
+142	Gewohnheit	['habit', 'Habit', 'habits', 'custom', 'Force']
+143	Bedarf	['demand', 'supply', 'fill', 'necessary', 'needed']
+144	einige	['several', 'couple', 'questions', 'few', 'days']
+145	Bewilligungsstopp	
+146	Ärger	['trouble', 'Trouble', 'cause', 'enough', 'lot']
+148	Sehnsucht	['longing', 'yearning', 'Longing', 'desire', 'Desire']
+149	Wut	['anger', 'rage', 'Anger', 'fury', 'angry']
+150	Reformdruck	
+151	Aggression	['aggression', 'hostility', 'aggressive', 'form', 'stand']
+153	Feuer	['Fire', 'fires', 'Cease', 'fire', 'burn']
+155	flamme	
+156	Kerzenschimmer	['lik', 'dim', 'candle', 'e', 'Nothing']
+158	Vergangenes	['bygones', 'Past', 'reminded', 'sight', 'Last']
+159	Hoffnung	['Hope', 'hopes', 'hoping', 'hope', 'still']
+160	Kamin	['fireplace', 'chimney', 'mantel', 'front', 'sit']
+164	Flamme	['flame', 'moth', 'Burn', 'torch', 'spark']
+170	Auflehnung	['defiance', 'rebellion', 'rebel', 'agitating', 'impatience']
+171	Hass	['hatred', 'Hate', 'Hatred', 'hating', 'hate']
+174	Feindseligkeit	['hostility', 'animosity', 'resentment', 'antagonism', 'hostile']
+176	Papier	['paper', 'Paper', 'scissors', 'ink', 'papers']
+178	Dach	['roof', 'rooftop', 'top', 'building', 'same']
+179	er	['where', 'because', 'said', 'then', 'say']
+180	Scheiterhaufen	['stake', 'pyre', 'bonfire', 'funeral', 'Burn']
+181	Bosheit	['malice', 'spite', 'wickedness', 'meanness', 'nastiness']
+184	Eifersucht	['jealousy', 'Jealousy', 'jealous', 'rage', 'killed']
+185	Krieg	['war', 'War', 'fight', 'win', 'against']
+187	Wildheit	['wildness', 'ferocity', 'savagery', 'fierceness', 'Ophelia']
+189	Verzweiflung	['despair', 'desperation', 'Despair', 'desperate', 'misery']
+190	Konflikt	['conflict', 'Conflict', 'resolve', 'law', 'war']
+191	Mitleid	['pity', 'sympathy', 'compassion', 'Pity', 'mercy']
+192	Pessimismus	['Pessimism', 'pessimistic', 'pessimist', 'optimism', 'hopeless']
+196	Schmid	
+197	Ton	['tone', 'Sound', 'clay', 'audio', 'note']
+199	Ska	
+200	Freund	['boyfriend', 'mine', 'friends', 'friend', 'old']
+202	Melodie	['tune', 'melody', 'theme', 'played', 'song']
+203	Musikrichtung	
+206	Haie	['sharks', 'Sharks', 'shark', 'feed', 'sea']
+207	Seele	['soul', 'souls', 'spirit', 'mind', 'heart']
+208	US-Truppe	
+210	Aluminium	['aluminum', 'aluminium', 'barium', 'siding', 'titanium']
+211	Fleck	['stain', 'bruise', 'spot', 'mark', 'Stay']
+212	Kite-Surfer	
+214	Barbar	['barbarian', 'Barbarian', 'savage', 'Savage', 'civilized']
+215	Zeit	['Time', 'lately', 'lot', 'long', 'much']
+216	Schattenläufer	
+217	Gemeingefühl	
+218	Bösartiges	
+219	Bild	['image', 'picture', 'frame', 'painting', 'photo']
+220	Masse	['mass', 'masses', 'Mass', 'critical', 'crowd']
+221	Biologe	['biologist', 'Biologist', 'individual', 'linguistics', 'acclaimed']
+223	sinnliche	['sensual', 'sensuous', 'voluptuous', 'sensory', 'sultry']
+224	Sicherheitsbehörde	
+226	Vergleichsberechnung	
+227	Betriebsanleitung	
+234	Spieler	['players', 'player', 'gambler', 'gamblers', 'football']
+239	Kinder	['Children', 'Kids', 'children', 'kids', 'wife']
+242	Winterlied	
+243	Neunte	['Ninth', '9th', 'ninth', '31st', 'Freshman']
+244	Marschmusik	['march', 'marching', 'March', 'marches', 'Marching']
+248	Schrei	['scream', 'yell', 'Scream', 'shout', 'Yell']
+249	Geräusch	['noise', 'sound', 'strange', 'sounds', 'making']
+251	lachen	['laugh', 'laughing', 'laughs', 'smile', 'funny']
+252	Kehle	['throat', 'slit', 'throats', 'rip', 'ear']
+253	Ambivalenz	['ambivalence', 'Ambivalence', 'withdrawals', 'focal', 'engenders']
+255	Mythos	['myth', 'urban', 'mythical', 'mythology', 'legend']
+256	Nutzwirkung-Bringung	
+257	Frage	['Question', 'asking', 'question', 'asked', 'matter']
+259	Welt	['end', 'most', 'world', 'whole', 'around']
+272	Monsieur	['Monsieur', 'monsieur', 'M', 'Sir', 'de']
+275	Caesar	['Caesar', 'Julius', 'Julio', 'César', 'Cesar']
+280	Kobold	['goblin', 'imp', 'elf', 'gremlin', 'damned']
+285	Katharina	['Catherine', 'Katherine', 'Blum', 'Aragon', 'Saint']
+290	Seminar	['seminar', 'seminary', 'sexual', 'class', 'teach']
+301	bekannter	['well-known', 'prominent', 'associate', 'famous', 'popular']
+304	Kommune	['commune', 'Commune', 'municipality', 'telepathic', 'patterns']
+306	Volkswagen	['Volkswagen', 'Beetle', 'radiator', 'Mercedes', 'Schlüter']
+311	Händler	['merchant', 'trader', 'dealer', 'traders', 'merchants']
+313	BND	
+315	böblingen	
+325	Politik	['politics', 'policy', 'Politics', 'policies', 'political']
+338	Erlebnis	['experience', 'traumatic', 'event', 'memory', 'moment']
+341	Tag	['afternoon', 'Hello', 'Every', 'Have', 'today']
+343	Stimmungslied	
+344	Wort	['word', 'words', 'saying', 'use', 'another']
+346	etwas	['bit', 'else', 'anything', 'There', 'thing']
+347	Romantik	['romance', 'Romance', 'romantic', 'Romantic', 'romanticism']
+349	Ken	['Ken', 'ken', 'Force', 'Air', 'This']
+350	Grausamkeit	['cruelty', 'savagery', 'Cruelty', 'ferocity', 'distress']
+351	Text	['text', 'lines', 'lyrics', 'script', 'words']
+352	viele	['lots', 'many', 'men', 'lot', 'A']
+353	Stahlsaite	
+357	Höhe	['altitude', 'height', 'Altitude', 'heights', 'amount']
+360	Griemens	
+365	Wache	['guard', 'Guard', 'Guards', 'sentry', 'precinct']
+366	Lebenskonzept	
+367	es	['How', 'make', 'way', 'didn', 'say']
+372	Geschäft	['Business', 'shop', 'store', 'business', 'deal']
+374	Schmerzsymptomatik	
+376	Logo	
+380	Arbeit	['Nice', 'working', 'hard', 'job', 'Good']
+381	Stimme	['voice', 'Voice', 'vote', 'sound', 'His']
+383	Österreicher	['Austrians', 'Austrian', 'Milan', 'Countess', 'Swiss']
+385	Gesicht	['face', 'seen', 'saw', 'Your', 'Look']
+387	Gastgeber	['host', 'hosts', 'gracious', 'generous', 'guests']
+389	Zentrale	['Dispatch', 'Central', 'headquarters', 'Control', 'dispatch']
+390	SVW	
+393	Ort	['location', 'spot', 'safe', 'wrong', 'place']
+394	Personal	['staff', 'personnel', 'trainer', 'manpower', 'servants']
+395	Fernsehkanal	
+409	Verkäufer	['salesman', 'seller', 'clerk', 'salesmen', 'sales']
+420	Dokumentation	['documentary', 'Records', 'record', 'watching', 'film']
+421	Idee	['ideas', 'Any', 'such', 'wasn', 'Good']
+423	Pfirsiche 	
+424	Mannschaft	['crew', 'game', 'team', 'ship', 'whole']
+425	Planungen	
+427	Carbon	['Carbon', 'carbon', 'Creek', 'Canyon', 'Copenhagen']
+428	Hagebutte	
+429	Methode	['method', 'methods', 'technique', 'approach', 'madness']
+430	Vista	['Vista', 'vista', 'Mar', 'Chula', '7500']
+431	Transmitter	['transmitter', 'transmitters', 'transmitting', 'underground', 'radio']
+433	Technologie	
+434	Frucht	['fruit', 'Blessed', 'womb', 'forbidden', 'loins']
+435	Wein	['wine', 'Wine', 'More', 'drinking', 'food']
+436	Baby	['baby', 'Baby', 'babe', 'having', 'My']
+438	Mädel	['gal', 'Girl', 'chick', 'girls', 'girl']
+440	Pflanze	['plant', 'Plant', 'vegetable', 'flower', 'animal']
+443	Niere	
+446	Roth	
+450	Karl-Theodor	
+458	Autor	['writer', 'author', 'novelist', 'Author', 'wrote']
+460	Guttenberg	['Guttenberg', 'bullfighters', 'Tilly', 'attire', 'Short']
+463	Kind	['child', 'kid', 'baby', 'mother', 'girl']
+464	Osman	['Ali', 'Bora', 'colours', 'Royal', 'service']
+476	Wohnanhänger	
+478	Gestein	['rock', 'rocks', 'molten', 'solid', 'stone']
+480	Heck	['tail', 'stern', 'Heck', 'rear', 'aft']
+481	Karosserie	['chassis', 'dents', 'frame', 'windshield', 'suspension']
+483	Auto	['driving', 'drive', 'car', 'Get', 'new']
+484	Krankheit	['disease', 'illness', 'sickness', 'condition', 'cure']
+486	Element	['element', 'elements', 'yellow', 'missing', 'surprise']
+487	Lichtquelle	['source', 'light', 'deep-sea', 'pinhole', 'optical']
+488	Einsamkeit	['loneliness', 'solitude', 'Loneliness', 'Solitude', 'Fortress']
+489	Schmerz	['pain', 'Pain', 'grief', 'suffering', 'caused']
+493	Turm	['tower', 'Tower', 'rook', 'White', 'locked']
+494	Anhänger	['followers', 'pendant', 'trailer', 'supporters', 'follower']
+495	Steg	['dock', 'jetty', 'pier', 'catwalk', 'wharf']
+496	Schiffrumpf	
+498	Bodenwelle	
+504	Intendanz	
+507	Dorfbewohner	['villagers', 'villager', 'Villagers', 'village', '[']
+526	TMD	
+527	ihr	['guys', 'their', 'doing', 'two', 'She']
+539	Jelzin	
+547	Politiker	['politicians', 'politician', 'Politicians', 'political', 'politics']
+548	SPDler	
+552	Tier	['animal', 'Animal', 'beast', 'creature', 'wild']
+555	Laura	['Laura', 'Palmer', 'Steele', 'Holt', 'killed']
+558	Versicherung	['insurance', 'Insurance', 'policy', 'cover', 'company']
+561	Zeitung	['newspaper', 'paper', 'newspapers', 'papers', 'reading']
+563	Land	['Land', 'land', 'country', 'In', 'own']
+564	Grossunternehmer	
+565	Lied	['song', 'Song', 'tune', 'sang', 'Sing']
+568	Dienst	['duty', 'service', 'active', 'reporting', 'serve']
+569	Behörde	['agency', 'Bureau', 'bureau', 'authorities', 'authority']
+570	König	['king', 'King', 'England', 'queen', 'Majesty']
+571	Amazon	
+572	Globalisierung	
+573	Verein	['association', 'club', 'Association', 'organization', 'outfit']
+574	Hering	['herring', 'pickled', 'Herring', 'kipper', 'Bismarck']
+575	Kasse	['register', 'checkout', 'cashier', 'counter', 'cash']
+576	Raumfahrtindustrie	
+587	Stunde	['An', 'within', 'less', 'One', 'hour']
+591	Feder	['feather', 'pen', 'quill', 'mightier', 'spring']
+595	Hebelarm	
+597	Abschnitt	['section', 'Section', 'paragraph', 'sector', 'passage']
+601	Russe	['Russian', 'russian', 'Russia', 'Russians', 'fucking']
+604	Gesellschaft	['society', 'Society', 'company', 'join', 'keep']
+605	Bischof	['Bishop', 'bishop', 'Fisher', 'Bruce', 'Grace']
+606	Fiesco	
+609	Täter	['perp', 'perpetrator', 'culprit', 'perpetrators', 'suspect']
+610	Gruppe	['group', 'Group', 'bunch', 'small', 'party']
+616	Klassikvirtuosen	
+618	Abhängigkeit	['addiction', 'dependence', 'telepathic', 'depending', '/']
+623	Koffer	['suitcase', 'suitcases', 'briefcase', 'trunk', 'luggage']
+625	Jährlingsbock	
+627	unbekannte	['unknown', 'unidentified', 'boldly', 'explore', 'worlds']
+651	Schlamm	['mud', 'sludge', 'Mud', 'muddy', 'covered']
+652	Sorgenfalten	
+653	Falte	['wrinkle', 'crease', 'fold', 'Fold', 'pants.']
+654	Moment	['Hang', 'Hold', 'moment', 'hold', 'Right']
+656	Karre	['heap', 'cart', 'wheels', 'ride', 'truck']
+658	Samsung	
+659	Rodeo	['rodeo', 'Rodeo', 'Drive', 'rodeos', 'clowns']
+666	Arbeitssuchende	
+667	Generation	['generation', 'generations', 'passed', 'entire', 'third']
+668	Vieh	['cattle', 'livestock', 'Cattle', 'stock', 'beast']
+670	Nachwuchs	['offspring', 'babies', 'expecting', 'young', 'baby']
+671	Mensch	['Man', 'human', 'person', 'most', 'bad']
+673	Menschenmenge	['crowd', 'crowds', 'Crowd', 'cheers', 'mob']
+674	Seilschaft	
+675	Tausend	['thousand', 'Thousand', '1,000', 'thousands', 'grand']
+676	Bürger	['citizens', 'citizen', 'Citizens', 'Citizen', 'public']
+677	Supermarkt	['supermarket', 'grocery', 'market', 'store', 'buy']
+678	dieser	['those', 'night', 'these', 'world', 'thing']
+679	Region	['region', 'local', 'area', 'entire', 'same']
+680	Menge	['crowd', 'amount', 'lots', 'plenty', 'stuff']
+681	anderer	['disagree', 'Another', 'others', 'different', 'somebody']
+682	Fluidum	['radiate', 'aura', 'fluid', 'wisdom', 'mass']
+688	Revisionsamt	
+698	Tastenkombination	
+704	Bankier	['banker', 'Banker', 'broker', 'Brussels', 'bankers']
+712	Abwehr	['defense', 'defenses', 'Defense', 'defence', 'defences']
+716	Amt	['Office', 'Department', 'public', 'position', 'office']
+719	Wolf	['wolf', 'Wolf', 'lone', 'Bad', 'sheep']
+720	Hund	['dog', 'Dog', 'My', 'A', 'little']
+721	Moritz	['Moritz', 'Palm', 'Herr', 'Saint', 'winter']
+722	Gretchen	['Gretchen', 'gretchen', 'Self', 'Morgan', '♪']
+724	Backenzahn	['molar', 'tooth', 'upper', 'discomfort', 'Marilyn']
+725	Steuerzahler	['taxpayers', 'taxpayer', 'Taxpayers', 'payer', 'tax-payers']
+726	Verachtung	['contempt', 'disdain', 'scorn', 'Contempt', 'hatred']
+727	Liebe	['Love', 'Dear', 'dear', '♪', 'true']
+729	Wiederstand	['resistance', 'Zionist', 'offending', 'criticized', 'Oakland']
+730	Religionsstreitigkeit	
+732	Erinnerung	['memory', 'reminder', 'remembered', 'memories', 'mind']
+733	Wunderkerze	['sparkler', 'torch', '24.6', 'incendiary', 'Rolling']
+734	Licht	['light', 'lights', 'Lights', 'Light', 'Turn']
+739	Hälfte	['half', 'Half', 'halfway', 'money', 'give']
+741	Span	['sliver', 'bridge', 'jests', 'cocker', 'Griswold']
+748	Mutter	['Mother', 'mum', 'Mom', 'mom', 'died']
+750	itunes	
+754	Relais	['relays', 'relay', 'faulty', 'fused', 'communications']
+776	Film	['movie', 'film', 'movies', 'picture', 'watch']
+779	Zuschauer	['viewers', 'audience', 'spectators', 'spectator', 'viewer']
+791	Woche	['Last', 'week', 'days', 'ago', 'three']
+803	Fernsehen	['TV', 'television', 'Television', 'telly', 'tv']
+809	Aussteiger	
+815	einer	['week', 'hour', 'woman', 'ago', 'another']
+829	Armstrong	['Armstrong', 'Neil', 'Lance', 'Buzz', 'Daisy']
+832	Mob	['mob', 'Mob', 'mobs', 'crowd', 'angry']
+833	Justiz	['justice', 'obstruction', 'Justice', 'obstructing', 'wheels']
+834	Männchen	['male', 'males', 'female', 'females', 'MALE']
+839	Andorfer	
+840	Sponsor	['sponsor', 'sponsors', 'backer', 'First', 'word']
+841	Harddisk	
+844	Schweiz	['Switzerland', 'Swiss', 'account', 'bank', '..']
+850	Gebirgskette	
+852	Gewölbe	['vault', 'vaults', 'arches', 'replica', 'firmament']
+854	Interesse	['interest', 'interests', 'interested', 'Not', 'best']
+855	Wachstum	['growth', 'prosperity', 'stunt', 'economy', 'growing']
+856	Kirchenobere	
+858	Tempo	['speed', 'pace', 'tempo', 'Tempo', 'Speed']
+860	Engagement	['commitment', 'dedication', 'engagement', 'gig', 'requires']
+866	Trend	['trend', 'Trent', 'fad', 'reverse', 'latest']
+868	Spiel	['Game', 'Play', 'game', 'stake', 'line']
+869	Zusammenhang	['context', 'correlation', 'related', 'linked', 'connection']
+870	Wölbung	['bowing', 'bulge', 'arch', 'murmur', 'inclination']
+873	Einstieg	['entry', 'boarding', 'Gate', 'entrance', 'preparing']
+875	Ausraster	
+876	Hinterkopf	['occipital', 'trauma', 'skull', 'blow', 'shoot']
+882	Jubel	['cheering', 'Cheering', 'cheers', 'applause', 'Cheers']
+883	Blätter	['leaves', 'Leaves', 'sheets', 'leaf', 'branches']
+885	Partie	['match', 'chess', 'bridge', 'round', 'catch']
+886	Hufe	['hooves', 'hoof', 'cloven', 'hoofs', 'Move']
+888	Begeisterung	['enthusiasm', 'excitement', 'enthusiastic', 'excited', 'passion']
+889	Hornhaut	['cornea', 'calluses', 'callous', 'transplant', 'scratched']
+892	Rückgang	
+894	Nägel	['nails', 'Nails', 'fingernails', 'nail', 'paint']
+895	Schwanz	['dick', 'cock', 'tail', 'prick', 'suck']
+900	Pellkartoffel	
+909	Telefonat	['overheard', 'telephone', 'conversation', 'talked', 'phone']
+922	Theater	['theater', 'theatre', 'Theater', 'Theatre', 'fuss']
+930	Monster	['monster', 'monsters', 'Monster', 'Monsters', 'kind']
+932	Motor	['engine', 'motor', 'Motor', 'Engine', 'ENGINE']
+933	Wagen	['wagon', 'cart', 'vehicle', 'van', 'cars']
+935	Flummi	
+936	jemand	['Anybody', 'Anyone', 'Somebody', 'Someone', 'anybody']
+941	Adobe	
+953	Lyrik	['poetry', 'Poetry', '17th', 'lyrical', 'Understanding']
+970	Sprachgebrauch	['parlance', 'language', 'PARLANCE', 'lingo', 'precise']
+976	Belag	['topping', 'plaque', 'coating', 'lining', 'plaques']
+980	Anrede	['title', 'address', 'titles', 'salutation', 'addressed']
+981	Ablauf	['timeline', 'procedure', 'deadline', 'sequence', 'routine']
+982	Bewegungsmuster	
+983	Angewohnheit	['habit', 'nasty', 'filthy', 'habits', 'disgusting']
+988	Azubine	
+997	Tänzer	['dancer', 'dancers', 'Dancers', 'Dancer', 'dancing']
+1002	Kerl	['fella', 'fellow', 'dude', 'nice', 'Who']
+1005	Mars	['Mars', 'Martian', 'Venus', 'Eddie', 'Earth']
+1014	wer	['whoever', 'knows', 'idea', 'killed', 'Who']
+1016	Dampfdüse	
+1020	Berglöwe	
+1026	Farbe	['color', 'paint', 'colour', 'colors', 'blue']
+1028	Buchrücken	
+1031	Werfergeschoss	
+1044	Tom	['Tom', 'tom', 'This', 'Hey', 'has']
+1047	Geschrei	['screaming', 'yelling', 'shouting', 'Screaming', 'cries']
+1049	Joschi	
+1050	Ortsansässige	
+1051	Klon	
+1052	Bankräuber	['robber', 'bank', 'robbers', 'Bank', 'banks']
+1053	Sklave	['slave', 'Slave', 'slaves', 'servant', 'master']
+1068	Kunstbanause	
+1095	Mader	
+1097	Vampire	['vampires', 'Vampires', 'Vampire', 'werewolves', 'vampire']
+1106	Korruption	['corruption', 'Corruption', 'bribery', 'greed', 'corrupt']
+1107	Mücke	['mosquito', 'gnat', 'bitten', 'proportion', 'molehill']
+1110	Dämon	['demon', 'Demon', 'after', 'kill', 'There']
+1117	Imperium	['empire', 'Empire', 'Roman', 'build', 'built']
+1118	Entschlossenheit	['determination', 'resolve', 'Determination', 'resolution', 'determined']
+1121	Wehmut	['nostalgia', 'melancholy', 'sorrow', 'wistful', 'Autumn']
+1123	Schallquelle	
+1124	Zweifel	['doubt', 'doubts', 'reasonable', 'thoughts', 'question']
+1125	Funken	['spark', 'sparks', 'shred', 'Sparks', 'ounce']
+1126	Saite	
+1127	Mozart	['Mozart', 'Beethoven', 'Bach', 'Amadeus', 'Wolfgang']
+1129	Zischel	
+1132	Pack	['Pack', 'Grab', 'packing', 'pack', 'grab']
+1138	Himmel	['sky', 'heaven', 'Heaven', 'heavens', 'skies']
+1147	Box	['box', 'Box', 'pit', 'black', 'inside']
+1148	System	['system', 'System', 'systems', 'whole', 'through']
+1161	XBox	
+1162	Rechner	['computer', 'calculator', 'Sylvester', 'computers', 'terminal']
+1166	Reifen	['tires', 'tire', 'tyres', 'tyre', 'Tires']
+1167	Zahnrad	['cog', 'gear', 'spindle', 'cogwh', 'Nought']
+1168	Tuch	['cloth', 'scarf', 'Wipe', 'wipe', 'towel']
+1174	Schicht	['shift', 'layer', 'shifts', 'watch', '00']
+1175	Perlondrahtnetz	
+1176	Schiff	['ship', 'vessel', 'boat', 'Captain', 'A']
+1177	Lang	['Lang', 'lang', 'Fritz', 'Lana', 'whoa']
+1184	Ideologie	['ideology', 'economic', 'political', 'based', 'action']
+1187	Kleine	['Small', 'kiddo', 'Little', 'small', 'kid']
+1189	Watte	['cotton', 'wool', 'stuffing', 'Cotton', 'stains']
+1192	Tapete	['wallpaper', 'Wallpaper', 'peeling', 'yellow', 'walls']
+1193	Reis	['rice', 'Rice', 'fried', 'beans', 'sticky']
+1199	Teilnehmer	['participants', 'contestants', 'contestant', 'participant', 'competitors']
+1200	Haut	['skin', 'Go', 'hair', 'Get', 'under']
+1201	Natur	['nature', 'Nature', 'naturally', 'natural', 'Mother']
+1204	Kaninchen	['rabbit', 'rabbits', 'Rabbit', 'bunny', 'Rabbits']
+1210	Greenpeace	
+1211	Windmühle	['windmill', 'Windmill', 'windmills', 'singing', 'skeleton']
+1224	Personalia	
+1225	Verhandlung	['trial', 'negotiation', 'adjourned', 'Court', 'session']
+1227	Information	['information', 'Information', 'intel', 'piece', 'For']
+1229	Sache	['deal', 'cause', 'business', 'matter', 'whole']
+1231	Feuchtigkeit	['moisture', 'humidity', 'dampness', 'damp', 'wetness']
+1232	Regenwasser	['rainwater', 'Rainwater', 'bucket', 'buckets', 'stain']
+1233	Altöl	
+1237	Meerwasser	['seawater', 'sea', 'Sea', 'pumping', 'uranium']
+1239	Punhill	
+1241	Bedürfnis	['urge', 'desire', 'felt', 'needs', 'human']
+1242	Art	['Art', 'type', 'sort', 'Some', 'kind']
+1243	Figurative	
+1245	Tür	['Door', 'Close', 'lock', 'doors', 'opened']
+1246	Wölfe	['wolves', 'Wolves', 'pack', 'wolf', 'sheep']
+1307	Dieb	['thief', 'Thief', 'burglar', 'stole', 'steal']
+1322	Kanzlerin	
+1332	Boeing	
+1340	Grossgedrucktes	
+1346	Sekretärin	['secretary', 'Secretary', 'assistant', 'Miss', 'His']
+1347	Schmied	['blacksmith', 'Blacksmith', 'smith', 'smithy', 'Keitel']
+1348	Röcheln	
+1350	Schwanzfeder	
+1351	Schlüssel	['key', 'keys', 'Keys', 'Key', 'Here']
+1352	Bayern	['Bavaria', 'Bavarians', 'Munich', 'Bavarian', 'Second']
+1392	Connor	['Connor', 'connor', 'Sarah', 'name', 'O']
+1393	Auge	['eye', 'Eye', 'An', 'watching', 'Keep']
+1394	Schwesterchen	['sis', 'Sis', 'Sister', 'sister', 'Little']
+1400	LED	
+1409	Katrin	
+1410	Marilena	
+1411	Scheinwerfer	['headlights', 'lights', 'headlight', 'spotlight', 'Lights']
+1416	Mom	['Mum', 'Mom', 'mom', 'home', 'Your']
+1433	Studioblitz	
+1434	Aufkleber	
+1438	Ich	['love', 'mean', 'thought', 'am', 'too']
+1472	Rica	['Rica', 'Costa', 'Rican', 'Villa', 'business']
+1475	Pfarrer	['priest', 'minister', 'Reverend', 'pastor', 'vicar']
+1483	jeder	['Everybody', 'Everyone', 'everybody', 'anybody', 'everyone']
+1484	Loredano	
+1487	Konzerne	
+1493	Aktie	['stock', 'shares', 'points', 'share', 'market']
+1497	Microsoft	
+1506	Teamplay	
+1519	Battlefield	
+1522	Zweig	['branch', 'twig', 'snaps', 'sprig', 'bough']
+1528	Bauernhortensie	
+1531	Elite	['elite', 'ruling', 'manhattan', 'GIRL', 'scandalous']
+1534	mann	
+1536	Sohn	['Son', 'son', 'kid', 'boy', 'wife']
+1546	Söldner	['mercenaries', 'mercenary', 'Mercenary', 'hire', 'hired']
+1592	Glück	['happiness', 'Lucky', 'Luckily', 'fortune', 'lucky']
+1600	Glücksgefühl	
+1602	Freude	['joy', 'Joy', 'happiness', 'pleasure', 'enjoy']
+1603	Leben	['Life', 'alive', 'lives', 'live', 'saved']
+1606	Daten	['data', 'dates', 'files', 'records', 'access']
+1607	Glückseligkeit	['happiness', 'bliss', 'Bliss', 'Ultimate', 'Elder']
+1608	Blutkörperchen	['cells', 'count', 'corpuscles', 'elevated', 'corpuscle']
+1609	Gedanke	['crossed', 'occurred', 'thinking', 'makes', 'idea']
+1610	Abend	['Evening', 'Tonight', 'evening', 'dinner', 'tomorrow']
+1614	Reihe	['row', 'series', 'seat', 'line', 'front']
+1617	Selinunt	
+1619	Stadt	['City', 'city', 'town', 'whole', 'leave']
+1620	Sumer	
+1622	Bad	['bath', 'bathroom', 'Bad', 'tub', 'hot']
+1625	Sie	['Do', 'Mr', 'She', 'come', 'They']
+1627	Frühlingsbeet	
+1628	Blüte	['bloom', 'prime', 'flower', 'blossom', 'petal']
+1631	Gartentraum	
+1633	Wohnzimmer	['living', 'Living', 'sitting', 'bedroom', 'room']
+1634	Märzbecher	
+1635	Tulpen	['tulips', 'tulip', 'Holland', 'florist', 'planted']
+1639	Staat	['state', 'State', 'nation', 'government', 'country']
+1655	Leiter	['ladder', 'Ladder', 'Head', 'director', 'Director']
+1659	Dachschräge	
+1661	Bein	['leg', 'legs', 'foot', 'cut', 'arm']
+1668	Bächlein	['brook', 'streams', 'flow', 'gushed', 'rill']
+1670	Sekret	
+1674	Groll	['grudge', 'grudges', 'resentment', 'grievance', 'malice']
+1684	Unerledigtes	
+1685	Damm	['dam', 'Dam', 'embankment', 'Willet', 'river']
+1691	Kleinigkeit	['trifle', 'snack', 'detail', 'small', 'Every']
+1694	Unzufriedenheit	['discontent', 'dissatisfaction', 'unhappiness', 'dissatisfied', 'districts']
+1695	Wassersäule	
+1698	Frustration	['frustration', 'Frustration', 'frustrated', 'sexual', 'sense']
+1699	Schulden	['debt', 'debts', 'owed', 'owe', 'paid']
+1701	40	['40', 'Forty', 'forty', 'miles', '50']
+1744	Drehzahl	['RPM', 'rpm', 'throttle', 'revolutions', 'friction']
+1747	Nacht	['Night', 'Goodnight', 'Tonight', 'Last', 'middle']
+1748	Akkuspannung	
+1749	Kurs	['Course', 'Set', 'class', 'warp', 'mark']
+1752	Spannung	['tension', 'suspense', 'voltage', 'excitement', 'sexual']
+1753	Ullrich	
+1756	Einnahme	['intake', 'causes', 'medication', 'effects', 'drug']
+1757	Tourismus	['tourism', 'Swiss', 'revenue', 'tourist', 'publicity']
+1758	Umsatz	['sales', 'turnover', 'revenue', 'volume', 'profits']
+1760	Einbrecher	['burglar', 'burglars', 'intruder', 'robber', 'cat']
+1762	Lava	['lava', 'Lava', 'molten', 'volcano', 'volcanic']
+1763	Unbekannter	['unknown', 'Unknown', 'Doe', 'stranger', 'unidentified']
+1764	Wirtschaft	['economy', 'economics', 'Economics', 'economic', 'global']
+1765	Anlagemarkt	
+1768	Schwein	['pig', 'Pig', 'swine', 'pork', 'bastard']
+1769	Sina	['Ibn', 'Zina', 'Zinka', 'ra', 'Chiu']
+1770	Klaus	['Klaus', 'Elijah', 'blood', 'killed', 'find']
+1782	Fahrer	['driver', 'drivers', 'Driver', 'driving', 'truck']
+0	Baum	['tree', 'Tree', 'trees', 'behind', 'under']
+3	hülse	
+5	Sprosse	['rung', 'invade', 'swinging', 'ultimate', 'thirteenth']
+6	Merkel	
+7	Reputation	['reputation', 'catastrophe', 'rep', 'brilliant', 'professional']
+8	Wand	['wall', 'walls', 'hole', 'behind', 'Get']
+13	Grenze	['border', 'frontier', 'boundary', 'crossed', 'limit']
+15	Academy	['Academy', 'academy', 'Award', 'Bel', 'Dramatic']
+16	Schamwand	
+17	alles	['Everything', 'fine', 'everything', 'Is', 'things']
+18	Ergebnis	['result', 'results', 'outcome', 'conclusion', 'score']
+20	Lebensstandard	['standard', 'lifestyle', 'standards', 'Hickey', 'improve']
+21	Glas	['glass', 'jar', 'Glass', 'champagne', 'milk']
+53	Scheingefecht	
+54	Fan	['fan', 'Fan', 'biggest', 'huge', 'number']
+55	Stimmung	['mood', 'atmosphere', 'spirits', 'spirit', 'feeling']
+57	Kessel	['kettle', 'cauldron', 'boiler', 'Kessel', 'boilers']
+59	Gerüchteküche	['mill', 'rumor', 'grapevine', 'rumour', 'gossip']
+60	Streit	['argument', 'quarrel', 'dispute', 'beef', 'arguing']
+61	Grill	['grill', 'Grill', 'barbecue', 'Bar', 'meat']
+62	Lok	['engine', 'locomotive', 'Chu', 'Audrey', 'collapsed']
+63	Ofen	['oven', 'stove', 'furnace', 'rod', 'burn']
+64	Wohnmobil	
+66	Entschuldigung	['Excuse', 'apology', 'apologies', 'Pardon', 'excuse']
+67	Essen	['Food', 'Dinner', 'meal', 'food', 'eating']
+70	was	['whatever', 'everything', 'happened', 'Do', 'anything']
+73	Gänge-Menü	
+74	Abendessen	['Dinner', 'supper', 'dinner', 'having', 'ready']
+75	Kost	['diet', 'board', 'lodging', 'foods', 'fare']
+76	Spezialität	['specialty', 'speciality', 'Specialty', 'chef', 'special']
+77	Notlüge	['white', 'indulged', 'lie', 'mend', 'con']
+78	Portion	['portion', 'scoop', 'serving', 'fries', 'dose']
+79	Märchen	['fairy', 'tale', 'tales', 'fairytale', 'Fairy']
+80	Mahlzeit	['meal', 'Enjoy', 'decent', 'hot', 'food']
+82	Lüge	['lie', 'lied', 'lies', 'lying', 'Everything']
+83	Buffet	['buffet', 'Buffet', 'Warren', 'lunch', 'free']
+84	Angebot	['offer', 'proposition', 'proposal', 'offering', 'generous']
+85	Schmaus	['feast', 'feasting', 'treats', 'upspring', 'wassail']
+90	Frühstück	['breakfast', 'Breakfast', 'lunch', 'ready', 'bed']
+91	Plastikflasche	
+93	Kausalität	['causality', 'correlation', 'lightly', 'subscribe', 'rupture']
+94	Bösewicht	['villain', 'Bad', 'evil', 'bad', 'boy']
+95	Salat	['salad', 'lettuce', 'salads', 'tomato', 'dressing']
+96	Tierfolter	
+97	Thema	['subject', 'topic', 'theme', 'issue', 'matter']
+99	Etikettenschwindel	
+101	Tiramisu	
+104	Köstlichkeit	['delicacy', 'delicious', 'Shay', 'lukewarm', 'refinement']
+105	Geschichte	['History', 'tale', 'history', 'story', 'end']
+110	sich	['himself', 'yourself', 'feel', 'their', 'into']
+114	Paddel	['paddle', 'paddles', 'GO', 'creek', 'Ricky']
+115	Laubblätter	
+116	Verbindung	['connection', 'link', 'connect', 'bond', 'connected']
+117	Teilpartie	
+118	Stromkreis	
+122	Sich	['Getting', 'himself', 'Get', 'To', 'isn']
+123	Blauer Nil	
+124	Fluss	['river', 'stream', 'River', 'flow', 'cross']
+125	Wasserstrom	
+127	Autoverkehr	
+128	Speichersee	
+130	Teich	['pond', 'Pond', 'fishing', 'pool', 'lake']
+132	Herz	['hearts', 'beating', 'heart', 'broken', 'broke']
+133	Zulauf	
+136	Wassermasse	
+137	River	['River', 'Fox', 'Rogue', 'Hudson', 'Fall']
+138	See	['lake', 'sea', 'seas', 'Lake', 'See']
+142	Energie	['energy', 'Energy', 'power', 'its', 'lot']
+145	Antrag	['motion', 'proposed', 'propose', 'proposal', 'application']
+162	Feuerwand	
+165	Fackel	['torch', 'Torch', 'flare', 'flame', 'Olympic']
+209	euch	['each', 'Get', 'both', 'Look', 'guys']
+222	Meinung	['opinion', 'opinions', 'disagree', 'agree', 'mind']
+224	Tätigkeit	['activity', 'occupation', 'confidential', 'activities', 'practice']
+225	verhalten	['behave', 'behaved', 'behaving', 'acted', 'behavior']
+226	Mangel	['lack', 'shortage', 'Lack', 'wringer', 'deficiency']
+227	Geheimnis	['secret', 'mystery', 'secrets', 'keeping', 'safe']
+228	Verfolgung	['pursuit', 'persecution', 'prosecution', 'chase', 'pursue']
+229	Fehler	['mistakes', 'error', 'mistake', 'fault', 'terrible']
+230	Karte	['map', 'card', 'menu', 'ticket', 'Here']
+231	Wirtschaftskriminalität	
+235	Kärtchen	['card', 'cards', 'index', 'scribbling', 'drawers']
+236	Siena-Karte	
+237	Wertungskarte	
+238	Frachtkarte	
+240	Platte	['record', 'plate', 'platter', 'album', 'panel']
+260	Rechtsprechung	['jurisdiction', 'justice', 'precedent', 'oyer', 'terminer']
+261	Schnitzel	['schnitzel', 'Wiener', 'Schnitzel', 'escalopes', 'schnitzels']
+263	Aktor	
+265	Flugblatt	['flyer', 'pamphlet', 'leaflet', 'flier', 'flyers']
+266	Handwerksberuf	
+267	Ast	['branch', 'limb', 'twig', 'stick', 'bird']
+269	Nebenbaustelle	
+270	Putz	['plaster', 'Clean', 'Wipe', 'Brush', 'Blow']
+272	Hand	['Hand', 'shake', 'holding', 'hand', 'hold']
+274	Indikator	
+275	Hohlheit	
+276	Biografie	['biography', 'autobiography', 'profile', 'subject', 'history']
+277	Detail	['detail', 'details', 'attention', 'small', 'Every']
+278	Anzug	['suit', 'Suit', 'Nice', 'tie', 'blue']
+279	Stutzen	
+280	Umhang	['cape', 'cloak', 'mantle', 'shawl', 'robe']
+281	Blog	
+282	Spezialadresse	
+283	Beitrag	['contribution', 'contribute', 'contributions', 'weight', 'share']
+284	Plankenende	
+285	Sand	['sand', 'Sand', 'sands', 'buried', 'upon']
+287	Arm	['arm', 'kidding', 'arms', 'leg', 'hold']
+290	Begriff	['term', 'concept', 'phrase', 'slow', 'familiar']
+291	Arbeitsablauf	
+292	Wohngebäude	['building', 'residential', 'apartment', 'buildings', 'indiscriminately']
+293	Mehl	['flour', 'Flour', 'mill', 'meal', 'cup']
+302	Buch	['book', 'Book', 'writing', 'reading', 'wrote']
+304	Haus	['House', 'White', 'building', 'house', 'place']
+305	Kaffeevollautomat	
+306	Anteil	['share', 'percentage', 'fair', 'piece', 'cut']
+310	Verbrauch	['consumption', 'mileage', 'diesel', 'reduce', 'gallon']
+312	Gerät	['device', 'equipment', 'unit', 'machine', 'piece']
+315	Schneid	['Cut', 'guts', 'grit', 'Slice', 'Chop']
+316	Akzent	['accent', 'accents', 'British', 'Russian', 'German']
+318	Ding	['damn', 'whole', 'big', 'thing', 'off']
+319	Cds	
+322	Empörung	['outrage', 'indignation', 'disgust', 'righteous', 'outcry']
+324	Silbe	['syllable', 'WORD', 'beginning', 'single', 'words']
+326	Rolle	['role', 'character', 'Does', 'Doesn', 'difference']
+328	Person	['person', 'most', 'someone', 'same', 'ever']
+329	Schwester	['Sister', 'sister', 'Nurse', 'nurse', 'brother']
+332	Kampfschwimmer	['diver', 'Navy', 'frogmen', 'divers', 'Jensen']
+333	Taxifahrer	['driver', 'taxi', 'cab', 'cabbie', 'drivers']
+334	Zahnpastatube	['toothpaste', 'cap', 'squeezing', 'shaving', 'tube']
+335	Zitrone	['lemon', 'Lemon', 'twist', 'lime', 'lemons']
+336	Farbbehälter	
+337	Tube	['tube', 'toothpaste', 'gel', 'Step', '0']
+359	Sachgeschichte	
+361	Empfehlung	['recommendation', 'reference', 'Compliments', 'compliments', 'commendation']
+363	Gesuchter	['Kröger', 'Nome', 'kingpin', 'Beware', 'gown']
+367	Ruhe	['Quiet', 'Silence', 'Order', 'quiet', 'calm']
+368	Serie	['series', 'Series', 'events', 'based', 'TV']
+369	Sicherheit	['safety', 'Security', 'national', 'security', 'safe']
+370	Souveränität	
+372	Flair	['flair', 'panache', 'thirty-seven', 'dramatic', 'culinary']
+373	Casting	['casting', 'audition', 'Casting', 'auditions', 'session']
+376	Modernität	
+377	Krimi	['mystery', 'thriller', 'whodunit', 'Crime', 'novels']
+378	Sendung	['broadcast', 'programme', 'program', 'air', 'TV']
+381	Wärme	['warmth', 'heat', 'warm', 'cold', 'felt']
+383	Demut	['humility', 'humble', 'humbled', 'humbly', 'Humility']
+386	Konzentration	['concentration', 'focus', 'Concentration', 'concentrate', 'Concentrate']
+387	Gefahr	['danger', 'Danger', 'jeopardy', 'threat', 'putting']
+388	Gelassenheit	['serenity', 'grant', 'tranquility', 'composure', 'poise']
+389	Macht	['Power', 'Open', 'Make', 'power', 'force']
+391	Würde	['dignity', 'beneath', 'Wouldn', 'Will', 'Would']
+393	Magie	['magic', 'Magic', 'dark', 'using', 'real']
+395	Gottesdienst	['service', 'services', 'Mass', 'worship', 'mass']
+397	Hörfilm	
+398	24-Stunden-Programm	
+400	Programm	['program', 'programme', 'Program', 'programming', 'interrupt']
+404	Show	['Show', 'act', 'show', 'tonight', 'put']
+405	Session	['session', 'jam', 'sometime', 'original', 'Three']
+413	Empfänger	['receiver', 'recipient', 'receivers', 'transmitter', 'receive']
+415	Rock	['Rock', 'skirt', 'skirts', 'Roll', 'rock']
+417	Kette	['chain', 'necklace', 'link', 'neck', 'wearing']
+440	Jahrestrieb	
+445	Amerikaner	['Americans', 'American', 'americans', 'An', 'America']
+447	60 %	
+448	Blitzwort	
+451	Seite	['page', 'aside', 'On', 'side', 'same']
+452	Sonntag	['Sunday', 'sunday', 'Sundays', 'On', 'church']
+453	Geld	['Money', 'cash', 'pay', 'money', 'lot']
+455	Diktat	['dictation', 'dictates', 'spelling', 'typing', 'prepare']
+456	Windkraft	
+459	Jurist	['lawyer', 'practise', 'legal', 'Law', 'lawyers']
+460	Doktorarbeit	
+461	Reise	['journey', 'trip', 'voyage', 'travel', 'Have']
+462	Schal	['scarf', 'shawl', 'muffler', 'hat', 'coat']
+463	Bibelvers	
+464	Koran	['Koran', 'Qur', 'qu', 'Malik', 'ran']
+465	Gott	['Christ', 'bless', 'Lord', 'swear', 'god']
+468	Kongo	['Congo', 'Democratic', 'Leopold', 'Belgian', 'Republic']
+469	Neuer	['New', 'shooter', 'haircut', 'Change', 'Another']
+471	Traum	['dream', 'dreams', 'American', 'true', 'having']
+474	Debatte	['debate', 'discussion', 'argument', 'option', 'issue']
+478	Erdbebenwelle	
+485	Störung	['disorder', 'disturbance', 'interference', 'disruption', 'glitch']
+491	Gesamtschallpegel	
+497	Fahrzeug	['vehicle', 'Vehicle', 'vehicles', 'approaching', 'Step']
+498	Sorento	['THOMPSON', 'DETECTIVE', 'HELLO', 'Quentin', 'oldest']
+500	Thread	
+502	Loch	['hole', 'dig', 'wall', 'black', 'head']
+503	Rest	['change', 'lives', 'Where', 'spend', 'rest']
+504	Rarität	['rarity', 'rare', 'collector', 'item', 'edition']
+505	Eiche	['oak', 'Oak', 'tree', 'mighty', 'solid']
+507	Gold	['gold', 'Gold', 'silver', 'worth', 'made']
+508	Fragebogen	['questionnaire', 'fill', 'survey', 'census', 'completed']
+510	Modell	['model', 'Model', 'pose', 'models', 'latest']
+511	Schatz	['Honey', 'treasure', 'honey', 'hon', 'Sweetheart']
+512	Igor	['Igor', 'Stravinsky', 'Sullivan', 'Prince', '[']
+514	Münze	['coin', 'flip', 'quarter', 'Flip', 'nickel']
+515	Keller	['basement', 'Keller', 'cellar', 'room', 'In']
+516	Photo	['photo', 'Photo', 'photograph', 'Field', 'file']
+517	Beil	['hatchet', 'axe', 'ax', 'cleaver', 'chopped']
+518	Palast	['palace', 'Palace', 'live', 'leave', 'Your']
+519	Spielzeugschwert	
+523	Artikel	['article', 'articles', 'Article', 'piece', 'writing']
+524	Konsole	['console', 'panel', 'beta', 'centre', 'Step']
+526	Aufnahme	['recording', 'footage', 'tape', 'record', 'picture']
+527	Erinnerungen	['memories', 'Memories', 'brings', 'memory', 'remember']
+528	Kriegsbeil	['hatchet', 'tomahawk', 'bygones', 'differences', 'Bury']
+530	Lieblingsspiel	
+533	Stück	['slice', 'piece', 'walk', 'play', 'paper']
+534	Batteriedeckel	
+535	Maibaum	['maypole', 'Maypole', 'hurray', 'danced', 'Hurray']
+536	Winkel	['angle', 'angles', 'Winkel', 'nook', 'cranny']
+537	Ahornbaum	['tree', 'maple', 'shade', 'hood', 'Schickel']
+538	Fuß	['foot', 'large', 'walking', 'feet', 'walk']
+541	Kronenteil	
+542	Obstbaum	['fruit', 'tree', 'I´ve', 'dwarf', 'conceived']
+543	von Guttenberg	
+544	Manager	['manager', 'Manager', 'managers', 'executive', 'assistant']
+548	Partei	['Party', 'Communist', 'Republican', 'sides', 'party']
+549	Energiewende	
+550	Aust	
+551	Bender	['Bender', 'Fry', 'robot', '♪', 'Mrs']
+557	Fisch	['fish', 'Fish', 'caught', 'catch', 'water']
+559	Rind	['beef', 'Beef', 'ox', 'bovine', 'heifer']
+560	Christus	['B.C', 'receive', 'lord', 'thy', 'faith']
+566	Nahverkehr	
+570	Stier	['bull', 'Bull', 'Taurus', 'horns', 'steer']
+577	Bevölkerung	['population', 'general', 'public', 'American', 'entire']
+581	Schnittstelle	['interface', 'intersection', 'disconnecting', 'ports', 'rebuilt']
+588	Rippe	['rib', 'punctured', 'lung', 'seventh', 'sixth']
+589	Knöchel	['ankle', 'ankles', 'sprained', 'knuckles', 'twisted']
+594	Lagersitz	
+596	Kabelschuh	
+598	Vertragsbedingung	
+599	Türke	['Turk', 'Turkish', 'Turks', 'Italian', 'German']
+600	Schuld	['guilt', 'blamed', 'blaming', 'debt', 'fault']
+602	meinung	
+604	Struktur	['structure', 'texture', 'molecular', 'fabric', 'genetic']
+605	Engführung	
+606	Brief	['letter', 'note', 'received', 'written', 'send']
+608	Stahltür	
+609	Container	
+611	Käfig	['cage', 'cages', 'Lucifer', 'theme', 'song']
+612	Tor	['gate', 'Goal', 'Gate', 'gateway', 'Tor']
+615	Oligopol	
+621	Verkrustung	
+626	Haustür	['doorstep', 'Front', 'unlocked', 'lock', 'locked']
+627	Holztor	
+629	Geldspielautomat	
+630	Siegergen	
+631	GP Geniussport 80 R	
+633	Setzling	['sapling', 'bend', 'Staring', 'springtime', 'autumn']
+635	Gurke	['pickle', 'cucumber', 'Pickle', 'pickles', 'cucumbers']
+636	Harthölzer	
+637	Blume	['flower', 'Flower', 'bloom', 'delicate', 'flowers']
+638	Kräuter	['herbs', 'herb', 'spices', 'herbal', 'roots']
+639	Widerspruch	['contradiction', 'opposition', 'protest', 'appeal', 'terms']
+641	Neigung	['tendency', 'inclination', 'tendencies', 'affection', 'pitch']
+642	Staunen	['awe', 'amaze', 'amazement', 'wonder', 'astonish']
+643	Wissen	['knowledge', 'Know', 'knowing', 'idea', 'remember']
+644	mich	['myself', 'remember', 'kill', 'feel', 'Don']
+645	Becher	['cup', 'cups', 'mug', 'beaker', 'pestle']
+646	Panzer	['tank', 'tanks', 'armor', 'Tanks', 'shell']
+649	Fichtenzapfen	
+650	Tontopf	
+651	Ai	
+687	Cookies	
+690	Mikro	['mike', 'mic', 'microphone', 'wire', 'Mic']
+691	Trainer	['coach', 'trainer', 'Coach', 'trainers', 'coaches']
+694	Anwalt	['lawyer', 'attorney', 'counsel', 'Your', 'Mr']
+695	Digitalkamera	
+696	Radio	['radio', 'Radio', 'Rebel', 'Turn', 'listening']
+697	Weissabgleich	
+698	Browsermodus	
+700	Verstärker	['amp', 'booster', 'relay', 'boost', 'guitar']
+701	Scanner	
+702	Makler	['realtor', 'broker', 'estate', 'Realtor', 'agent']
+704	Polizei	['Police', 'cops', 'police', 'calling', 'called']
+705	Verstand	['minds', 'brains', 'brain', 'sense', 'losing']
+706	Vereinsmitglied	
+708	Berater	['consultant', 'advisor', 'advisors', 'counselor', 'adviser']
+709	Wille	['Free', 'testament', 'Allah', 'Thy', 'thy']
+710	Zündung	['ignition', 'Ignition', 'booster', 'fuse', 'Contact']
+711	Vibrator	
+713	Amnesty International	
+725	Medien	['media', 'Media', 'social', 'press', 'news']
+747	Reichtum	['wealth', 'riches', 'Wealth', 'poorer', 'richer']
+750	Mp3	
+755	Ausgang	['exit', 'outcome', 'Exit', 'nearest', 'gate']
+756	Einstellung	['attitude', 'positive', 'setting', 'spirit', 'towards']
+757	Aspekt	['aspect', 'angle', 'issue', 'point', 'side']
+759	Rückmeldung	
+760	Landstützpunkt	
+761	Kontrolle	['Control', 'control', 'Everything', 'hand', 'situation']
+762	Leibwächter	['bodyguard', 'bodyguards', 'detail', 'guards', 'guard']
+763	Held	['hero', 'Hero', 'true', 'great', 'Your']
+765	Bildschirm	['screen', 'Screen', 'monitor', 'television', 'computer']
+766	Bildbereich	
+767	Zimmer	['Room', 'rooms', 'bedroom', 'room', 'Go']
+768	Spalt	['rift', 'fissure', 'rupture', 'gap', 'crack']
+769	Verhältnis	['ratio', 'rapport', 'affair', 'relationship', 'involved']
+771	Krankheitsbild	
+772	Situation	['situation', 'position', 'understand', 'put', 'control']
+773	Kontext	
+774	Prozent	['percent', 'cent', '90', 'per', '60']
+776	Festplatte	
+778	Öffnung	['opening', 'orifice', 'aperture', 'vent', 'hole']
+781	Clubman	['club-man', 'mixer', 'Certainly', 'Larry', 'owner']
+782	Kids	['Kids', 'kids', 'cool', 'These', 'school']
+783	Ritze	['crack', 'cranny', 'nook', 'Push', 'Crack']
+784	Steckdose	['socket', 'outlet', 'plug', 'electrical', 'sockets']
+786	Bühne	['stage', 'onstage', 'backstage', 'play', 'please']
+787	Ohr	['ear', 'whisper', 'ears', 'listening', 'cut']
+789	Flughafen	['airport', 'Airport', 'flight', 'plane', 'drive']
+791	Briefkasten	['mailbox', 'mail', 'post', 'box', 'drop']
+792	EC-Karte	
+793	Bilanzloch	
+798	Keyword	
+800	Treff	['Meet', 'clubs', 'hangout', 'Rudy', 'pm']
+801	Mülltonne	['trash', 'garbage', 'bin', 'cans', 'threw']
+802	Vulkan	['volcano', 'Vulcan', 'lava', 'active', 'Mr']
+803	Kopf	['heads', 'hit', 'head', 'mind', 'hands']
+804	Rohr	['pipe', 'tube', 'Tube', 'pipes', 'Fire']
+807	Schotter	
+842	Kamera	['camera', 'Camera', 'cameras', 'film', 'front']
+843	Hinterachse	['rear', 'axle', 'zebra', 'Rear', 'oscillator']
+846	Ladegerät	
+848	Sexualdelikt	
+851	Vorderlauf	
+853	Hinterleib	
+856	Brust	['chest', 'breast', 'boob', 'breasts', 'shot']
+859	Tahitperle	
+861	Halsschild	
+863	Anreiz	['incentive', 'inducement', 'appeal', 'added', 'given']
+871	Ufer	['shore', 'banks', 'shores', 'ashore', 'River']
+872	Baumgipfel	
+877	Uferkante	
+880	Seeufer	['lakefront', 'lake', 'shore', 'stony', 'meetin']
+887	Rundung	['curve', 'bulge', 'hollows', 'Tighten', '´P´']
+896	Zutat	['ingredient', 'secret', 'Secret', 'recipe', 'added']
+897	Sumpf	['swamp', 'swamps', 'marsh', 'bog', 'Swamp']
+898	Bierteig	
+901	Getränk	['beverage', 'soda', 'drink', 'drinks', 'cold']
+903	Molke-Gemisch	
+904	Portwein	['port', 'Port', 'Skipped', 'vintage', 'Wine']
+905	Bodengrund	
+906	Kirschmarmelade	
+910	Anstrichmittel	
+911	Satz	['sentence', 'phrase', 'movement', 'line', 'words']
+916	Terrorgruppe	['terrorist', 'terror', 'Column', 'Fifth', 'Mau']
+920	Quark	['cheese', 'Uncle', 'bar', 'name', 'always']
+923	Gemüt	['disposition', 'temper', 'nobler', 'sunny', 'tis']
+926	Dreck	['dirt', 'filth', 'Dirt', 'mud', 'dirty']
+927	ruhendes	
+938	Aprikosenmarmelade	
+941	Regler	['regulator', 'knob', 'voltage', 'governors', 'faulty']
+947	Gummi-Adler	
+948	Farbpigment	
+949	Müller	['Müller', 'Muller', 'Miller', 'Mueller', 'miller']
+950	Speisestärke	
+951	Bratensosse	
+955	Gewissen	['conscience', 'guilt', 'clear', 'felt', 'guilty']
+960	Klebstoff	['glue', 'adhesive', 'sniffing', 'paste', 'sticky']
+965	Erde	['Earth', 'soil', 'earth', 'ground', 'planet']
+967	Projekt	['project', 'Project', 'Noah', 'working', 'new']
+969	Nocke	
+971	Ventilsitz	
+973	Ventil	['valve', 'outlet', 'vent', 'pump', 'release']
+974	Scheibe	['slice', 'windshield', 'disc', 'disk', 'pane']
+977	Ventile	['valves', 'valve', 'vents', 'Releasing', 'outlets']
+986	Forscher	['researcher', 'explorers', 'researchers', 'explorer', 'scientist']
+1004	Blondine	['blonde', 'blond', 'brunette', 'dumb', 'hot']
+1005	Mikrofonständer	
+1012	Kompresse	
+1013	Rüssel	['trunk', 'snout', 'trunks', 'dangling', 'poke']
+1014	Teebeutel	
+1015	Hohlkörper	['vessel', 'fashioned', 'ward', 'curse', 'metallic']
+1017	Netz	['net', 'web', 'grid', 'network', 'spider']
+1021	Paket	['package', 'parcel', 'Package', 'packet', 'delivered']
+1023	ihn	['Let', 'kill', 'off', 'let', 'down']
+1024	Trakt	['wing', 'Ward', 'tract', 'minimum', 'transfer']
+1025	Nutte	['hooker', 'whore', 'slut', 'Whore', 'ho']
+1029	Typ	['Guy', 'type', 'dude', 'kind', 'Who']
+1030	Wunde	['wound', 'healed', 'infected', 'bleeding', 'wounds']
+1031	Schiene	['splint', 'rail', 'brace', 'tiny', 'track']
+1032	Fresse	['mug', 'smash', 'Holy', 'ugly', 'punch']
+1035	Klappe	['stone', 'birds', 'trap', '-Shut', 'quiet']
+1036	Straßenstück	
+1038	Arsch	['arse', 'screwed', 'butt', 'asshole', 'dick']
+1041	Maul	['-Shut', 'Fuck', 'bitch', 'ass', 'mouth']
+1043	Speise	['dish', 'Dine', 'doth', 'food', 'Food']
+1054	Saft	['juice', 'sap', 'juices', 'orange', 'box']
+1055	Apfel	['apple', 'Apple', 'apples', 'rotten', 'fruit']
+1056	Brei	['pulp', 'porridge', 'bush', 'mush', 'gruel']
+1057	Traube	
+1062	Volk	['nation', 'People', 'American', 'country', 'against']
+1064	Einwohner	['inhabitants', 'residents', 'Population', 'resident', 'locals']
+1066	Arbeitnehmer	
+1067	Zeitarbeiter	
+1068	dich	['yourself', 'care', 'kill', 'remember', 'Don']
+1070	Bleistift	['pencil', 'Pencil', 'sharp', 'pen', 'write']
+1071	Freundin	['girlfriend', 'mine', 'friend', 'girl', 'old']
+1074	Kreide	['chalk', 'Chalk', 'blackboard', 'colored', 'debt']
+1076	Stift	['pen', 'pencil', 'Pen', 'pin', 'borrow']
+1079	Kontakt	['contact', 'Contact', 'touch', 'lost', 'keep']
+1082	Hauptschirm	['main', 'viewer', 'screen', 'Main', 'Activate']
+1084	Parque Nacional Marinho de Fernando de Noronha	
+1085	Plutonium	['plutonium', 'Plutonium', 'X', 'substance', 'prove']
+1087	Sportplatz	['field', 'athletic', 'sports', 'ballpark', 'exercise']
+1091	Verfahren	['procedure', 'Process', 'proceedings', 'procedures', 'process']
+1092	Kunst	['art', 'Art', 'arts', 'science', 'great']
+1095	Beute	['prey', 'loot', 'spoils', 'booty', 'quarry']
+1096	Kondensator	
+1098	Recht	['silent', 'remain', 'law', 'point', 'wrong']
+1100	uns	['each', 'other', 'help', 'Let', 'let']
+1101	Tropfen	['drop', 'drops', 'rain', 'single', 'Every']
+1103	Gehirn	['brain', 'brains', 'human', 'blood', 'mind']
+1108	Innenbereich	
+1110	Opfer	['victim', 'victims', 'sacrifices', 'sacrifice', 'made']
+1111	Grund	['bottom', 'cause', 'reason', 'believe', 'give']
+1114	Lebensenergie	['energy', 'vital', 'drained', 'transferred', 'operating']
+1117	Produktion	['production', 'Production', 'manufacturing', 'produce', 'line']
+1134	Softwarestand	
+1135	Obst	['fruit', 'fruits', 'vegetables', 'Fruit', 'Fresh']
+1136	Stammlösung	
+1137	Gehalt	['salary', 'paycheck', 'wages', 'raise', 'paid']
+1139	Richtung	['direction', 'toward', 'towards', 'headed', 'heading']
+1141	Wild	['Wild', 'deer', 'venison', 'Turkey', 'Card']
+1142	Eigentum	['property', 'Property', 'intellectual', 'ownership', 'belongs']
+1143	Kürbis	['pumpkin', 'Pumpkin', 'squash', 'Squash', 'marrow']
+1144	Million	['Half', 'bucks', 'times', 'million', 'worth']
+1146	Eigelb	['yolk', 'yolks', 'yellow', 'rouge', 'runny']
+1149	Basilikum	['basil', 'Basil', 'pasta', 'tomatoes', 'Tomato']
+1151	Supperportion	
+1152	Wurm	['worm', 'Worm', 'maggot', 'worms', 'bug']
+1155	Song	['song', 'Song', 'sing', 'wrote', 'playing']
+1156	Gesundheitsausgabe	
+1157	Maultasche	
+1158	Arbeitgeberbeitrag	
+1160	Augenblick	['Hold', 'Excuse', 'hold', 'Right', 'At']
+1169	Schweiss	
+1170	Atmosphäre	['atmosphere', 'Atmosphere', 'atmospheric', 'carbon', 'upper']
+1172	Fett	['fat', 'grease', 'Fat', 'saturated', 'sugar']
+1174	Regen	['rain', 'Rain', 'rains', 'raining', 'wind']
+1177	Bemerkung	['remark', 'comment', 'observation', 'remarks', 'crack']
+1178	Einfluss	['influence', 'impact', 'effect', 'control', 'power']
+1181	Alles	['Anything', 'Happy', 'alright', 'birthday', 'Everything']
+1183	Minute	['minute', 'Every', 'Give', 'One', 'please']
+1185	Fond	['fund', 'Fund', 'hedge', 'Fond', 'stock']
+1186	Feuchte	['Wet', 'wet', 'wipes', 'humid', 'tissues']
+1187	Grundlage	['basis', 'foundation', 'Based', 'grounds', 'based']
+1188	Kräuterbutter	
+1189	Flüssigkeit	['fluid', 'liquid', 'fluids', 'lungs', 'drain']
+1190	Kapitalist	['capitalist', 'socialist', 'communist', 'fascist', 'Majestic']
+1194	Bier	['beer', 'beers', 'Beer', 'ale', 'cold']
+1195	Konsum	
+1196	Nässe	['wet', 'wetness', 'dampness', 'humidity', 'Currently']
+1197	Schwung	['momentum', 'swing', 'batter', 'batch', 'bounce']
+1198	Sonnenstrahl	['ray', 'sunshine', 'sunbeam', 'sunlight', 'Sunbeam']
+1202	Landwirtschaft	['farming', 'agriculture', 'Agriculture', 'Farming', 'agricultural']
+1204	Aroma	['aroma', 'flavor', 'flavour', 'molecules', 'bouquet']
+1206	Firewall	
+1209	Mist	['Shit', 'Crap', 'crap', 'Shoot', 'bullshit']
+1210	Reaktor	['reactor', 'Reactor', 'reactors', 'critical', 'core']
+1212	SIM	['SIM', 'Sim', 'active', 'Runs', 'animated']
+1213	Triebwerk	['engine', 'Engine', 'engines', 'pod', 'jet']
+1214	Anlage	['facility', 'stereo', 'installation', 'compound', 'plant']
+1215	Ursache	['causing', 'causes', 'welcome', 'caused', 'source']
+1222	Hirn	['brain', 'brains', 'blow', 'shit', 'fucking']
+1246	Mond	['moon', 'Moon', 'sky', 'stars', 'Earth']
+1247	Vollmond	['moon', 'full', 'Full', 'werewolf', '#']
+1249	Pentax	
+1252	Wasserflasche	['bottle', 'water', 'canteen', 'jordan', 'bottled']
+1253	Zornesbecher	
+1256	Sachverhalt	['facts', 'clearer', 'notify', 'issue', 'circumstances']
+1257	Nadel	['needle', 'haystack', 'pin', 'Needle', 'thread']
+1260	Meinungsfreiheit	
+1263	Stu­dent	
+1265	Fahrplan	['schedule', 'timetable', 'schedules', 'itinerary', 'trains']
+1266	Aufnahmegebühr	['fee', 'entrance', 'enrolment', 'rupees', 'initiation']
+1273	Kinobesuch	['cinema', 'movie', 'Yelling', 'phoney', 'shorter']
+1276	Familienglück	
+1278	Ausbildungsplatz	
+1287	Lippenstift	['lipstick', 'Lipstick', 'rouge', 'lip', 'shade']
+1319	Kartoffel	['potato', 'Potato', 'baked', 'potatoes', 'Hot']
+1323	Drum	['Therefore', 'Drum', 'trimmings', 'stock', '#']
+1326	Judenhass	['Jews', 'Violence', 'Gibson', 'scourge', 'Mel']
+1331	Botschaft	['embassy', 'message', 'Embassy', 'sending', 'clear']
+1334	Saturn	['Saturn', 'Jupiter', 'retrograde', 'V', 'moons']
+1345	Streifen	['stripes', 'stripe', 'strips', 'strip', 'streaks']
+1349	Versuch	['Try', 'attempt', 'Nice', 'shot', 'sleep']
+1354	Einwilligung	['consent', 'endorsement', 'approval', 'authorization', 'form']
+1355	Maische	
+1356	Saat	['seed', 'seeds', 'planted', 'Seeds', 'rebirth']
+1357	Milliarde	['billion', 'Half', 'gold', 'worth', 'dollars']
+1358	Forschungsgeld	
+1359	Geständnis	['confession', 'admission', 'confess', 'signed', 'full']
+1361	Aufenthaltsort	['whereabouts', 'location', 'unknown', 'current', 'known']
+1363	50 %	
+1364	Rechengut	
+1365	Traubensaft	['grape', 'juice', 'soda', 'Grape', 'spilled']
+1368	Trauben	['grapes', 'Grapes', 'grape', 'vine', 'sour']
+1370	Zustimmung	['approval', 'consent', 'agreement', 'permission', 'agree']
+1373	Studiengebühr	
+1375	Zigarette	['cigarette', 'Cigarette', 'lit', 'Smoke', 'cigarettes']
+1379	Steuer	['wheel', 'tax', 'helm', 'Helm', 'taxes']
+1384	Geschenk	['gift', 'present', 'given', 'birthday', 'brought']
+1385	Rad	['wheel', 'bike', 'bicycle', 'riding', 'ride']
+1390	Hämoglobin	['haemoglobin', 'stable', 'layers', 'leaks', 'react']
+1391	Lippe	['lip', 'biting', 'lips', 'upper', 'split']
+1397	Gast	['guest', 'customer', 'guests', 'Be', 'special']
+1399	niemand	['nobody', 'Nobody', 'anybody', 'knows', 'anyone']
+1400	Treppenstufe	
+1402	burg	
+1403	Rotfeder	
+1405	Burg	['castle', 'Castle', 'fortress', '♪', 'under']
+1407	Lichtattrape	
+1413	Masalu	
+1414	Schlafzimmer	['bedroom', 'bedrooms', 'Bedroom', 'master', 'upstairs']
+1418	Flugzeug	['plane', 'airplane', 'aircraft', 'flight', 'fly']
+1423	Kirche	['church', 'Church', 'Catholic', 'Sunday', 'Holy']
+1424	Frauenkirche	
+1427	Schornstein	['chimney', 'smokestack', 'Chimney', 'stack', 'funnel']
+1433	Motiv	['motive', 'Motive', 'motives', 'opportunity', 'reason']
+1437	Burganlage	
+1439	Körper	['bodies', 'body', 'human', 'soul', 'mind']
+1440	schlimme	['Bad', 'rough', 'awful', 'horrible', 'terrible']
+1441	Zeichen	['sign', 'signs', 'token', 'mark', 'signal']
+1444	Mandala	
+1445	Ereignis	['event', 'Event', 'occasion', 'incident', 'history']
+1449	Flügel	['wings', 'wing', 'Wings', 'piano', 'broken']
+1455	Enttäuschung	['disappointment', 'disappointing', 'Disappointment', 'letdown', 'frustration']
+1457	Pupille	['pupil', 'blown', 'defiant', 'pupils', 'floats']
+1464	Szenario	['scenario', 'Scenario', 'worst', 'possible', 'another']
+1466	Augenhöhle	['socket', 'orbital', 'orbit', 'nasal', 'cavity']
+1470	Höhle	['cave', 'cavern', 'Cave', 'lair', 'caves']
+1471	Küstenmotiv	
+1472	Scheu	['shy', 'Macduff', 'shyness', 'awe', 'Scotti']
+1473	Schwur	['vow', 'oath', 'vows', 'solemn', 'Code']
+1474	Status	['status', 'Status', 'quo', 'social', 'state']
+1475	Gesichtsausdruck	['expression', 'facial', 'expressions', 'faces', 'face']
+1477	Rhetorik-Standard	
+1480	Schmuck	['jewelry', 'jewels', 'jewellery', 'Jewelry', 'cash']
+1481	Seemannskostüm	
+1482	Korn	['grain', 'corn', 'wheat', 'squirrel', 'seed']
+1484	Rücktritt	['resignation', 'resign', 'resigning', 'resigned', 'retirement']
+1485	Lächeln	['smile', 'Smile', 'smiles', 'smiling', 'beautiful']
+1489	Gelände	['compound', 'terrain', 'premises', 'grounds', 'perimeter']
+1494	Verkauf	['sale', 'Sell', 'sales', 'selling', 'market']
+1496	Erdreich	
+1499	Hügel	['hill', 'hills', 'ridge', 'Hill', '*']
+1500	Ellerburg-Fläche	
+1502	Boden	['soil', 'devastated', 'ground', 'floor', 'bottom']
+1503	Kabel	['cable', 'wire', 'wires', 'cables', 'cord']
+1505	Moor	['moor', 'moors', 'marsh', 'Moor', 'bog']
+1511	Souterrain	['basement', 'downstairs', 'washed-up', 'apprentices', 'Housing']
+1515	Landzunge	['spit', 'triangle', 'headland', 'south-southwest', 'amiss']
+1530	Teufel	['devil', 'Devil', 'Hell', 'fuck', 'wrong']
+1536	Geist	['ghost', 'spirit', 'Ghost', 'Spirit', 'Holy']
+1538	Soße	['sauce', 'gravy', 'Sauce', 'dressing', 'potatoes']
+1540	Festfahrsache	
+1542	Paragaph	
+1543	Laufwerk	
+1545	Achse	['axis', 'axle', 'Axis', 'wheel', 'road']
+1547	Dampf	['steam', 'Steam', 'vapor', 'blowing', 'blow']
+1550	Kommentar	['comment', 'commentary', 'comments', 'statement', 'further']
+1557	Luft	['blew', 'breath', 'breathe', 'clear', 'blow']
+1558	Öl	['oil', 'Oil', 'gas', 'fire', 'water']
+1565	Luftkissen	
+1566	Dünnschiss	
+1567	Kondenswasser	
+1570	nix	['Nothing', 'ain', 'shit', 'hear', 'understand']
+1571	Genöle	
+1573	Wasserdampf	['steam', 'vapor', 'vapour', 'condensed', 'steaming']
+1579	Druck	['pressure', 'Pressure', 'lot', 'feel', 'put']
+1580	Testosteron	
+1583	Senf	['mustard', 'Mustard', 'ketchup', 'onions', 'relish']
+1590	Leitungswasser	
+1594	Trinkwasser	['drinking', 'water', 'contaminated', 'supply', 'supplies']
+1640	Hashemite Kingdom Jordan	
+1641	Tonfolge	['notes', 'DISCORDANT', 'Redskins', 'NOTES', 'Traffic']
+1643	Rücken	['backs', 'turned', 'turn', 'hands', 'around']
+1649	Stil	['style', 'classy', 'class', 'isn', 'Not']
+1650	Spielprinzip	
+1652	Konzeption	
+1653	Gestaltung	['design', 'landscaping', 'Production', 'designer', 'fashioning']
+1654	Wohnzimmertür	
+1660	Schlafzimmertür	['bedroom', 'Rocburg', 'hallway', '43', 'wide']
+1663	Schaltplan	
+1664	Süsswasser	
+1669	Saale	['hall', 'Fotheringhay', 'gliding', 'Sala', 'Osric']
+1671	Drau	
+1686	Ruhr	['dysentery', 'malaria', 'cholera', 'diphtheria', 'typhoid']
+1687	Quellwasser	['spring', 'water', 'Spring', 'abomination', 'crystal']
+1688	Wehr	['Fight', 'Defend', 'resisting', 'struggle', 'fought']
+1690	Urft	
+1696	Nassersee	
+1700	Bach	['Bach', 'creek', 'stream', 'brook', 'drain']
+1706	Spannungsverteiler	
+1707	Literaturverzeichnis	
+1708	Behandlung	['treatment', 'treatments', 'procedure', 'treated', 'treat']
+1709	Aufklärung	['reconnaissance', 'Enlightenment', 'enlightenment', 'clarification', 'Reconnaissance']
+1710	Erdwärmeübertrager	
+1712	Verjährung	
+1714	Filtern	['filters', 'filter', 'Filter', 'utilities', 'Support']
+1715	Sanierungskonzept	
+1716	Übung	['practice', 'exercise', 'drill', 'Practice', 'practise']
+1717	Phase	['phase', 'Phase', 'Stage', 'patch', 'stage']
+1718	Virenscanner	
+1721	Filter	['filter', 'filters', 'Filter', 'changed', 'sell']
+1722	Spami	
+1724	Glühbirne	['bulb', 'light', 'Light', 'Len', 'Edison']
+1725	Präsidium	['headquarters', 'precinct', 'Presidium', 'HQ', 'Headquarters']
+1727	Teaseranzeige	
+1728	Planetengetriebe	
+1729	Stromversorgung	['supply', 'grid', 'power', 'electricity', 'Transfer']
+1730	Diode	
+1731	Proxy-Server	
+1732	Preisen	['prices', 'prizes', 'affordable', 'rates', 'awards']
+1733	Trafo	
+1734	Trenntrafo	
+1736	Erläuterung	['explanation', 'experiments', 'Clarification', 'Rosy', 'Tolstoy']
+1737	Wanneneinlauf	
+1739	Untersuchung	['investigation', 'examination', 'inquiry', 'inquest', 'exam']
+1741	Fluocarbonvorfach	
+1754	Fenster	['window', 'windows', 'outside', 'doors', 'looking']
+1782	Ausländer	['foreigner', 'foreigners', 'Foreigners', 'foreign', 'aliens']
+1785	Alleinerziehend	
+1790	Prostitution	['prostitution', 'Prostitution', 'solicitation', 'Solicitation', 'gambling']
+0	ansägen	['saw']
+8	einreissen	['tear']
+18	zuschrauben	['screw']
+22	abfallen	['fall', 'wheels', 'falling', 'falls', 'dick']
+52	anheizen	['heat', 'inflame', 'slugging', 'spurs', 'kettle']
+66	auftischen	['serve', 'stories', 'bullshit', 'telling', 'trying']
+108	ausheulen	['cry']
+112	zuspitzen	['sharpen']
+116	auftrennen	['separate']
+120	aufstauen	['dam']
+152	auflodern	['flare']
+192	anklingen	['resonate']
+206	eindrängen	['intrude']
+224	aufdecken	['expose', 'uncover', 'reveal', 'conspiracy', 'discover']
+240	einschrauben	['screw']
+242	aufklingen	['ring']
+260	abklopfen	['beat']
+298	abkaufen	['buy', 'buying', 'expect', 'story', 'wouldn']
+328	ausquetschen	['squeeze', 'squash', 'pump', 'harder', 'brain']
+338	nachklingen	['resonate']
+358	aufgreifen	['revisit', 'previous', 'provide', 'picked', 'caught']
+366	ausstrahlen	['radiate', 'broadcast', 'display', 'network', 'project']
+408	anschmieren	['smear', 'Amis', 'double-crossin', 'settin', 'conning']
+420	ausreifen	['express', 'itself', 'scuppered', 'Representative', 'persuaded']
+444	abschreiben	['copy', 'cheat', 'homework', 'write', 'count']
+474	anfeuern	['root', 'cheer', 'rooting', 'cheering', 'for-']
+476	aufschaukeln	['rock']
+500	ausgraben	['dig', 'digging', 'dug', 'bones', 'buried']
+532	absägen 	['saw']
+552	ausbluten	['bleed', 'dry', 'bled', 'drained', 'drain']
+584	anbrechen	['dawn', 'era', 'usher', 'dip', 'anew']
+592	aufpressen	['press']
+604	aufbrechen	['immediately', 'leaving', 'break', 'move', 'head']
+630	einpflanzen	['plant', 'planting', 'seeds', 'transplant', 'device']
+644	eingraben	['dig', 'bury', 'burrow', 'section', 'buried']
+656	absaufen	
+666	nachdrängen	
+686	einschalten	['Engage', 'switch', 'Turn', 'involved', 'turned']
+718	aufjaulen	
+726	aufflammen	['flare', 'rebel', 'active', 'flaring', 'blackface']
+742	durchgehen	['slide', 'pass', 'walk', 'run', 'through']
+746	aufschliessen	
+750	abrattern	
+752	zuschaufeln	
+754	ausschalten	['switch', 'knock', 'shut', 'turn', 'please']
+764	ausleuchten	
+774	zustopfen	
+808	aussteigen	['quit', 'step', 'drop', 'Everybody', 'walk']
+842	anhängen	
+850	abflachen	
+896	aufrühren	
+930	anspringen	['jump', 'generator', 'jumping', 'kick', 'emergency']
+936	anrühren	
+968	einschleifen	
+984	zudröhnen	
+986	antanzen	['waltz', 'step', 'Those', 'cops', 'five']
+1006	eintauchen	['dive', 'immerse', 'plunge', 'Dive', 'dip']
+1018	aufkeimen	['sprout', 'interval', 'empathy', 'dimensions', 'mystical']
+1020	aufreissen	['kissers', 'Plaza', 'picking', 'pop', 'lobby']
+1042	aufgabeln	['rendezvous', 'entrance', 'arrange', 'picking', 'pick']
+1044	ausbrechen	['bust', 'breaking', 'escape', 'break', 'tears']
+1054	auspressen	
+1068	anspitzen	['sharpen', 'pencils', 'sharpening', 'sticks', 'dictation']
+1080	abtrennen	['disconnect', 'sever', 'circuits', 'limb', 'isolate']
+1092	antreffen	['bump', 'castle', 'six', 'meet', 'run']
+1094	aussaugen	['suck', 'sucking', 'drain', 'dry', 'vampires']
+1116	anschrauben	['screw', 'fender', 'screws', 'sheets', 'dirty']
+1118	mitklingen	
+1132	abdampfen	
+1134	einfrieren	['freeze', 'freezing', 'Freeze', 'froze', 'frozen']
+1164	durchdrehen	['freak', 'nuts', 'panic', 'mad', 'crazy']
+1168	aufsaugen	['suck', 'vacuum', 'soak', 'absorb', 'sponge']
+1206	abschalten	['shut', 'disable', 'systems', 'switch', 'Turn']
+1224	durchsickern	['leak', 'leaked', 'leaking', 'leaks', 'classified']
+1238	vordrängen	
+1244	aufplatzen	
+1246	anheulen	['howl', 'howling', 'riskier', 'nuggets', 'PFC']
+1252	ausleeren	['bucket', 'ashtray', 'spittoons', 'bedpan', 'latrine']
+1254	einzwängen	
+1266	abschminken	['makeup', 'make-up', 'remove', 'goodbye', 'kiss']
+1292	nachgraben	
+1322	einhämmern	
+1348	abbrechen	['Break', 'cancel', 'quit', 'short', 'drop']
+1352	aufatmen	['breathe', 'relief', 'sigh', 'relax', '-With']
+1354	abpressen	
+1392	anstrahlen	
+1440	ausmalen	['envision', 'color', 'imagine', 'picture', 'boy']
+1472	ablegen	['vows', 'confess', 'coat', 'drop', 'answer']
+1484	abzwingen	
+1486	abgraben	
+1522	austreiben	['exorcise', 'cast', 'demons', 'wipe', 'demon']
+1538	aufkochen	
+1542	abklappern	['clubs', 'hospitals', 'shops', 'stores', 'checking']
+1544	ablassen	['vent', 'release', 'letting', 'blowing', 'needed']
+1584	aufsprudeln	
+1610	ausklingen	
+1614	aufblühen	
+1636	anlehnen	['lean', 'leaning', 'Lean', 'Bossing', 'givin']
+1664	anstauen	
+1706	vorschalten	
+1742	einbrechen	['break', 'breaking', 'apartment', 'steal', 'room']
+1776	abdrängen	['push']

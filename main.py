@@ -20,6 +20,8 @@ parser.add_argument("-p", "--predict_file", type=str, metavar="", required=True,
                                                                                   "(see README).File "
                                                                                      "name only, no "
                                                                                      "path required.")
+parser.add_argument("-l", "--language", type=str, metavar="", required=True, help="Available languages: "
+                                                                                  "'ru', 'ge', 'la'.")
 parser.add_argument("-w", "--write_preds_2_file", type=str, metavar="", required=False, help="Type 'yes' if "
                                                                                              "predictions "
                                                                                              "should be written "
@@ -28,7 +30,7 @@ parser.add_argument("-w", "--write_preds_2_file", type=str, metavar="", required
 args = parser.parse_args()
 
 
-def md_classification(experiment, file_train, file_test, write_preds_2_file):
+def md_classification(experiment, file_train, file_test, language, write_preds_2_file):
     file_train = "data/tsvs/" + file_train
     file_test = "data/tsvs/" + file_test
 
@@ -54,14 +56,12 @@ def md_classification(experiment, file_train, file_test, write_preds_2_file):
 
     elif experiment == "madx":
         target_file = "results/mBERT_finetuned"
-        language = "ru"
         path_task_adapter = "adapter"
         corpus_predict.predictions = mBERT_MADX(corpus_train, corpus_predict,
                                                 target_file, language, path_task_adapter)
 
     elif experiment == "rf":
-        language = "ru"
-        corpus_predict.predictions = random_forest(corpus_train, corpus_predict)
+        corpus_predict.predictions = random_forest(corpus_train, corpus_predict, language)
 
 
     # evaluate:
@@ -75,4 +75,4 @@ def md_classification(experiment, file_train, file_test, write_preds_2_file):
 
 
 if __name__ == '__main__':
-    md_classification(args.experiment, args.train_file, args.predict_file, args.write_preds_2_file)
+    md_classification(args.experiment, args.train_file, args.predict_file, args.language, args.write_preds_2_file)

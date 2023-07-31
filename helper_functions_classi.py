@@ -5,9 +5,9 @@ import json
 import numpy as np
 
 
-def replace_foreign_with_en(df):
+def replace_foreign_with_en(df, language):
     dic = {}
-    with open("data/electronic_dictionary.csv") as f:
+    with open("data/dictionaries/electronic_dictionary"+language+".txt") as f:
         dictionary = f.readlines()
         for line in dictionary:
             line_split = line.split("\t")
