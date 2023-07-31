@@ -56,7 +56,9 @@ def md_classification(experiment, file_train, file_test, language):
 
         elif experiment == "madx":
             target_file = "results/mBERT_finetuned"
-            path_task_adapter = "adapter"
+            #path_task_adapter = "adapter"
+            path_task_adapter= "/mount/arbeitsdaten20/projekte/semrel/Models/Metaphor_Det_LowRes/" \
+            "adapter-transformers/examples/pytorch/text-classification/adapter"
             corpus_predict.predictions = mBERT_MADX(corpus_train, corpus_predict,
                                                     target_file, language, path_task_adapter)
 
