@@ -77,4 +77,4 @@ class Evaluator(object):
         self.accuracy = compute_acc(self.predictions, self.labels)
 
     def __str__(self):
-        return self.f_score_nonlit
+        return str(self.f_score_nonlit)
