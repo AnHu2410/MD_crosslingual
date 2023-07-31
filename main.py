@@ -71,7 +71,7 @@ def md_classification(experiment, file_train, file_test, language):
     print(results)
     print(type(results[0]))
     return
-    
+
     stand_dev = stat.stdev(results)
     mean = sum(results)/len(results)
     print(stand_dev, mean)

@@ -19,7 +19,7 @@ class Corpus(object):
         preds = self.predictions["predictions"].tolist()
         evaluator = Evaluator(labels, preds)
         evaluator.get_scores()
-        return evaluator
+        return evaluator.f_score_nonlit
     
     def write_file_with_preds(self, target_file):
         self.predictions.to_csv(target_file, sep="\t")
