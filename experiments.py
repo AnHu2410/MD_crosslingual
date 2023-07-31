@@ -31,9 +31,9 @@ def mBERT_zero(dataframe_train, dataframe_predict, target_file):
 def mBERT_few(checkpoint, dataframe_train_2):
     # get 20 instances from test dataset for second fine-tuning
     # (use the rest of the test set for evaluation):
-    train, test = train_test_split(dataframe_train_2.as_dataframe, train_size=20)
-    trainer_2 = TrainerMbert(dataframe_train=train,
-                             dataframe_test=test,
+    train, test = train_test_split(dataframe_train_2.as_dataframe, test_size=20)
+    trainer_2 = TrainerMbert(dataframe_train=test,
+                             dataframe_test=train,
                              target_file="results/fine-tuned_twice")
 
     # replace pretrained mBERT by mBERT fine-tuned on source language material:
