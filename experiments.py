@@ -44,10 +44,10 @@ def mBERT_few(checkpoint, dataframe_train_2, seed):
     return predictions
 
 
-def mBERT_MADX(dataframe_train, dataframe_predict, target_file, language, path_task_adapter, seed):
+def mBERT_MADX(dataframe_train, dataframe_predict, target_file, language, path_task_adapter):
     trainer = TrainerMbert(dataframe_train=dataframe_train.as_dataframe,
                            dataframe_test=dataframe_predict.as_dataframe,
-                           target_file=target_file, seed=seed)
+                           target_file=target_file, seed=42)
     return trainer.mad_x(language, path_task_adapter)
 
 
