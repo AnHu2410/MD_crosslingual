@@ -52,9 +52,9 @@ def md_classification(experiment, file_train, file_test, language, write_preds_2
 
     elif experiment == "few":
         target_file_1 = "results/mBERT_finetuned"
-        mBERT_zero(corpus_train, corpus_predict, target_file_1)
+        mBERT_zero(corpus_train, corpus_predict, target_file_1, seed)
         corpus_predict.predictions = mBERT_few(checkpoint=target_file_1,
-                                               dataframe_train_2=corpus_predict)
+                                               dataframe_train_2=corpus_predict, seed)
 
     elif experiment == "madx":
         target_file = "results/mBERT_finetuned"
@@ -63,7 +63,7 @@ def md_classification(experiment, file_train, file_test, language, write_preds_2
                                                 target_file, language, path_task_adapter)
 
     elif experiment == "rf":
-        corpus_predict.predictions = random_forest(corpus_train, corpus_predict, language)
+        corpus_predict.predictions = random_forest(corpus_train, corpus_predict, language, seed)
 
 
     # evaluate:
