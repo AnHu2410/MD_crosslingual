@@ -9,6 +9,7 @@ def replace_foreign_with_en(df, language):
     dic = {}
     with open("data/dictionaries/electronic_dictionary_"+language+".txt") as f:
         dictionary = f.readlines()
+        print(dictionary)
         for line in dictionary:
             line_split = line.split("\t")
             foreign = line_split[0]
@@ -17,8 +18,8 @@ def replace_foreign_with_en(df, language):
                 if en[-1] == "\n":
                     en = en[:-1]
             dic[foreign] = en
+            print(dic[foreign])
     df = df.replace({"verb": dic})
     df = df.replace({"subject": dic})
     df = df.replace({"object": dic})
-    print("##############", df)
     return df
