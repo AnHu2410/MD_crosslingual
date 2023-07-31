@@ -20,4 +20,5 @@ def replace_foreign_with_en(df, language):
     df = df.replace({"verb": dic})
     df = df.replace({"subject": dic})
     df = df.replace({"object": dic})
+    print("##############", df)
     return df
