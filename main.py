@@ -68,9 +68,10 @@ def md_classification(experiment, file_train, file_test, language):
         print("F1-score (non-literal): ", corpus_predict.evaluate())
         results.append(corpus_predict.evaluate())
 
-    return
-
     print(results)
+    print(type(results[0]))
+    return
+    
     stand_dev = stat.stdev(results)
     mean = sum(results)/len(results)
     print(stand_dev, mean)
