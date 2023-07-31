@@ -11,10 +11,9 @@ def replace_foreign_with_en(df, language):
         dictionary = f.readlines()
         for line in dictionary:
             line_split = line.split("\t")
-            foreign = line_split[0]
+            foreign = line_split[1]
             print(foreign)
-            en = line_split[1][:-1].replace("'", '"')
-            print(en)
+            en = line_split[2][:-1].replace("'", '"')
             if len(en) > 0:
                 if en[-1] == "\n":
                     en = en[:-1]
