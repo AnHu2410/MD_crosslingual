@@ -88,8 +88,10 @@ class TrainerMbert(object):
         model.load_adapter("en/wiki@ukp", config=lang_adapter_config)
         if language == "ru":
             model.load_adapter("ru/wiki@ukp", config=lang_adapter_config)
-        else:
-            print("Choose language according to language adapters available at AdapterHub.")
+        elif language == "ge":
+            model.load_adapter("de/wiki@ukp", config=lang_adapter_config)
+        elif language == "la":
+            model.load_adapter("la/wiki@ukp", config=lang_adapter_config)
 
         # load pretrained task adapter for model:
         adapter_path = path_task_adapter
@@ -99,8 +101,10 @@ class TrainerMbert(object):
         # adapter for language of unseen data:
         if language == "ru":
             model.active_adapters = Stack("ru", adapter_name)
-        else:
-            print("Choose language for language adapter.")
+        elif language == "ge":
+            model.active_adapters = Stack("de", adapter_name)
+        elif language == "la":
+            model.active_adapters = Stack("la", adapter_name)
 
         # perform zero-shot evaluation:
         args = TrainingArguments(learning_rate=1e-4, num_train_epochs=10,
