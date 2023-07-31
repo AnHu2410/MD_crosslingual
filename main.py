@@ -48,13 +48,13 @@ def md_classification(experiment, file_train, file_test, language, write_preds_2
     if experiment == "zero":
         target_file = "results/mBERT_finetuned"
         corpus_predict.predictions = mBERT_zero(corpus_train,
-                                                corpus_predict, target_file)
+                                                corpus_predict, target_file, seed)
 
     elif experiment == "few":
         target_file_1 = "results/mBERT_finetuned"
         mBERT_zero(corpus_train, corpus_predict, target_file_1, seed)
         corpus_predict.predictions = mBERT_few(checkpoint=target_file_1,
-                                               dataframe_train_2=corpus_predict, seed)
+                                               dataframe_train_2=corpus_predict, seed=seed)
 
     elif experiment == "madx":
         target_file = "results/mBERT_finetuned"
