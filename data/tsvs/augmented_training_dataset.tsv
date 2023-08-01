@@ -1,0 +1,1862 @@
+	sentence	masked_sen	label
+0	He absorbed the knowledge or beliefs of his tribe.	He [MASK] the knowledge or beliefs of his tribe.	1
+1	He absorbed the costs for the accident.	He [MASK] the costs for the accident.	1
+2	The sales tax is absorbed into the state income tax.	The sales tax is [MASK] into the state income tax.	1
+3	The immigrants were quickly absorbed into society.	The immigrants were quickly [MASK] into society.	1
+4	Her interest in butterflies absorbs her completely.	Her interest in butterflies [MASK] her completely.	1
+5	This boss abuses his workers.	This boss [MASK] his workers.	0
+6	Don't abuse the system.	Don't [MASK] the system.	1
+7	The actress abused the policeman who gave her a parking ticket.	The actress [MASK] the policeman who gave her a parking ticket.	1
+8	Her husband often abuses alcohol.	Her husband often [MASK] alcohol.	1
+9	Can you accommodate me with a rental car?	Can you [MASK] me with a rental car?	0
+10	This hotel can accommodate 250 guests	This hotel can [MASK] 250 guests	0
+11	The scientists had to accommodate the new results with the existing theories	The scientists had to [MASK] the new results with the existing theories	0
+12	The program committee acknowledged the submission of the authors of the paper	The program committee [MASK] the submission of the authors of the paper	0
+13	He never acknowledges his colleagues when they run into him in the hallway	He never [MASK] his colleagues when they run into him in the hallway	0
+14	We must acknowledge the kindness she showed towards us	We must [MASK] the kindness she showed towards us	0
+15	acknowledge the deed	[MASK] the deed	0
+16	The Crown Prince was acknowledged as the true heir to the throne	The Crown Prince was [MASK] as the true heir to the throne	0
+17	Permit me to acquaint you with my son.	Permit me to [MASK] you with my son.	0
+18	You should acquaint yourself with your new computer.	You should [MASK] yourself with your new computer.	0
+19	Please acquaint your colleagues of your plans to move.	Please [MASK] your colleagues of your plans to move.	0
+20	think before you act	think before you [MASK]	0
+21	She acts in this play	She [MASK] in this play	0
+22	You should act like an adult	You should [MASK] like an adult	0
+23	She acts as the chair	She [MASK] as the chair	1
+24	This scene acts well	This scene [MASK] well	1
+25	He addressed the crowd outside the window.	He [MASK] the crowd outside the window.	0
+26	He always addresses me with `Sir'.	He always [MASK] me with `Sir'.	0
+27	You must adhere to the rules.	You must [MASK] to the rules.	1
+28	They adhered to their plan.	They [MASK] to their plan.	0
+29	The residents of this village adhered to Catholicism.	The residents of this village [MASK] to Catholicism.	1
+30	Will this wallpaper adhere to the wall?	Will this wallpaper [MASK] to the wall?	0
+31	administer a program	[MASK] a program	0
+32	administer the last unction	[MASK] the last unction	0
+33	administer critical remarks to everyone present	[MASK] critical remarks to everyone present	0
+34	He admitted his errors	He [MASK] his errors	0
+35	We cannot admit non-members into our club building	We cannot [MASK] non-members into our club building	0
+36	admit someone to the profession	[MASK] someone to the profession	0
+37	This problem admits of no solution	This problem [MASK] of no solution	1
+38	The French doors admit onto the yard	The French doors [MASK] onto the yard	0
+39	This ticket will admit one adult to the show	This ticket will [MASK] one adult to the show	0
+40	Will the new rules affect me?	Will the new rules [MASK] me?	0
+41	the medicine affects my heart rate	the medicine [MASK] my heart rate	0
+42	This new ruling affects your business	This new ruling [MASK] your business	0
+43	The death of his wife caused him to age fast	The death of his wife caused him to [MASK] fast	0
+44	we age every day--what a depressing thought!	we [MASK] every day--what a depressing thought!	0
+45	The death of his child aged him tremendously	The death of his child [MASK] him tremendously	0
+46	We agreed on the terms of the settlement	We [MASK] on the terms of the settlement	0
+47	She agreed to all my conditions	She [MASK] to all my conditions	0
+48	The two stories don't agree in many details	The two stories don't [MASK] in many details	0
+49	Subjects and verbs must always agree in English	Subjects and verbs must always [MASK] in English	0
+50	White wine doesn't agree with me	White wine doesn't [MASK] with me	1
+51	No two of my colleagues would agree on whom to elect chairman	No two of my colleagues would [MASK] on whom to elect chairman	0
+52	Please don't aim at your little brother!	Please don't [MASK] at your little brother!	0
+53	I aim to arrive at noon	I [MASK] to arrive at noon	1
+54	He aimed his fists towards his opponent's face	He [MASK] his fists towards his opponent's face	0
+55	She wanted to aim a pun	She wanted to [MASK] a pun	1
+56	This show will air Saturdays at 2 P.M.	This show will [MASK] Saturdays at 2 P.M.	1
+57	We cannot air this X-rated song	We cannot [MASK] this X-rated song	0
+58	She aired her opinions on welfare	She [MASK] her opinions on welfare	1
+59	air the old winter clothes	[MASK] the old winter clothes	0
+60	We don't allow dogs here	We don't [MASK] dogs here	0
+61	Mandela was allowed few visitors in prison	Mandela was [MASK] few visitors in prison	0
+62	I allow for this possibility	I [MASK] for this possibility	0
+63	The camera store owner allowed me $50 on my old camera	The camera store owner [MASK] me $50 on my old camera	0
+64	Her action amounted to a rebellion	Her action [MASK] to a rebellion	0
+65	"""The bills amounted to $2,000"""	"""The bills [MASK] to $2,000"""	0
+66	This idea will never amount to anything	This idea will never [MASK] to anything	1
+67	I was analyzed in Vienna by a famous psychiatrist.	I was [MASK] in Vienna by a famous psychiatrist.	0
+68	She didn't want to answer	She didn't want to [MASK]	0
+69	The steering of my new car answers to the slightest touch	The steering of my new car [MASK] to the slightest touch	1
+70	answer the telephone	[MASK] the telephone	0
+71	The question concerning the meaning of life cannot be answered	The question concerning the meaning of life cannot be [MASK]	0
+72	The defendant answered to all the charges of the prosecution	The defendant [MASK] to all the charges of the prosecution	0
+73	She must answer for her actions	She must [MASK] for her actions	0
+74	A few words would answer	A few words would [MASK]	0
+75	The drawing of the suspect answers to the description the victim gave	The drawing of the suspect [MASK] to the description the victim gave	0
+76	This may answer her needs	This may [MASK] her needs	0
+77	He was found guilty but appealed immediately.	He was found guilty but [MASK] immediately.	0
+78	Appeal to somebody for help!	[MASK] to somebody for help!	1
+79	She appealed the verdict.	She [MASK] the verdict.	0
+80	He suddenly appeared at the wedding	He suddenly [MASK] at the wedding	0
+81	Did your latest book appear yet?	Did your latest book [MASK] yet?	0
+82	Gielgud appears briefly in this movie	Gielgud [MASK] briefly in this movie	0
+83	He had to appear in court last month	He had to [MASK] in court last month	0
+84	Do you appreciate the full meaning of this letter?	Do you [MASK] the full meaning of this letter?	0
+85	The yen appreciated again!	The yen [MASK] again!	0
+86	The Germans want to appreciate the Deutsche Mark	The Germans want to [MASK] the Deutsche Mark	0
+87	We were approaching our destination	We were [MASK] our destination	0
+88	Winter is approaching	Winter is [MASK]	0
+89	I was approached by the President to serve as his adviser in foreign matters	I was [MASK] by the President to serve as his adviser in foreign matters	0
+90	We ascended the mountain.	We [MASK] the mountain.	0
+91	Inheritance may not ascend linearly.	Inheritance may not [MASK] linearly.	1
+92	She ascended to the throne after the King's death.	She [MASK] to the throne after the King's death.	0
+93	The boat ascended the Delaware.	The boat [MASK] the Delaware.	0
+94	The path ascended to the top of the hill.	The path [MASK] to the top of the hill.	0
+95	I asked about their special today	I [MASK] about their special today	0
+96	She asked him for a loan	She [MASK] him for a loan	0
+97	He is asking $200 for the table	He is [MASK] $200 for the table	0
+98	We were assigned new uniforms.	We were [MASK] new uniforms.	0
+99	The teacher assigned him to lead his classmates in the exercise.	The teacher [MASK] him to lead his classmates in the exercise.	0
+100	The biologist assigned the mushroom to the proper class.	The biologist [MASK] the mushroom to the proper class.	0
+101	Immigrants often want to assimilate quickly	Immigrants often want to [MASK] quickly	0
+102	This country assimilates immigrants very quickly	This country [MASK] immigrants very quickly	0
+103	The nasal assimilates to the following consonant	The nasal [MASK] to the following consonant	0
+104	I assume his train was late	I [MASK] his train was late	0
+105	When will the new President assume office?	When will the new President [MASK] office?	0
+106	He assumes the lotus position	He [MASK] the lotus position	0
+107	He assumed to himself the right to fill all positions in the town	He [MASK] to himself the right to fill all positions in the town	0
+108	"""She assumed indifference, even though she was seething with anger"""	"""She [MASK] indifference, even though she was seething with anger"""	0
+109	This is the day when May was assumed into heaven	This is the day when May was [MASK] into heaven	0
+110	"""Hitler attacked Poland on September 1, 1939 and started World War II"""	"""Hitler [MASK] Poland on September 1, 1939 and started World War II"""	0
+111	The editors of the left-leaning paper attacked the new House Speaker	The editors of the left-leaning paper [MASK] the new House Speaker	1
+112	The Serbs attacked the village at night	The Serbs [MASK] the village at night	0
+113	I attacked the problem as soon as I got out of bed	I [MASK] the problem as soon as I got out of bed	1
+114	The cancer cells are attacking his liver	The cancer cells are [MASK] his liver	0
+115	She attends class regularly	She [MASK] class regularly	0
+116	Menuhin's playing was attended by a 15-minute standing ovation	Menuhin's playing was [MASK] by a 15-minute standing ovation	0
+117	She attends the old lady in the wheelchair	She [MASK] the old lady in the wheelchair	0
+118	The children in the audience attended the recital quietly	The children in the audience [MASK] the recital quietly	0
+119	His high fever attested to his illness	His high fever [MASK] to his illness	1
+120	I attest this signature	I [MASK] this signature	0
+121	This word is not attested until 1993	This word is not [MASK] until 1993	0
+122	Let's avoid a confrontation.	Let's [MASK] a confrontation.	0
+123	Muslims avoid tobacco during the day.	Muslims [MASK] tobacco during the day.	0
+124	back into the driveway	[MASK] into the driveway	0
+125	back the car into the parking spot	[MASK] the car into the parking spot	0
+126	back this enterprise	[MASK] this enterprise	0
+127	My garage backs their yard	My garage [MASK] their yard	0
+128	Which horse are you backing?	Which horse are you [MASK]	1
+129	Can you back up your claims?	Can you [MASK] up your claims?	0
+130	The DMZ begins right over the hill	The DMZ [MASK] right over the hill	0
+131	The number `one' begins the sequence	The number `one' [MASK] the sequence	0
+132	The novel begins with a murder	The novel [MASK] with a murder	0
+133	This economic measure doesn't even begin to deal with the problem of inflation	This economic measure doesn't even [MASK] to deal with the problem of inflation	0
+134	I believed his report	I [MASK] his report	0
+135	I believe that he will come back from the war	I [MASK] that he will come back from the war	0
+136	"""When you hear his sermons, you will be able to believe, too"""	"""When you hear his sermons, you will be able to [MASK] too"""	0
+137	You cannot believe this man	You cannot [MASK] this man	0
+138	This book belongs to me	This book [MASK] to me	0
+139	This student somehow doesn't belong	This student somehow doesn't [MASK]	0
+140	Where do these books belong?	Where do these books [MASK]	0
+141	The whales belong among the mammals	The whales [MASK] among the mammals	0
+142	They belong to the same political party	They [MASK] to the same political party	0
+143	the uniform looks like it belonged to a museum collection	the uniform looks like it [MASK] to a museum collection	0
+144	The Turks besieged Vienna	The Turks [MASK] Vienna	0
+145	She was besieged by so many problems that she got discouraged	She was [MASK] by so many problems that she got discouraged	1
+146	The press photographers besieged the movie star	The press photographers [MASK] the movie star	0
+147	The Chinese would bind the feet of their women.	The Chinese would [MASK] the feet of their women.	0
+148	They bind their books in leather.	They [MASK] their books in leather.	0
+149	The hydrogen binds the oxygen.	The hydrogen [MASK] the oxygen.	0
+150	She tended to blast when speaking into a microphone	She tended to [MASK] when speaking into a microphone	1
+151	the air conditioning was blasting cold air at us	the air conditioning was [MASK] cold air at us	0
+152	blast a passage through the mountain	[MASK] a passage through the mountain	0
+153	blast a tunnel through the Alps	[MASK] a tunnel through the Alps	0
+154	the gunman blasted away	the gunman [MASK] away	0
+155	Meteors blazed across the atmosphere.	Meteors [MASK] across the atmosphere.	1
+156	He blazed away at the men.	He [MASK] away at the men.	1
+157	The summer sun alone can cause a pine to blaze.	The summer sun alone can cause a pine to [MASK].	0
+158	The spaceship blazed out into space.	The spaceship [MASK] out into space.	1
+159	She blended the nuts and raisins together.	She [MASK] the nuts and raisins together.	0
+160	This flavor will blend with those in your dish.	This flavor will [MASK] with those in your dish.	0
+161	The colors blend well.	The colors [MASK] well.	0
+162	Her feet blistered during the long hike.	Her feet [MASK] during the long hike.	0
+163	The Senator blistered the administration in his speech on Friday.	The Senator [MASK] the administration in his speech on Friday.	1
+164	The tight shoes and perspiration blistered her feet.	The tight shoes and perspiration [MASK] her feet.	0
+165	The haze blurs the hills	The haze [MASK] the hills	0
+166	The fog blurs my vision	The fog [MASK] my vision	0
+167	The distinction between the two theories blurred	The distinction between the two theories [MASK]	1
+168	her rucksack bobbed gently on her back	her rucksack [MASK] gently on her back	0
+169	The boys bobbed down the hill screaming with pleasure	The boys [MASK] down the hill screaming with pleasure	0
+170	Bernice bobs her hair these days!	Bernice [MASK] her hair these days!	0
+171	She bolted from her seat	She [MASK] from her seat	0
+172	The listeners bolted when he discussed his strange ideas	The listeners [MASK] when he discussed his strange ideas	0
+173	Don't bolt your food!	Don't [MASK] your food!	1
+174	The tax cut will boost the economy.	The tax cut will [MASK] the economy.	1
+175	Boost the voltage in an electrical circuit.	[MASK] the voltage in an electrical circuit.	0
+176	The singer had to be boosted onto the stage by a special contraption.	The singer had to be [MASK] onto the stage by a special contraption.	0
+177	Mosquitoes buzzing in my ear really bothers me	Mosquitoes buzzing in my ear really [MASK] me	0
+178	Don't bother the professor while she is grading term papers	Don't [MASK] the professor while she is grading term papers	0
+179	The mere thought of her bothered him and made his heart beat faster	The mere thought of her [MASK] him and made his heart beat faster	0
+180	The rubber ball bounced	The rubber ball [MASK]	0
+181	He bounced to his feet	He [MASK] to his feet	0
+182	The ex-boxer's job is to bounce people who want to enter this private club	The ex-boxer's job is to [MASK] people who want to enter this private club	1
+183	He bowed before the King	He [MASK] before the King	0
+184	The government bowed to the military pressure	The government [MASK] to the military pressure	1
+185	He bowed before the King	He [MASK] before the King	0
+186	She bowed before the Queen	She [MASK] before the Queen	0
+187	I can breathe better when the air is clean	I can [MASK] better when the air is clean	0
+188	Every creature that breathes	Every creature that [MASK]	0
+189	He breathed new life into the old house	He [MASK] new life into the old house	1
+190	Our new synthetic fabric breathes and is perfect for summer wear	Our new synthetic fabric [MASK] and is perfect for summer wear	1
+191	She breathes the Christian spirit	She [MASK] the Christian spirit	1
+192	This rare Bordeaux must be allowed to breathe for at least 2 hours	This rare Bordeaux must be allowed to [MASK] for at least 2 hours	1
+193	Johnson brushed the hairs from his jacket	Johnson [MASK] the hairs from his jacket	0
+194	He brushed the wall lightly	He [MASK] the wall lightly	0
+195	She brushed the suit before hanging it back into the closet	She [MASK] the suit before hanging it back into the closet	0
+196	Her long skirt brushed the floor	Her long skirt [MASK] the floor	0
+197	brush away the crumbs	[MASK] away the crumbs	0
+198	brush the bread with melted butter	[MASK] the bread with melted butter	0
+199	Suspense was building right from the beginning of the opera	Suspense was [MASK] right from the beginning of the opera	0
+200	The government is building new schools in this state	The government is [MASK] new schools in this state	0
+201	build a modern nation	[MASK] a modern nation	0
+202	These architects build in interesting and new styles	These architects [MASK] in interesting and new styles	0
+203	build a defense on nothing but the accused person's reputation	[MASK] a defense on nothing but the accused person's reputation	0
+204	This sum will buy you a ride on the train	This sum will [MASK] you a ride on the train	0
+205	She wanted to buy his love with her dedication to him and his work	She wanted to [MASK] his love with her dedication to him and his work	0
+206	I can't buy this story	I can't [MASK] this story	1
+207	bees were buzzing around the hive	bees were [MASK] around the hive	0
+208	Planes buzzed the crowds in the square	Planes [MASK] the crowds in the square	0
+209	This office is buzzing with activity	This office is [MASK] with activity	1
+210	he buzzed the servant	he [MASK] the servant	1
+211	capture the essence of Spring	[MASK] the essence of Spring	1
+212	She captured all the men's hearts	She [MASK] all the men's hearts	1
+213	This nucleus has captured the slow-moving neutrons	This nucleus has [MASK] the slow-moving neutrons	0
+214	She challenged his claims	She [MASK] his claims	0
+215	Fischer challenged Spassky to a match	Fischer [MASK] Spassky to a match	0
+216	The illegal immigrant was challenged by the border guard	The illegal immigrant was [MASK] by the border guard	0
+217	Father had to learn how to change the baby	Father had to learn how to [MASK] the baby	0
+218	She changed completely as she grew older	She [MASK] completely as she grew older	0
+219	her mood changes in accordance with the weather	her mood [MASK] in accordance with the weather	0
+220	Would you change places with me?	Would you [MASK] places with me?	0
+221	She changed in Chicago on her way to the East coast	She [MASK] in Chicago on her way to the East coast	0
+222	His voice began to change when he was 12 years old	His voice began to [MASK] when he was 12 years old	0
+223	everybody cheered the birthday boy	everybody [MASK] the birthday boy	0
+224	She tried to cheer up the disappointed child when he failed to win the spelling bee	She tried to [MASK] up the disappointed child when he failed to win the spelling bee	0
+225	The crowd cheered the demonstrating strikers	The crowd [MASK] the demonstrating strikers	0
+226	This letter is being circulated among the faculty.	This letter is being [MASK] among the faculty.	0
+227	Blood circulates in my veins.	Blood [MASK] in my veins.	0
+228	The fan circulates the air in the room.	The fan [MASK] the air in the room.	0
+229	She circulates among royalty.	She [MASK] among royalty.	1
+230	He claimed that he killed the burglar	He [MASK] that he killed the burglar	0
+231	He claimed his suitcases at the airline counter	He [MASK] his suitcases at the airline counter	0
+232	They claimed on the maximum allowable amount	They [MASK] on the maximum allowable amount	0
+233	the accident claimed three lives	the accident [MASK] three lives	0
+234	he clamored for justice and tolerance	he [MASK] for justice and tolerance	0
+235	The delegates clamored their disappointment	The delegates [MASK] their disappointment	1
+236	They clamored the mayor into building a new park	They [MASK] the mayor into building a new park	0
+237	The judge clapped him in jail	The judge [MASK] him in jail	1
+238	The big bird clapped its wings	The big bird [MASK] its wings	0
+239	The children were clapping to the music	The children were [MASK] to the music	0
+240	the wings of the birds clapped loudly	the wings of the birds [MASK] loudly	0
+241	clap two boards together	[MASK] two boards together	0
+242	They clawed their way to the top of the mountain.	They [MASK] their way to the top of the mountain.	1
+243	She clawed the doorknob.	She [MASK] the doorknob.	1
+244	The politician clawed his rival.	The politician [MASK] his rival.	1
+245	The dentist cleaned my teeth	The dentist [MASK] my teeth	0
+246	clean grain before milling it	[MASK] grain before milling it	0
+247	clean up before you see your grandparents	[MASK] up before you see your grandparents	0
+248	This stove cleans easily	This stove [MASK] easily	0
+249	The other players cleaned him completely	The other players [MASK] him completely	0
+250	The boys cleaned the sandwich platters	The boys [MASK] the sandwich platters	0
+251	Did you ever climb up the hill behind your house?	Did you ever [MASK] up the hill behind your house?	0
+252	Sales were climbing after prices were lowered	Sales were [MASK] after prices were lowered	1
+253	The path climbed all the way to the top of the hill	The path [MASK] all the way to the top of the hill	1
+254	This young man knows how to climb the social ladder	This young man knows how to [MASK] the social ladder	1
+255	prices climbed steeply	prices [MASK] steeply	1
+256	The leaves clog our drains in the Fall	The leaves [MASK] our drains in the Fall	0
+257	horses were clogged until they were tamed	horses were [MASK] until they were tamed	1
+258	The market is being clogged by these operations	The market is being [MASK] by these operations	1
+259	Fear clogged her mind	Fear [MASK] her mind	1
+260	The stars are obscured by the clouds.	The stars are obscured by the [MASK].	0
+261	The smoke clouded above the houses.	The smoke [MASK] above the houses.	0
+262	Their faces were clouded with sadness.	Their faces were [MASK] with sadness.	1
+263	The stroke clouded memories of her youth.	The stroke [MASK] memories of her youth.	1
+264	The chemical clouded the liquid to which it was added.	The chemical [MASK] the liquid to which it was added.	1
+265	The church members co-opted individuals from similar backgrounds to replenish the congregation	The church members [MASK] individuals from similar backgrounds to replenish the congregation	0
+266	We co-opted the independent minority tribes by pulling them into the Northern Alliance	We [MASK] the independent minority tribes by pulling them into the Northern Alliance	0
+267	The army tried to co-opt peasants into civil defence groups	The army tried to [MASK] peasants into civil defence groups	0
+268	He co-opted the criticism and embraced it	He [MASK] the criticism and embraced it	0
+269	The child colored the drawings	The child [MASK] the drawings	0
+270	My personal feelings color my judgment in this case	My personal feelings [MASK] my judgment in this case	1
+271	His political ideas color his lectures	His political ideas [MASK] his lectures	1
+272	color the walls with paint in warm tones	[MASK] the walls with paint in warm tones	0
+273	She committed herself to the work of God	She [MASK] herself to the work of God	0
+274	"""After the second episode, she had to be committed"""	"""After the second episode, she had to be [MASK]"""	0
+275	commit a random act of kindness	[MASK] a random act of kindness	0
+276	Please communicate this message to all employees	Please [MASK] this message to all employees	0
+277	He communicated his anxieties to the psychiatrist	He [MASK] his anxieties to the psychiatrist	0
+278	communicate a disease	[MASK] a disease	0
+279	The rooms communicated	The rooms [MASK]	1
+280	He and his sons haven't communicated for years	He and his sons haven't [MASK] for years	0
+281	John compared his haircut to his friend's	John [MASK] his haircut to his friend's	0
+282	This car does not compare with our line of Mercedes	This car does not [MASK] with our line of Mercedes	0
+283	We can compare the Han dynasty to the Romans	We can [MASK] the Han dynasty to the Romans	0
+284	Greed and ambition composed his personality	Greed and ambition [MASK] his personality	1
+285	Beethoven composed nine symphonies	Beethoven [MASK] nine symphonies	0
+286	She had to compose herself before she could reply to this terrible insult	She had to [MASK] herself before she could reply to this terrible insult	0
+287	Our office is fully computerized now.	Our office is fully [MASK] now.	0
+288	Please use a computerized disctionary.	Please use a [MASK] disctionary.	0
+289	They computerized the car industry	They [MASK] the car industry	0
+290	We condemn the racism in South Africa	We [MASK] the racism in South Africa	0
+291	The building was condemned by the inspector	The building was [MASK] by the inspector	0
+292	His devotion to his sick wife condemned him to a lonely existence	His devotion to his sick wife [MASK] him to a lonely existence	1
+293	Her strange behavior condemned her	Her strange behavior [MASK] her	0
+294	He was condemned to ten years in prison	He was [MASK] to ten years in prison	0
+295	the county condemned the land to build a highway	the county [MASK] the land to build a highway	0
+296	condense the contents of a book into a summary	[MASK] the contents of a book into a summary	0
+297	The cold air condensed the steam	The cold air [MASK] the steam	0
+298	Her feelings condensed	Her feelings [MASK]	1
+299	All our planets condensed out of the same material	All our planets [MASK] out of the same material	0
+300	Congress condensed the three-year plan into a six-month plan	Congress [MASK] the three-year plan into a six-month plan	0
+301	You cannot conduct business like this	You cannot [MASK] business like this	0
+302	conduct an orchestra; Barenboim conducted the Chicago symphony for years	[MASK] an orchestra; Barenboim conducted the Chicago symphony for years	0
+303	Bernstein conducted Mahler like no other conductor	Bernstein [MASK] Mahler like no other conductor	0
+304	his story confirmed my doubts	his story [MASK] my doubts	0
+305	The witnesses confirmed the victim's account	The witnesses [MASK] the victim's account	0
+306	The Senate confirmed the President's candidate for Secretary of Defense	The Senate [MASK] the President's candidate for Secretary of Defense	0
+307	the children were confirmed in their mother's faith	the children were [MASK] in their mother's faith	0
+308	You must confront your opponent	You must [MASK] your opponent	0
+309	You must confront your problems	You must [MASK] your problems	0
+310	We confronted him with the evidence	We [MASK] him with the evidence	0
+311	The child screamed when he confronted the man in the Halloween costume	The child screamed when he [MASK] the man in the Halloween costume	0
+312	These questions confuse even the experts.	These questions [MASK] even the experts.	0
+313	The constant attention of the young man confused her.	The constant attention of the young man [MASK] her.	0
+314	Her remarks confused the debate.	Her remarks [MASK] the debate.	0
+315	consider the possibility of moving	[MASK] the possibility of moving	0
+316	You must consider her age	You must [MASK] her age	0
+317	They considered the possibility of a strike	They [MASK] the possibility of a strike	0
+318	Please consider your family	Please [MASK] your family	0
+319	The companies consolidated	The companies [MASK]	0
+320	consolidate one's gains	[MASK] one's gains	0
+321	The town and county schools are being consolidated	The town and county schools are being [MASK]	0
+322	The mud had consolidated overnight	The mud had [MASK] overnight	0
+323	consolidate fibers into boards	[MASK] fibers into boards	0
+324	The United States were constitutionalized in the late 18th century	The United States were [MASK] in the late 18th century	0
+325	A good way of exercising is to constitutionalize	A good way of exercising is to [MASK]	0
+326	A woman's right to an abortion was constitutionalized in the 1970's	A woman's right to an abortion was [MASK] in the 1970's	0
+327	construct an equilateral triangle	[MASK] an equilateral triangle	0
+328	construct a sentence	[MASK] a sentence	0
+329	construct an argument	[MASK] an argument	0
+330	The fire consumed the building	The fire [MASK] the building	1
+331	this car consumes a lot of gas	this car [MASK] a lot of gas	0
+332	The effort to pass the exam consumed all his energy	The effort to pass the exam [MASK] all his energy	0
+333	We continued to work into the night	We [MASK] to work into the night	0
+334	The bad weather continued for two more weeks	The bad weather [MASK] for two more weeks	0
+335	We cannot continue several servants any longer	We cannot [MASK] several servants any longer	0
+336	We continued our research into the cause of the illness	We [MASK] our research into the cause of the illness	0
+337	The demonstration continued after a break for lunch	The demonstration [MASK] after a break for lunch	0
+338	The crowd converged on the movie star.	The crowd [MASK] on the movie star.	0
+339	Social forces converged to bring the Fascists back to power.	Social forces [MASK] to bring the Fascists back to power.	1
+340	The comedian convulsed the crowd	The comedian [MASK] the crowd	1
+341	earthquakes convulsed the countryside	earthquakes [MASK] the countryside	0
+342	The spasm convulses her facial muscles	The spasm [MASK] her facial muscles	0
+343	The muscles in her face convulsed	The muscles in her face [MASK]	0
+344	My husband doesn't cook	My husband doesn't [MASK]	0
+345	These potatoes have to cook for 20 minutes	These potatoes have to [MASK] for 20 minutes	0
+346	The apothecary cooked the medicinal mixture in a big iron kettle	The apothecary [MASK] the medicinal mixture in a big iron kettle	0
+347	engineers will work to correct the effects or air resistance	engineers will work to [MASK] the effects or air resistance	0
+348	the stock market corrected	the stock market [MASK]	1
+349	The new contact lenses will correct for his myopia	The new contact lenses will [MASK] for his myopia	0
+350	Can you count the books on your shelf?	Can you [MASK] the books on your shelf?	0
+351	The toddler could count to 100	The toddler could [MASK] to 100	0
+352	The academy counts several Nobel Prize winners among its members	The academy [MASK] several Nobel Prize winners among its members	0
+353	I can count my colleagues in the opposition	I can [MASK] my colleagues in the opposition	0
+354	each answer counts as three points	each answer [MASK] as three points	0
+355	you can count on me to help you any time	you can [MASK] on me to help you any time	1
+356	The crocodile was crawling along the riverbed	The crocodile was [MASK] along the riverbed	0
+357	My skin crawled--I was terrified	My skin [MASK] was terrified	1
+358	The old cheese was crawling with maggots	The old cheese was [MASK] with maggots	1
+359	European children learn the breast stroke; they often don't know how to crawl	European children learn the breast stroke; they often don't know how to [MASK]	0
+360	We credited her for saving our jobs	We [MASK] her for saving our jobs	0
+361	She was not properly credited in the program	She was not properly [MASK] in the program	0
+362	We credit your account with $100	We [MASK] your account with $100	0
+363	The prince was crowned in Westminster Abbey	The prince was [MASK] in Westminster Abbey	0
+364	The speech crowned the meeting	The speech [MASK] the meeting	1
+365	A weather vane crowns the building	A weather vane [MASK] the building	1
+366	crush an aluminum can	[MASK] an aluminum can	0
+367	The car crushed the toy	The car [MASK] the toy	0
+368	She was crushed by his refusal of her invitation	She was [MASK] by his refusal of her invitation	1
+369	The plastic bottle crushed against the wall	The plastic bottle [MASK] against the wall	0
+370	The meeting culminated in a tearful embrace.	The meeting [MASK] in a tearful embrace.	1
+371	Seurat culminated pointillism.	Seurat [MASK] pointillism.	1
+372	The helmet culminated in a crest.	The helmet [MASK] in a crest.	0
+373	The cigar smoke curled up at the ceiling.	The cigar smoke [MASK] up at the ceiling.	1
+374	She curled farther down under the covers.	She [MASK] farther down under the covers.	1
+375	"""Curl my hair, please."""	"""[MASK] my hair, please."""	0
+376	The young girl danced into the room.	The young girl [MASK] into the room.	0
+377	My husband and I like to dance at home to the radio.	My husband and I like to [MASK] at home to the radio.	0
+378	The children danced with joy.	The children [MASK] with joy.	0
+379	She dashed into the yard	She [MASK] into the yard	0
+380	He dashed the plate against the wall	He [MASK] the plate against the wall	0
+381	dashed ambitions and hopes	[MASK] ambitions and hopes	1
+382	dashed by the refusal	[MASK] by the refusal	1
+383	blue paint dashed with white	blue paint [MASK] with white	0
+384	The package is dated November 24	The package is [MASK] November 24	0
+385	Scientists often cannot date precisely archeological or prehistorical findings	Scientists often cannot [MASK] precisely archeological or prehistorical findings	0
+386	She wrote the letter on Monday but she dated it Saturday so as not to reveal that she procrastinated	She wrote the letter on Monday but she [MASK] it Saturday so as not to reveal that she procrastinated	0
+387	It dawned on him that she had betrayed him	It [MASK] on him that she had betrayed him	1
+388	The age of computers had dawned	The age of computers had [MASK]	1
+389	"""It started to dawn, and we had to get up"""	"""It started to [MASK] and we had to get up"""	0
+390	The band debuts a new song or two each month	The band [MASK] a new song or two each month	0
+391	"""The new ballet that debuts next months at Covent Garden, is already sold out"""	"""The new ballet that [MASK] next months at Covent Garden, is already sold out"""	0
+392	This young soprano debuts next month at the Metropolitan Opera	This young soprano [MASK] next month at the Metropolitan Opera	0
+393	We finally decided after lengthy deliberations	We finally [MASK] after lengthy deliberations	0
+394	The case was decided	The case was [MASK]	0
+395	This new development finally decided me!	This new development finally [MASK] me!	0
+396	The vote in New Hampshire often decides the outcome of the Presidential election	The vote in New Hampshire often [MASK] the outcome of the Presidential election	0
+397	He declared that he needed more money to carry out the task he was charged with	He [MASK] that he needed more money to carry out the task he was charged with	0
+398	The President declared war	The President [MASK] war	0
+399	He declared that he was innocent	He [MASK] that he was innocent	0
+400	She was declared incompetent	She was [MASK] incompetent	0
+401	Do you have anything to declare?	Do you have anything to [MASK]	0
+402	His wife declared at once for moving to the West Coast	His wife [MASK] at once for moving to the West Coast	0
+403	he declined to join the group on a hike	he [MASK] to join the group on a hike	0
+404	The roof declines here	The roof [MASK] here	0
+405	"""in many languages, speakers decline nouns, pronouns, and adjectives"""	"""in many languages, speakers [MASK] nouns, pronouns, and adjectives"""	0
+406	deflate the air mattress	[MASK] the air mattress	0
+407	The bad review of his work deflated his self-confidence	The bad review of his work [MASK] his self-confidence	1
+408	The new measures deflated the economy	The new measures [MASK] the economy	1
+409	deflate the currency	[MASK] the currency	1
+410	The balloons deflated	The balloons [MASK]	0
+411	the heat deformed the plastic sculpture	the heat [MASK] the plastic sculpture	0
+412	The sidewalk deformed during the earthquake	The sidewalk [MASK] during the earthquake	0
+413	His body was deformed by leprosy	His body was [MASK] by leprosy	0
+414	You should carry dehydrated food on your camping trip.	You should carry [MASK] food on your camping trip.	0
+415	All this exercise and sweating has dehydrated me.	All this exercise and sweating has [MASK] me.	0
+416	"""In the desert, you get dehydrated very quickly."""	"""In the desert, you get [MASK] very quickly."""	0
+417	The victim's family is demanding compensation	The victim's family is [MASK] compensation	0
+418	The bank demanded payment of the loan	The bank [MASK] payment of the loan	0
+419	I demand an explanation	I [MASK] an explanation	0
+420	Her smile denoted that she agreed	Her smile [MASK] that she agreed	0
+421	`multi-' denotes `many' 	`multi-' [MASK] `many' 	0
+422	She denoted her feelings clearly	She [MASK] her feelings clearly	0
+423	These news depressed her	These news [MASK] her	0
+424	The glut of oil depressed gas prices	The glut of oil [MASK] gas prices	1
+425	The lack of rain had depressed the water level in the reservoir	The lack of rain had [MASK] the water level in the reservoir	1
+426	The rising inflation depressed the economy	The rising inflation [MASK] the economy	0
+427	The mother deserted her children	The mother [MASK] her children	0
+428	"""If soldiers deserted Hitler's army, they were shot"""	"""If soldiers [MASK] Hitler's army, they were shot"""	0
+429	the students deserted the campus after the end of exam period	the students [MASK] the campus after the end of exam period	0
+430	This room is not designed for work.	This room is not [MASK] for work.	0
+431	Chanel designed the famous suit.	Chanel [MASK] the famous suit.	0
+432	It is difficult to design a better mousetrap.	It is difficult to [MASK] a better mousetrap.	0
+433	Dupont designs for the house of Chanel.	Dupont [MASK] for the house of Chanel.	0
+434	She designed a good excuse for not attending classes that day.	She [MASK] a good excuse for not attending classes that day.	1
+435	She designed to go far in the world of business.	She [MASK] to go far in the world of business.	0
+436	Fire had devoured our home	Fire had [MASK] our home	1
+437	She devoured his novels	She [MASK] his novels	1
+438	he devoured three sandwiches	he [MASK] three sandwiches	0
+439	I cannot digest milk products	I cannot [MASK] milk products	0
+440	I cannot digest all this information	I cannot [MASK] all this information	1
+441	Protein digests in a few hours	Protein [MASK] in a few hours	0
+442	the government digested the entire law into a code	the government [MASK] the entire law into a code	1
+443	The painting discolored.	The painting [MASK].	0
+444	The detergent discolored my shirts.	The detergent [MASK] my shirts.	0
+445	The shirts discolored.	The shirts [MASK].	0
+446	She dismissed his advances	She [MASK] his advances	0
+447	This case is dismissed!	This case is [MASK]	0
+448	I was dismissed after I gave my report	I was [MASK] after I gave my report	0
+449	The acid distills at a specific temperature	The acid [MASK] at a specific temperature	0
+450	distill the essence of this compound	[MASK] the essence of this compound	0
+451	The doctor distilled a few drops of disinfectant onto the wound	The doctor [MASK] a few drops of disinfectant onto the wound	0
+452	distill the essence of this compound	[MASK] the essence of this compound	0
+453	The acid distills at a specific temperature	The acid [MASK] at a specific temperature	0
+454	The doctor distilled a few drops of disinfectant onto the wound	The doctor [MASK] a few drops of disinfectant onto the wound	0
+455	divide the cake into three equal parts	[MASK] the cake into three equal parts	0
+456	Can you divide 49 by seven?	Can you [MASK] 49 by seven?	0
+457	The mountain range divides the two countries	The mountain range [MASK] the two countries	0
+458	The population doubled within 50 years	The population [MASK] within 50 years	0
+459	He doubled and vomited violently	He [MASK] and vomited violently	0
+460	She doubles as his wife and secretary	She [MASK] as his wife and secretary	0
+461	He downed three martinis before dinner.	He [MASK] three martinis before dinner.	1
+462	Some people can down a pound of meat in the course of one meal.	Some people can [MASK] a pound of meat in the course of one meal.	1
+463	The policeman downed the heavily armed suspect.	The policeman [MASK] the heavily armed suspect.	1
+464	Three secretaries were downsized during the financial crisis.	Three secretaries were [MASK] during the financial crisis.	1
+465	The car makers downsized the SUVs when fuel became very expensive.	The car makers [MASK] the SUVs when fuel became very expensive.	1
+466	The company downsized its research staff.	The company [MASK] its research staff.	0
+467	The rain water drains into this big vat.	The rain water [MASK] into this big vat.	0
+468	The exercise class drains me of energy.	The exercise class [MASK] me of energy.	1
+469	We drained the oil tank.	We [MASK] the oil tank.	0
+470	Life in the camp drained him.	Life in the camp [MASK] him.	1
+471	snow drifting several feet high	snow [MASK] several feet high	0
+472	stock prices are drifting higher	stock prices are [MASK] higher	1
+473	My son drifted around for years in California before going to law school	My son [MASK] around for years in California before going to law school	1
+474	The unknown young man drifted among the invited guests	The unknown young man [MASK] among the invited guests	1
+475	drift the boats downstream	[MASK] the boats downstream	0
+476	drift the cattle herds westwards	[MASK] the cattle herds westwards	0
+477	The stock market drifted upward	The stock market [MASK] upward	1
+478	The patient must drink several liters each day	The patient must [MASK] several liters each day	0
+479	We were up drinking all night	We were up [MASK] all night	0
+480	The mother drinks in every word of her son on the stage	The mother [MASK] in every word of her son on the stage	1
+481	The husband drinks and beats his wife	The husband [MASK] and beats his wife	0
+482	I was drowned in work	I was [MASK] in work	1
+483	She drowned her trouble in alcohol	She [MASK] her trouble in alcohol	1
+484	The child drowned in the lake	The child [MASK] in the lake	0
+485	He drowned the kittens	He [MASK] the kittens	0
+486	Age had dulled the surface	Age had [MASK] the surface	0
+487	the varnished table top dulled with time	the varnished table top [MASK] with time	0
+488	Too much cutting dulls the knife's edge	Too much cutting [MASK] the knife's edge	0
+489	Middle age dulled her appetite for travel	Middle age [MASK] her appetite for travel	1
+490	No dumping in these woods!	No [MASK] in these woods!	0
+491	The company dumped him after many years of service	The company [MASK] him after many years of service	1
+492	The truck dumped the garbage in the street	The truck [MASK] the garbage in the street	0
+493	He eased himself into the chair	He [MASK] himself into the chair	0
+494	ease the pain in your legs	[MASK] the pain in your legs	0
+495	The news eased my conscience	The news [MASK] my conscience	0
+496	She was eating a banana	She was [MASK] a banana	0
+497	We did not eat until 10 P.M. because there were so many phone calls	We did not [MASK] until 10 P.M. because there were so many phone calls	0
+498	This dog doesn't eat certain kinds of meat	This dog doesn't [MASK] certain kinds of meat	0
+499	"""Suddenly, the proprietor emerged from his office"""	"""Suddenly, the proprietor [MASK] from his office"""	0
+500	Some nice results emerged from the study	Some nice results [MASK] from the study	1
+501	He felt new emotions emerge	He felt new emotions [MASK]	0
+502	She ended their friendship when she found out that he had once been convicted of a crime.	She [MASK] their friendship when she found out that he had once been convicted of a crime.	0
+503	This sad scene ended the movie.	This sad scene [MASK] the movie.	0
+504	The terrible news ended our hopes that he had survived.	The terrible news [MASK] our hopes that he had survived.	0
+505	engraved the trophy cupt with the winner's	[MASK] the trophy cupt with the winner's	0
+506	The event engraved itself into her memory	The event [MASK] itself into her memory	1
+507	engrave the pen with the owner's name	[MASK] the pen with the owner's name	0
+508	The Turks erased the Armenians in 1915	The Turks [MASK] the Armenians in 1915	1
+509	Please erase the formula on the blackboard--it is wrong!	Please [MASK] the formula on the blackboard--it is wrong!	0
+510	Who erased the files form my hard disk?	Who [MASK] the files form my hard disk?	0
+511	Unrest erupted in the country	Unrest [MASK] in the country	1
+512	The tooth erupted and had to be extracted	The tooth [MASK] and had to be extracted	1
+513	Vesuvius erupts once in a while	Vesuvius [MASK] once in a while	0
+514	A rash erupted on her arms after she had touched the exotic plant	A rash [MASK] on her arms after she had touched the exotic plant	1
+515	The convicted murderer escaped from a high security prison	The convicted murderer [MASK] from a high security prison	0
+516	We escaped to our summer house for a few days	We [MASK] to our summer house for a few days	1
+517	Gas escaped into the bedroom	Gas [MASK] into the bedroom	0
+518	Schliemann excavated Troy.	Schliemann [MASK] Troy.	0
+519	Carnegie had a lake excavated for Princeton University's rowing team.	Carnegie had a lake [MASK] for Princeton University's rowing team.	0
+520	The mining company wants to excavate the hillside.	The mining company wants to [MASK] the hillside.	0
+521	The bad results were excluded from the report	The bad results were [MASK] from the report	0
+522	The cost for the trip excludes food and beverages	The cost for the trip [MASK] food and beverages	0
+523	The unruly student was excluded from the game	The unruly student was [MASK] from the game	0
+524	Please excuse my dirty hands	Please [MASK] my dirty hands	0
+525	Please excuse me from this class	Please [MASK] me from this class	0
+526	Your need to sleep late does not excuse your late arrival at work	Your need to sleep late does not [MASK] your late arrival at work	0
+527	excuse someone's behavior	[MASK] someone's behavior	0
+528	"""In some states, criminals are executed"""	"""In some states, criminals are [MASK]"""	0
+529	The Mafioso who collaborated with the police was executed	The Mafioso who collaborated with the police was [MASK]	0
+530	execute the decision of the people	[MASK] the decision of the people	0
+531	execute a will or a deed	[MASK] a will or a deed	0
+532	The President executed the treaty	The President [MASK] the treaty	0
+533	This kind of work exhausts me.	This kind of work [MASK] me.	0
+534	One should not exhaust one's savings.	One should not [MASK] one's savings.	1
+535	We have exhausted the food supplies.	We have [MASK] the food supplies.	1
+536	The meteorologists are expecting rain for tomorrow	The meteorologists are [MASK] rain for tomorrow	0
+537	We were expecting a visit from our relatives	We were [MASK] a visit from our relatives	0
+538	I'm expecting a full explanation as to why these files were destroyed	I'm [MASK] a full explanation as to why these files were destroyed	0
+539	She is expecting in March	She is [MASK] in March	0
+540	We exploded the nuclear bomb	We [MASK] the nuclear bomb	0
+541	The champagne bottle exploded	The champagne bottle [MASK]	0
+542	The boss exploded when he heard of the resignation of the secretary	The boss [MASK] when he heard of the resignation of the secretary	1
+543	The enemy exploded the bridge	The enemy [MASK] the bridge	0
+544	He exploit the new taxation system	He [MASK] the new taxation system	0
+545	we must exploit the resources we are given wisely	we must [MASK] the resources we are given wisely	0
+546	he is exploiting the students	he is [MASK] the students	0
+547	Can you express this distance in kilometers?	Can you [MASK] this distance in kilometers?	0
+548	Many of the laboratory animals express the trait.	Many of the laboratory animals [MASK] the trait.	1
+549	Italians express coffee rather than filter it.	Italians [MASK] coffee rather than filter it.	0
+550	She expressed the letter to Florida.	She [MASK] the letter to Florida.	0
+551	The two sofas face each other.	The two sofas [MASK] each other.	0
+552	Turn and face your partner now.	Turn and [MASK] your partner now.	1
+553	A glossy material faced the lapels of the jacket.	A glossy material [MASK] the lapels of the jacket.	1
+554	The building was faced with beautiful stones.	The building was [MASK] with beautiful stones.	1
+555	a quantum computer can factor the number 15	a quantum computer can [MASK] the number 15	0
+556	make things factor into a company's profitability	make things [MASK] into a company's profitability	0
+557	You must factor in the recent developments	You must [MASK] in the recent developments	0
+558	He fastened the lock onto the door.	He [MASK] the lock onto the door.	0
+559	This dress fastens in the back.	This dress [MASK] in the back.	0
+560	They fastened various nicknames to each other.	They [MASK] various nicknames to each other.	1
+561	I fear she might get aggressive	I [MASK] she might get aggressive	0
+562	I fear the winters in Moscow	I [MASK] the winters in Moscow	0
+563	I fear I won't make it to your wedding party	I [MASK] I won't make it to your wedding party	0
+564	I fear the results of the final exams	I [MASK] the results of the final exams	0
+565	The Middle East is fermenting	The Middle East is [MASK]	1
+566	Islam is fermenting Africa	Islam is [MASK] Africa	1
+567	We ferment the grapes for a very long time to achieve high alcohol content	We [MASK] the grapes for a very long time to achieve high alcohol content	0
+568	fill the child with pride	[MASK] the child with pride	1
+569	The pool slowly filled with water	The pool slowly [MASK] with water	0
+570	The liquid fills the container	The liquid [MASK] the container	0
+571	He filled up on turkey	He [MASK] up on turkey	0
+572	He finished the dishes	He [MASK] the dishes	0
+573	The carpenter finished the table beautifully	The carpenter [MASK] the table beautifully	0
+574	That finished me with Mary	That [MASK] me with Mary	0
+575	The boss fired his secretary today	The boss [MASK] his secretary today	0
+576	The soldiers were fired	The soldiers were [MASK]	0
+577	Oil fires the furnace	Oil [MASK] the furnace	0
+578	This piece won't fit into the puzzle	This piece won't [MASK] into the puzzle	0
+579	He fitted other pieces of paper to his cut-out	He [MASK] other pieces of paper to his cut-out	0
+580	Can you fit the toy into the box?	Can you [MASK] the toy into the box?	0
+581	How does this shirt fit?	How does this shirt [MASK]	0
+582	flags flapped in the strong wind	flags [MASK] in the strong wind	0
+583	The bird flapped its wings	The bird [MASK] its wings	0
+584	The bird's wings were flapping	The bird's wings were [MASK]	0
+585	Every star seemed to flare with new intensity.	Every star seemed to [MASK] with new intensity.	1
+586	The bellbottom pants flare out.	The bellbottom pants [MASK] out.	0
+587	The night sky flared with the massive bombardment.	The night sky [MASK] with the massive bombardment.	1
+588	The lights were flashing	The lights were [MASK]	0
+589	The headlines flashed on the screen	The headlines [MASK] on the screen	0
+590	The latest intelligence is flashed to all command posts	The latest intelligence is [MASK] to all command posts	1
+591	he flashed a $100 bill	he [MASK] a $100 bill	1
+592	A shooting star flashed and was gone	A shooting star [MASK] and was gone	0
+593	The lights flicked on and off.	The lights [MASK] on and off.	0
+594	He flicked a piece of paper across the table.	He [MASK] a piece of paper across the table.	0
+595	The father flicked him with his hand.	The father [MASK] him with his hand.	1
+596	He floated the logs down the river	He [MASK] the logs down the river	0
+597	The Republicans are floating the idea of a tax reform	The Republicans are [MASK] the idea of a tax reform	1
+598	The dancer floated across the stage	The dancer [MASK] across the stage	1
+599	The government floated the ruble for a few months	The government [MASK] the ruble for a few months	1
+600	The swollen river flooded the village	The swollen river [MASK] the village	0
+601	flood the market with tennis shoes	[MASK] the market with tennis shoes	1
+602	Our basement flooded during the heavy rains	Our basement [MASK] during the heavy rains	0
+603	The crowd flowed out of the stadium	The crowd [MASK] out of the stadium	1
+604	Water flowed into the cave	Water [MASK] into the cave	0
+605	The artist flowed the washes on the paper	The artist [MASK] the washes on the paper	1
+606	The champagne flowed at the wedding	The champagne [MASK] at the wedding	1
+607	The garbage flushed down the river	The garbage [MASK] down the river	0
+608	the sky flushed with rosy splendor	the sky [MASK] with rosy splendor	1
+609	flush the wound with antibiotics	[MASK] the wound with antibiotics	1
+610	social groups form everywhere	social groups [MASK] everywhere	0
+611	This wall forms the background of the stage setting	This wall [MASK] the background of the stage setting	1
+612	form the young child's character	[MASK] the young child's character	1
+613	the water formed little beads	the water [MASK] little beads	0
+614	This writer really fractures the language.	This writer really [MASK] the language.	1
+615	These events could fracture the balance of power.	These events could [MASK] the balance of power.	1
+616	The pothole fractured a bolt on the axle.	The pothole [MASK] a bolt on the axle.	0
+617	The tibia fractured from the blow of the iron pipe.	The tibia [MASK] from the blow of the iron pipe.	0
+618	"""fuel aircraft, ships, and cars"""	"""[MASK] aircraft, ships, and cars"""	0
+619	The tanker fueled in Bahrain	The tanker [MASK] in Bahrain	0
+620	fuel the debate on creationism	[MASK] the debate on creationism	1
+621	The press was gagged	The press was [MASK]	1
+622	The burglars gagged the home owner and tied him to a chair	The burglars [MASK] the home owner and tied him to a chair	0
+623	The students were gagging during dinner	The students were [MASK] during dinner	0
+624	he swallowed a fishbone and gagged	he swallowed a fishbone and [MASK]	0
+625	The home team was gaining ground	The home team was [MASK] ground	0
+626	The stock market gained 24 points today	The stock market [MASK] 24 points today	0
+627	the peace movement gained momentum	the peace movement [MASK] momentum	0
+628	She gained 20 pounds when she stopped exercising	She [MASK] 20 pounds when she stopped exercising	0
+629	He was galloping down the road	He was [MASK] down the road	0
+630	The horse was galloping along	The horse was [MASK] along	0
+631	Did you gallop the horse just now?	Did you [MASK] the horse just now?	0
+632	I gather you have not done your homework.	I [MASK] you have not done your homework.	1
+633	She gathered her shawl around her shoulders.	She [MASK] her shawl around her shoulders.	0
+634	Our ancestors gathered nuts in the Fall.	Our ancestors [MASK] nuts in the Fall.	0
+635	The girl glared at the man who tried to make a pass at her	The girl [MASK] at the man who tried to make a pass at her	0
+636	The moon glared back at itself from the lake's surface	The moon [MASK] back at itself from the lake's surface	1
+637	The sun glared down on us	The sun [MASK] down on us	1
+638	The fireflies were glowing and flying about in the garden	The fireflies were [MASK] and flying about in the garden	0
+639	Her face glowed when she came out of the sauna	Her face [MASK] when she came out of the sauna	1
+640	The coals were glowing in the dark	The coals were [MASK] in the dark	0
+641	Make the people's hearts glow	Make the people's hearts [MASK]	1
+642	His belief in God governs his conduct	His belief in God [MASK] his conduct	0
+643	Who is governing the country now?	Who is [MASK] the country now?	0
+644	most transitive verbs govern the accusative case in German	most transitive verbs [MASK] the accusative case in German	1
+645	The passenger grabbed for the oxygen mask	The passenger [MASK] for the oxygen mask	0
+646	She grabbed the child's hand and ran out of the room	She [MASK] the child's hand and ran out of the room	0
+647	This story will grab you	This story will [MASK] you	1
+648	The conversation gravitated towards politics	The conversation [MASK] towards politics	1
+649	Boys gravitate towards girls at that age	Boys [MASK] towards girls at that age	0
+650	The stars gravitate towards each other	The stars [MASK] towards each other	0
+651	grind the spices in a mortar	[MASK] the spices in a mortar	0
+652	grind designs into the glass bowl	[MASK] designs into the glass bowl	0
+653	grind lenses for glasses and cameras	[MASK] lenses for glasses and cameras	0
+654	She groped for her glasses in the darkness of the bedroom	She [MASK] for her glasses in the darkness of the bedroom	0
+655	His mind groped to make the connection	His mind [MASK] to make the connection	1
+656	He made some sexual advances at the woman in his office and groped her repeatedly	He made some sexual advances at the woman in his office and [MASK] her repeatedly	0
+657	The tree trunks had grown together	The tree trunks had [MASK] together	0
+658	Corn doesn't grow here	Corn doesn't [MASK] here	0
+659	He grows vegetables in his backyard	He [MASK] vegetables in his backyard	0
+660	There will be men guarding the horses.	There will be men [MASK] the horses.	0
+661	Please guard my possessions while I'm away.	Please [MASK] my possessions while I'm away.	0
+662	This vaccine will guard you against infection.	This vaccine will [MASK] you against infection.	1
+663	The cooling lava continued to gutter toward lower ground.	The cooling lava continued to [MASK] toward lower ground.	1
+664	Tears guttered down her face.	Tears [MASK] down her face.	1
+665	The heavy rain guttered the soil.	The heavy rain [MASK] the soil.	1
+666	The roofer began to gutter the buildings.	The roofer began to [MASK] the buildings.	0
+667	I can't hack it anymore	I can't [MASK] it anymore	1
+668	he hacked his way through the forest	he [MASK] his way through the forest	0
+669	I'm not very good at hacking but I'll give it my best	I'm not very good at [MASK] but I'll give it my best	0
+670	The patient with emphysema is hacking all day	The patient with emphysema is [MASK] all day	0
+671	The critics hailed the young pianist as a new Rubinstein	The critics [MASK] the young pianist as a new Rubinstein	0
+672	She hails from Kalamazoo	She [MASK] from Kalamazoo	0
+673	It hailed for an hour	It [MASK] for an hour	0
+674	The colors don't harmonize	The colors don't [MASK]	1
+675	harmonize the different interests	[MASK] the different interests	0
+676	harmonize one's goals with one's abilities	[MASK] one's goals with one's abilities	1
+677	where is she heading	where is she [MASK]	0
+678	Who is heading this project?	Who is [MASK] this project?	0
+679	The procession was headed by John	The procession was [MASK] by John	1
+680	This student heads the class	This student [MASK] the class	1
+681	These rivers head from a mountain range in the Himalayas	These rivers [MASK] from a mountain range in the Himalayas	1
+682	The list was headed by the name of the president	The list was [MASK] by the name of the president	0
+683	The wheat headed early this year	The wheat [MASK] early this year	1
+684	He heaped him with work	He [MASK] him with work	1
+685	heap firewood around the fireplace	[MASK] firewood around the fireplace	0
+686	heap the platter with potatoes	[MASK] the platter with potatoes	0
+687	Everyone helped out during the earthquake	Everyone [MASK] out during the earthquake	0
+688	These pills will help the patient	These pills will [MASK] the patient	0
+689	This will help to prevent accidents	This will [MASK] to prevent accidents	0
+690	I can't help myself--I have to smoke	I can't [MASK] myself--I have to smoke	0
+691	"""I served him three times, and after that he helped himself"""	"""I served him three times, and after that he [MASK] himself"""	0
+692	This money will help the development of literacy in developing countries	This money will [MASK] the development of literacy in developing countries	0
+693	She helped herself to some of the office supplies	She [MASK] herself to some of the office supplies	0
+694	New slipcovers will help the old living room furniture	New slipcovers will [MASK] the old living room furniture	1
+695	Goering often hunted wild boars in Poland	Goering often [MASK] wild boars in Poland	0
+696	The hunters traced the deer into the woods	The [MASK] traced the deer into the woods	0
+697	They hunted the unwanted immigrants out of the neighborhood	They [MASK] the unwanted immigrants out of the neighborhood	0
+698	The oscillator hunts about the correct frequency	The oscillator [MASK] about the correct frequency	1
+699	She hunted for her reading glasses but was unable to locate them	She [MASK] for her reading glasses but was unable to locate them	1
+700	The King used to hunt these forests	The King used to [MASK] these forests	0
+701	This exercise will hurt your back	This exercise will [MASK] your back	0
+702	Our business was hurt by the new competition	Our business was [MASK] by the new competition	0
+703	She hurt me when she did not include me among her guests	She [MASK] me when she did not include me among her guests	1
+704	Were you hurting after the accident?	Were you [MASK] after the accident?	0
+705	Great heat can ignite almost any dry matter	Great heat can [MASK] almost any dry matter	0
+706	Marsh gases ignited suddenly	Marsh gases [MASK] suddenly	0
+707	The ostentatious way of living of the rich ignites the hatred of the poor	The ostentatious way of living of the rich [MASK] the hatred of the poor	1
+708	only few plants can immigrate to the island	only few plants can [MASK] to the island	0
+709	Britain immigrated many colonists to America	Britain [MASK] many colonists to America	0
+710	Many people immigrated at the beginning of the 20th century	Many people [MASK] at the beginning of the 20th century	0
+711	This child impressed me as unusually mature	This child [MASK] me as unusually mature	0
+712	The young chess player impressed her audience	The young chess player [MASK] her audience	0
+713	"""To make a batik, you impress a design with wax"""	"""To make a batik, you [MASK] a design with wax"""	0
+714	He inclined his ear to the wise old man	He [MASK] his ear to the wise old man	0
+715	She inclined her head to the student	She [MASK] her head to the student	0
+716	She inclines to the view that people should be allowed to expres their religious beliefs	She [MASK] to the view that people should be allowed to expres their religious beliefs	1
+717	Their language inclines us to believe them	Their language [MASK] us to believe them	1
+718	The list includes the names of many famous writers	The list [MASK] the names of many famous writers	0
+719	I include you in the list of culprits	I [MASK] you in the list of culprits	0
+720	We must include this chemical element in the group	We must [MASK] this chemical element in the group	0
+721	These symptoms indicate a serious illness	These symptoms [MASK] a serious illness	0
+722	indicated his wishes in a letter	[MASK] his wishes in a letter	0
+723	Tetracycline is indicated in such cases	Tetracycline is [MASK] in such cases	0
+724	There was a ceremony to induct the president of the Academy.	There was a ceremony to [MASK] the president of the Academy.	0
+725	We were inducted into the honor society.	We were [MASK] into the honor society.	0
+726	The young geisha was inducted into the ways of her profession.	The young geisha was [MASK] into the ways of her profession.	0
+727	Your children have infected you with this head cold	Your children have [MASK] you with this head cold	0
+728	society was infected by racism	society was [MASK] by racism	1
+729	His laughter infects everyone who is in the same room	His laughter [MASK] everyone who is in the same room	1
+730	The charges were inflated	The charges were [MASK]	1
+731	The war inflated the economy	The war [MASK] the economy	1
+732	inflate the currency	[MASK] the currency	1
+733	I informed him of his rights	I [MASK] him of his rights	0
+734	The principles that inform modern teaching	The principles that [MASK] modern teaching	0
+735	She had informed on her own parents for years	She had [MASK] on her own parents for years	0
+736	I inherited a castle from my French grandparents	I [MASK] a castle from my French grandparents	0
+737	The new chairman inherited many problems from the previous chair	The new chairman [MASK] many problems from the previous chair	0
+738	I inherited my good eyesight from my mother	I [MASK] my good eyesight from my mother	0
+739	We injected the glucose into the patient's vein	We [MASK] the glucose into the patient's vein	0
+740	He injected new life into the performance	He [MASK] new life into the performance	1
+741	inject hydrogen into the balloon	[MASK] hydrogen into the balloon	0
+742	We interrupt the program for the following messages	We [MASK] the program for the following messages	0
+743	Don't interrupt me when I'm reading	Don't [MASK] me when I'm reading	0
+744	Please don't interrupt me while I'm on the phone	Please don't [MASK] me while I'm on the phone	0
+745	She interrupted her pregnancy	She [MASK] her pregnancy	1
+746	Why did the U.S. not intervene earlier in WW II?	Why did the U.S. not [MASK] earlier in WW II?	0
+747	This interludes intervenes between the two movements	This interludes [MASK] between the two movements	1
+748	The war intervened between the birth of her two children.	The war [MASK] between the birth of her two children.	1
+749	A new word processor was introduced	A new word processor was [MASK]	0
+750	introduce exotic fruits	[MASK] exotic fruits	0
+751	introduce legislation	[MASK] legislation	0
+752	"""Hitler invaded Poland on September 1, 1939"""	"""Hitler [MASK] Poland on September 1, 1939"""	0
+753	This new colleague invades my territory	This new colleague [MASK] my territory	0
+754	The cancer had invaded her lungs	The cancer had [MASK] her lungs	0
+755	Can I invite you for dinner on Sunday night?	Can I [MASK] you for dinner on Sunday night?	0
+756	I invited them to a restaurant	I [MASK] them to a restaurant	0
+757	We invited the neighbors in for a cup of coffee	We [MASK] the neighbors in for a cup of coffee	0
+758	The organizers invite submissions of papers for the conference	The organizers [MASK] submissions of papers for the conference	0
+759	Don't involve me in your family affairs!	Don't [MASK] me in your family affairs!	0
+760	This decision involves many changes	This decision [MASK] many changes	0
+761	Dinner at Joe's always involves at least six courses	Dinner at Joe's always [MASK] at least six courses	0
+762	His story completely involved me during the entire afternoon	His story completely [MASK] me during the entire afternoon	0
+763	The situation was rather involved	The situation was rather [MASK]	0
+764	The driver jammed the brake pedal to the floor	The driver [MASK] the brake pedal to the floor	0
+765	the mechanism jammed	the mechanism [MASK]	0
+766	the theater was jampacked	the theater was [MASK]	1
+767	He joined the Communist Party as a young man	He [MASK] the Communist Party as a young man	0
+768	join these two parts so that they fit together	[MASK] these two parts so that they fit together	0
+769	She joined him for a drink	She [MASK] him for a drink	0
+770	The two roads join here	The two roads [MASK] here	0
+771	juggle an account so as to hide a deficit	[MASK] an account so as to hide a deficit	1
+772	She had to juggle her job and her children	She had to [MASK] her job and her children	1
+773	the player juggled the ball	the player [MASK] the ball	0
+774	We were keyed after the locks were changed in the building	We were [MASK] after the locks were changed in the building	1
+775	His new Mercedes was keyed last night in the parking lot	His new Mercedes was [MASK] last night in the parking lot	0
+776	key one's actions to the voters' prevailing attitude	[MASK] one's actions to the voters' prevailing attitude	1
+777	The boy kicked the dog.	The boy [MASK] the dog.	0
+778	The gun kicked back into my shoulder.	The gun [MASK] back into my shoulder.	1
+779	He kicked the extra point after touchdown.	He [MASK] the extra point after touchdown.	0
+780	He kited many checks	He [MASK] many checks	1
+781	The businessman kited millions of dollars	The businessman [MASK] millions of dollars	1
+782	The pilot kited for a long time over the mountains	The pilot [MASK] for a long time over the mountains	0
+783	The bird landed on the highest branch	The bird [MASK] on the highest branch	0
+784	the pilot managed to land the airplane safely	the pilot managed to [MASK] the airplane safely	0
+785	this may land you in jail	this may [MASK] you in jail	1
+786	The drug smugglers landed the heroin on the beach of the island	The drug smugglers [MASK] the heroin on the beach of the island	0
+787	He landed several blows on his opponent's head	He [MASK] several blows on his opponent's head	0
+788	The ship landed in Pearl Harbor	The ship [MASK] in Pearl Harbor	0
+789	the enemy landed several of our aircraft	the enemy [MASK] several of our aircraft	0
+790	lay the books on the table	[MASK] the books on the table	0
+791	lay the foundation for a new health care plan	[MASK] the foundation for a new health care plan	1
+792	This hen doesn't lay	This hen doesn't [MASK]	0
+793	lay a responsibility on someone	[MASK] a responsibility on someone	1
+794	The news were leaked to the paper	The news were [MASK] to the paper	1
+795	The news leaked out despite his secrecy	The news [MASK] out despite his secrecy	1
+796	Water leaked out of the can into the backpack	Water [MASK] out of the can into the backpack	0
+797	The container leaked gasoline	The container [MASK] gasoline	0
+798	She leaned over the banister	She [MASK] over the banister	0
+799	He leaned his rifle against the wall	He [MASK] his rifle against the wall	0
+800	We can lean on this man	We can [MASK] on this man	1
+801	Her presence lends a certain cachet to the company	Her presence [MASK] a certain cachet to the company	0
+802	I will lend you my car	I will [MASK] you my car	0
+803	This story would lend itself well to serialization on television	This story would [MASK] itself well to serialization on television	1
+804	level criticism or charges at somebody	[MASK] criticism or charges at somebody	1
+805	The building was levelled	The building was [MASK]	0
+806	I have to level with you	I have to [MASK] with you	1
+807	The ground levelled off	The ground [MASK] off	0
+808	She lied when she told me she was only 29.	She [MASK] when she told me she was only 29.	0
+809	The fate of Bosnia lies in the hands of the West.	The fate of Bosnia [MASK] in the hands of the West.	1
+810	Lie down on the bed until you feel better.	[MASK] down on the bed until you feel better.	0
+811	the conversation lightened me up a bit	the conversation [MASK] me up a bit	1
+812	she lightened the load on the tired donkey	she [MASK] the load on the tired donkey	0
+813	"""after a glass of wine, he lightened up a bit"""	"""after a glass of wine, he [MASK] up a bit"""	1
+814	The room lightened up	The room [MASK] up	0
+815	She likes to read Russian novels	She [MASK] to read Russian novels	0
+816	How did you like the President's speech last night?	How did you [MASK] the President's speech last night?	0
+817	I'd like a beer now!	I'd [MASK] a beer now!	0
+818	trees line the riverbank	trees [MASK] the riverbank	0
+819	sorrow had lined his face	sorrow had [MASK] his face	1
+820	lined books are more enduring	[MASK] books are more enduring	0
+821	People lived in Africa millions of years ago	People [MASK] in Africa millions of years ago	0
+822	we had to live frugally after the war	we had to [MASK] frugally after the war	0
+823	You must accept yourself and others if you really want to live	You must accept yourself and others if you really want to [MASK]	0
+824	load the truck with hay	[MASK] the truck with hay	0
+825	He loaded his gun carefully	He [MASK] his gun carefully	0
+826	load the bags onto the trucks	[MASK] the bags onto the trucks	0
+827	Can you locate your cousins in the Midwest?	Can you [MASK] your cousins in the Midwest?	0
+828	Our sense of sight enables us to locate objects in space.	Our sense of sight enables us to [MASK] objects in space.	0
+829	The company located some of their agents in Los Angeles.	The company [MASK] some of their agents in Los Angeles.	0
+830	Lock the bike to the fence!	[MASK] the bike to the fence!	0
+831	The therapist noticed that the patient's knees tended to lock in this exercise.	The therapist noticed that the patient's knees tended to [MASK] in this exercise.	0
+832	He locked his hands around her neck.	He [MASK] his hands around her neck.	1
+833	They were locked in embrace.	They were [MASK] in embrace.	1
+834	He was locked in a laughing fit.	He was [MASK] in a laughing fit.	1
+835	She locked her jewels in the safe.	She [MASK] her jewels in the safe.	0
+836	She looked over the expanse of land	She [MASK] over the expanse of land	0
+837	The child looks unhappy	The child [MASK] unhappy	0
+838	We looked all day and finally found the child in the forest	We [MASK] all day and finally found the child in the forest	0
+839	The house looks north	The house [MASK] north	1
+840	She looked her devotion to me	She [MASK] her devotion to me	0
+841	You don't look your age!	You don't [MASK] your age!	0
+842	The bicycle looped around the tree.	The bicycle [MASK] around the tree.	1
+843	The stunt pilot looped his plane.	The stunt pilot [MASK] his plane.	1
+844	He looped the watch through his belt.	He [MASK] the watch through his belt.	0
+845	map the surface of Venus	[MASK] the surface of Venus	0
+846	We haven't even begun to map the many galaxies that we know exist	We haven't even begun to [MASK] the many galaxies that we know exist	0
+847	sorrow was mapped on the mother's face	sorrow was [MASK] on the mother's face	1
+848	The Japanese marched their prisoners through Manchuria	The Japanese [MASK] their prisoners through Manchuria	0
+849	He marched into the classroom and announced the exam	He [MASK] into the classroom and announced the exam	0
+850	They marched the mules into the desert	They [MASK] the mules into the desert	0
+851	The company matched the employees' contributions.	The company [MASK] the employees' contributions.	0
+852	This job doesn't match my dreams.	This job doesn't [MASK] my dreams.	0
+853	Let them match their best athletes against ours.	Let them [MASK] their best athletes against ours.	0
+854	The two pieces match.	The two pieces [MASK].	0
+855	You never understand what I mean!	You never understand what I [MASK]!	0
+856	The water shortage means that we have to stop taking long showers.	The water shortage [MASK] that we have to stop taking long showers.	0
+857	These flowers were meant for you.	These flowers were [MASK] for you.	0
+858	Age and experience mellowed him over the years	Age and experience [MASK] him over the years	0
+859	"""With age, he mellowed"""	"""With age, he [MASK]"""	0
+860	These apples need to mellow a bit more	These apples need to [MASK] a bit more	1
+861	The wax melted in the sun	The wax [MASK] in the sun	0
+862	The sun melted the ice	The sun [MASK] the ice	0
+863	Hundreds of actors were melting into the scene	Hundreds of actors were [MASK] into the scene	1
+864	her resistance melted under his charm	her resistance [MASK] under his charm	1
+865	I missed that remark	I [MASK] that remark	0
+866	He misses his mother	He [MASK] his mother	0
+867	I missed the concert	I [MASK] the concert	0
+868	How could I miss that typo?	How could I [MASK] that typo?	0
+869	She missed her train	She [MASK] her train	0
+870	The arrow missed the target	The arrow [MASK] the target	0
+871	The child had been missing for a week	The child had been [MASK] for a week	0
+872	"""Fortunately, I missed the hurricane"""	"""Fortunately, I [MASK] the hurricane"""	0
+873	John moderated the discussion	John [MASK] the discussion	0
+874	moderate your alcohol intake	[MASK] your alcohol intake	0
+875	He moderated his tone when the students burst out in tears	He [MASK] his tone when the students burst out in tears	0
+876	The furniture molded in the old house	The furniture [MASK] in the old house	0
+877	She molded the rice balls carefully	She [MASK] the rice balls carefully	0
+878	The dress molds her beautiful figure	The dress [MASK] her beautiful figure	1
+879	They mounted the aerator on a floating	They [MASK] the aerator on a floating	0
+880	mount slides for macroscopic analysis	[MASK] slides for macroscopic analysis	0
+881	mount a campaign against pornography	[MASK] a campaign against pornography	1
+882	mount a theater production	[MASK] a theater production	1
+883	She nags her husband all day long	She [MASK] her husband all day long	0
+884	nagging concerns and doubts	[MASK] concerns and doubts	1
+885	she nagged to take a vacation	she [MASK] to take a vacation	0
+886	They named their son David	They [MASK] their son David	0
+887	Many senators were named in connection with the scandal	Many senators were [MASK] in connection with the scandal	0
+888	She was named Head of the Committee	She was [MASK] Head of the Committee	0
+889	name your accomplices!	[MASK] your accomplices!	0
+890	His name was mentioned in connection with the invention	His [MASK] was mentioned in connection with the invention	0
+891	negociate securities	[MASK] securities	0
+892	The hiker negociated the high mountain pass	The hiker [MASK] the high mountain pass	1
+893	The parties negociated all night	The parties [MASK] all night	0
+894	The treaty neutralized the small republic	The treaty [MASK] the small republic	1
+895	Her optimism neutralizes his gloom	Her optimism [MASK] his gloom	1
+896	She neutralized the solution	She [MASK] the solution	0
+897	He nodded his approval	He [MASK] his approval	0
+898	The teacher nodded when the student gave the right answer	The teacher [MASK] when the student gave the right answer	0
+899	The old man was nodding in his chair	The old man was [MASK] in his chair	0
+900	the flowers were nodding in the breeze	the flowers were [MASK] in the breeze	1
+901	The old man sat nodding by the fireplace	The old man sat [MASK] by the fireplace	0
+902	She noted that someone was following her	She [MASK] that someone was following her	0
+903	Take note of this chemical reaction	Take [MASK] of this chemical reaction	0
+904	she noted everything the teacher said that morning	she [MASK] everything the teacher said that morning	0
+905	offset deposits and withdrawals	[MASK] deposits and withdrawals	0
+906	His skills offset his opponent's superior strength	His skills [MASK] his opponent's superior strength	0
+907	offset the conference proceedings	[MASK] the conference proceedings	0
+908	We oppose the ban on abortion	We [MASK] the ban on abortion	0
+909	The senator said he would oppose the bill	The senator said he would [MASK] the bill	0
+910	The board opposed his motion	The board [MASK] his motion	0
+911	The King ordained the persecution and expulsion of the Jews.	The King [MASK] the persecution and expulsion of the Jews.	0
+912	He was ordained in the Church.	He was [MASK] in the Church.	0
+913	The minister was ordained only last month.	The minister was [MASK] only last month.	0
+914	We had to orient ourselves in the forest	We had to [MASK] ourselves in the forest	0
+915	The dean of students tries to orient the freshmen	The dean of students tries to [MASK] the freshmen	0
+916	a magazine oriented towards young people	a magazine [MASK] towards young people	0
+917	he painted all day in the garden	he [MASK] all day in the garden	0
+918	We painted the rooms yellow	We [MASK] the rooms yellow	0
+919	He painted his mistress many times	He [MASK] his mistress many times	0
+920	Her violent feelings palpitated the young woman's heart	Her violent feelings [MASK] the young woman's heart	1
+921	His nostrils palpitated	His nostrils [MASK]	0
+922	His heart palpitated	His heart [MASK]	0
+923	paste the sign on the wall	[MASK] the sign on the wall	0
+924	He pasted his opponent	He [MASK] his opponent	1
+925	paste the wall with burlap	[MASK] the wall with burlap	0
+926	He peeped at the woman through the window.	He [MASK] at the woman through the window.	0
+927	He peeped his head through the window.	He [MASK] his head through the window.	1
+928	The new moon peeped through the tree tops.	The new moon [MASK] through the tree tops.	1
+929	The bullet penetrated her chest.	The bullet [MASK] her chest.	0
+930	The hikers did not manage to penetrate the dense forest.	The hikers did not manage to [MASK] the dense forest.	0
+931	She was rather perturbed by the news that her father was seriously ill	She was rather [MASK] by the news that her father was seriously ill	0
+932	The electrons were perturbed by the passing ion	The electrons were [MASK] by the passing ion	1
+933	The orbits of these stars were perturbed by the passings of a comet	The orbits of these stars were [MASK] by the passings of a comet	1
+934	Fundamental Islamicists threaten to perturb the social order in Algeria and Egypt	Fundamental Islamicists threaten to [MASK] the social order in Algeria and Egypt	1
+935	"""piece the broken pieces of thread, slivers, and rovings"""	"""[MASK] the broken pieces of thread, slivers, and rovings"""	0
+936	He pieced at the sandwich all morning	He [MASK] at the sandwich all morning	1
+937	She pieced the china cup	She [MASK] the china cup	0
+938	The cold pierced her bones.	The cold [MASK] her bones.	1
+939	The scream pierced the night.	The scream [MASK] the night.	1
+940	The needle pierced her flesh.	The needle [MASK] her flesh.	0
+941	The child was pinned under the fallen tree	The child was [MASK] under the fallen tree	0
+942	pin the needle to the shirt	[MASK] the needle to the shirt	0
+943	pin down the butterfly	[MASK] down the butterfly	0
+944	The bugs pinged the lamp shade	The bugs [MASK] the lamp shade	0
+945	the car pinged when I put in low-octane gasoline	the car [MASK] when I put in low-octane gasoline	0
+946	the bullet pinged when they struck the car	the bullet [MASK] when they struck the car	0
+947	I'll ping my accountant--April 15 is nearing	I'll [MASK] my accountant--April 15 is nearing	1
+948	ping your machine in the office	[MASK] your machine in the office	0
+949	The demonstrators plastered the hallways with posters	The demonstrators [MASK] the hallways with posters	0
+950	She plastered warnings all over the wall	She [MASK] warnings all over the wall	0
+951	plaster the broken arm	[MASK] the broken arm	0
+952	I pleaded with him to stop.	I [MASK] with him to stop.	0
+953	She was pleading insanity.	She was [MASK] insanity.	0
+954	She pleaded not guilty.	She [MASK] not guilty.	0
+955	These colors please the senses	These colors [MASK] the senses	0
+956	he could do many things if he pleased	he could do many things if he [MASK]	0
+957	The waiters around her aim to please	The waiters around her aim to [MASK]	0
+958	I pledge that I will honor my wife	I [MASK] that I will honor my wife	0
+959	I pledged $10 a month to my favorite radio station	I [MASK] $10 a month to my favorite radio station	0
+960	I was pledged to silence	I was [MASK] to silence	0
+961	the stock market plunged	the stock market [MASK]	0
+962	She plunged at it eagerly	She [MASK] at it eagerly	0
+963	The professor plunged his students into the study of the Italian text	The professor [MASK] his students into the study of the Italian text	1
+964	It plunged to the bottom of the well	It [MASK] to the bottom of the well	0
+965	poison someone's mind	[MASK] someone's mind	1
+966	She poisoned her husband	She [MASK] her husband	0
+967	Her husband poisoned her drink in order to kill her	Her husband [MASK] her drink in order to kill her	0
+968	This mushrooms can poison	This mushrooms can [MASK]	0
+969	She poisoned her husband but he did not die	She [MASK] her husband but he did not die	0
+970	the captain ported the ship at night	the captain [MASK] the ship at night	0
+971	The ship finally ported	The ship finally [MASK]	0
+972	The big ship was slowly porting	The big ship was slowly [MASK]	0
+973	The small canoe could be ported easily	The small canoe could be [MASK] easily	0
+974	We were porting all in the club after dinner	We were [MASK] all in the club after dinner	1
+975	The book portrays the actor as a selfish person	The book [MASK] the actor as a selfish person	0
+976	"""Goya wanted to portray his mistress, the Duchess of Alba"""	"""Goya wanted to [MASK] his mistress, the Duchess of Alba"""	0
+977	The father is portrayed as a good-looking man in this painting	The father is [MASK] as a good-looking man in this painting	0
+978	This poses an interesting question	This [MASK] an interesting question	1
+979	We don't know the woman who posed for Leonardo so often	We don't know the woman who [MASK] for Leonardo so often	0
+980	She posed as the Czar's daughter	She [MASK] as the Czar's daughter	0
+981	the salesman pounded the door knocker	the salesman [MASK] the door knocker	0
+982	The locks pound the water of the canal	The locks [MASK] the water of the canal	1
+983	The prisoners are safely pounded	The prisoners are safely [MASK]	1
+984	pound the cows so they don't stray	[MASK] the cows so they don't stray	0
+985	pound the roots with a heavy flat stone	[MASK] the roots with a heavy flat stone	0
+986	They poured water over the floor.	They [MASK] water over the floor.	0
+987	People were pouring out of the theater.	People were [MASK] out of the theater.	1
+988	Water poured all over the floor.	Water [MASK] all over the floor.	0
+989	We poured money into the education of our children.	We [MASK] money into the education of our children.	1
+990	Put on your rain coat -- it's pouring outside!	Put on your rain coat -- it's [MASK] outside!	1
+991	Stone tools precede bronze tools	Stone tools [MASK] bronze tools	0
+992	Most English adjectives precede the noun they modify	Most English adjectives [MASK] the noun they modify	0
+993	Bill preceded John in the long line of Susan's husbands	Bill [MASK] John in the long line of Susan's husbands	0
+994	She always precedes her lectures with a joke	She always [MASK] her lectures with a joke	0
+995	The crisis precipitated by Russia's revolution	The crisis [MASK] by Russia's revolution	1
+996	Our economy precipitated into complete ruin	Our economy [MASK] into complete ruin	1
+997	The bridge broke and precipitated the train into the river below	The bridge broke and [MASK] the train into the river below	1
+998	The predicate `dog' is predicated of the subject `Fido' in the sentence `Fido is a dog'	The [MASK] `dog' is predicated of the subject `Fido' in the sentence `Fido is a dog'	0
+999	The speech predicated the fitness of the candidate to be President	The speech [MASK] the fitness of the candidate to be President	0
+1000	solving the problem is predicated on understanding it well	solving the problem is [MASK] on understanding it well	0
+1001	preserve the peace in the family	[MASK] the peace in the family	1
+1002	We preserve these archeological findings	We [MASK] these archeological findings	0
+1003	preserve the forest and the lakes	[MASK] the forest and the lakes	0
+1004	The nurse pricked my finger to get a small blood sample	The nurse [MASK] my finger to get a small blood sample	0
+1005	The needle pricked his skin	The needle [MASK] his skin	0
+1006	The dog pricked up his ears	The dog [MASK] up his ears	0
+1007	The thought of her unhappiness pricked his conscience	The thought of her unhappiness [MASK] his conscience	1
+1008	The results of the elections were still being processed when he gave his acceptance speech	The results of the elections were still being [MASK] when he gave his acceptance speech	0
+1009	He was warned that the district attorney would process him	He was warned that the district attorney would [MASK] him	1
+1010	They processed into the dining room	They [MASK] into the dining room	0
+1011	He was processed by the sheriff	He was [MASK] by the sheriff	0
+1012	The tree would not produce fruit	The tree would not [MASK] fruit	0
+1013	We produce more cars than we can sell	We [MASK] more cars than we can sell	0
+1014	This procedure produces a curious effect	This procedure [MASK] a curious effect	0
+1015	The proud father produced many pictures of his baby	The proud father [MASK] many pictures of his baby	0
+1016	The Bordeaux region produces great red wines	The Bordeaux region [MASK] great red wines	0
+1017	She professes organic chemistry	She [MASK] organic chemistry	0
+1018	The terrorists professed allegiance to their country	The terrorists [MASK] allegiance to their country	0
+1019	The teacher professed that he was not generous when it came to giving good grades	The teacher [MASK] that he was not generous when it came to giving good grades	0
+1020	she professed herself as a nun	she [MASK] herself as a nun	0
+1021	He professed innocence but later admitted his guilt	He [MASK] innocence but later admitted his guilt	0
+1022	The genes propagate these characteristics to the offspring.	The genes [MASK] these characteristics to the offspring.	0
+1023	Sound and light propagate in this medium.	Sound and light [MASK] in this medium.	0
+1024	Sound or light can be propagated through air.	Sound or light can be [MASK] through air.	0
+1025	This great civilization was propagated throughout the land.	This great civilization was [MASK] throughout the land.	0
+1026	We provided the room with an electrical heater	We [MASK] the room with an electrical heater	0
+1027	The hostess provided lunch for all the guests	The hostess [MASK] lunch for all the guests	0
+1028	The will provides that each child should receive half of the money	The will [MASK] that each child should receive half of the money	0
+1029	He provides for his large family by working three jobs	He [MASK] for his large family by working three jobs	0
+1030	provide for the proper care of the passengers on the cruise ship	[MASK] for the proper care of the passengers on the cruise ship	0
+1031	The sudden fame puffed her ego	The sudden fame [MASK] her ego	1
+1032	The critics puffed up this Broadway production	The critics [MASK] up this Broadway production	1
+1033	A puffing kind of man	A [MASK] kind of man	1
+1034	Her faced puffed up from the drugs	Her faced [MASK] up from the drugs	0
+1035	he huffed and puffed as he made his way up the mountain	he huffed and [MASK] as he made his way up the mountain	0
+1036	He pumped bullets into the dummy.	He [MASK] bullets into the dummy.	1
+1037	The athlete pumps weights in the gym.	The athlete [MASK] weights in the gym.	0
+1038	She pumped the witnesses for information.	She [MASK] the witnesses for information.	1
+1039	He pushed the table into a corner	He [MASK] the table into a corner	0
+1040	"""`Now push hard,' said the doctor to the woman"""	"""`Now [MASK] hard,' said the doctor to the woman"""	0
+1041	He pushed her to finish her doctorate	He [MASK] her to finish her doctorate	1
+1042	The salesman is aggressively pushing the new computer model	The salesman is aggressively [MASK] the new computer model	1
+1043	she pushed against the wall with all her strength	she [MASK] against the wall with all her strength	0
+1044	She is pushing fifty	She is [MASK] fifty	1
+1045	The liberal party pushed for reforms	The liberal party [MASK] for reforms	1
+1046	The guy hanging around the school is pushing drugs	The guy hanging around the school is [MASK] drugs	1
+1047	The crowd pushed forward	The crowd [MASK] forward	0
+1048	That song put me in awful good humor	That song [MASK] me in awful good humor	0
+1049	I wouldn't put it that way	I wouldn't [MASK] it that way	0
+1050	She put too much emphasis on her the last statement	She [MASK] too much emphasis on her the last statement	1
+1051	We put the time of arrival at 8 P.M.	We [MASK] the time of arrival at 8 P.M.	0
+1052	He put her to the torture	He [MASK] her to the torture	0
+1053	put these words to music	[MASK] these words to music	0
+1054	I put these memories with those of bygone times	I [MASK] these memories with those of bygone times	0
+1055	He quoted the Bible to her.	He [MASK] the Bible to her.	0
+1056	He quoted prices for cars.	He [MASK] prices for cars.	0
+1057	He said he could quote several instances of this behavior.	He said he could [MASK] several instances of this behavior.	0
+1058	The sun radiates heat	The sun [MASK] heat	0
+1059	She radiates happiness	She [MASK] happiness	1
+1060	spokes radiate from the hub of the wheel	spokes [MASK] from the hub of the wheel	0
+1061	Heat radiated from the metal box	Heat [MASK] from the metal box	0
+1062	The police raided the crack house	The police [MASK] the crack house	0
+1063	The pirates raided the coastal villages regularly	The pirates [MASK] the coastal villages regularly	0
+1064	T. Boone Pickens raided many large companies	T. Boone Pickens [MASK] many large companies	0
+1065	Our babysitter raided our refrigerator	Our babysitter [MASK] our refrigerator	1
+1066	rail in the old graves	[MASK] in the old graves	1
+1067	rail off the crowds from the Presidential palace	[MASK] off the crowds from the Presidential palace	0
+1068	fresh fruit are railed from Italy to Belgium	fresh fruit are [MASK] from Italy to Belgium	0
+1069	They railed from Rome to Venice	They [MASK] from Rome to Venice	0
+1070	hundreds of miles were railed out here	hundreds of miles were [MASK] out here	0
+1071	They are railing for fresh fish	They are [MASK] for fresh fish	1
+1072	The ramped auditorium	The [MASK] auditorium	1
+1073	the lion is rampant in this heraldic depiction	the lion is [MASK] in this heraldic depiction	0
+1074	The roses ramped over the wall	The roses [MASK] over the wall	0
+1075	Estimates for the losses in the earthquake range as high as $2 billion.	Estimates for the losses in the earthquake [MASK] as high as $2 billion.	0
+1076	rationalize the child's seemingly crazy behavior	[MASK] the child's seemingly crazy behavior	1
+1077	We rationalized the factory's production and raised profits	We [MASK] the factory's production and raised profits	0
+1078	"""When one wonders why one is doing certain things, one should rationalize"""	"""When one wonders why one is doing certain things, one should [MASK]"""	0
+1079	This function can be rationalized	This function can be [MASK]	0
+1080	Government reaches out to the people	Government [MASK] out to the people	1
+1081	Our advertisements reach millions	Our advertisements [MASK] millions	0
+1082	The sunlight reached the wall	The sunlight [MASK] the wall	0
+1083	The ambassador was recalled to his country	The ambassador was [MASK] to his country	0
+1084	She was recalled by a loud laugh	She was [MASK] by a loud laugh	0
+1085	The company recalled the product when it was found to be faulty	The company [MASK] the product when it was found to be faulty	0
+1086	recall the defective auto tires	[MASK] the defective auto tires	0
+1087	She could not recapture that feeling of happiness.	She could not [MASK] that feeling of happiness.	1
+1088	The author recaptures an old idea here.	The author [MASK] an old idea here.	0
+1089	The military forces managed to recapture the fort.	The military forces managed to [MASK] the fort.	0
+1090	They tried to recapture the escaped prisoner.	They tried to [MASK] the escaped prisoner.	0
+1091	He was recast as Iago.	He was [MASK] as Iago.	0
+1092	The bell cracked and had to be recast.	The bell cracked and had to be [MASK].	0
+1093	She had to recast her image to please the electorate in her home state.	She had to [MASK] her image to please the electorate in her home state.	0
+1094	The party recruited many new members.	The party [MASK] many new members.	0
+1095	The lab director recruited an able crew of assistants.	The lab director [MASK] an able crew of assistants.	0
+1096	They recruited new soldiers.	They [MASK] new soldiers.	0
+1097	The enemy redoubled their screaming on the radio	The enemy [MASK] their screaming on the radio	0
+1098	The noise doubled and redoubled	The noise doubled and [MASK]	0
+1099	The screaming redoubled	The screaming [MASK]	0
+1100	Fame redounds to the heroes.	Fame [MASK] to the heroes.	1
+1101	Everything redounded to his glory.	Everything [MASK] to his glory.	1
+1102	Her efforts will redound to the general good.	Her efforts will [MASK] to the general good.	1
+1103	They reenacted the battle of Princeton	They [MASK] the battle of Princeton	0
+1104	Congress reenacted the law	Congress [MASK] the law	0
+1105	She reenacted what had happened earlier that day	She [MASK] what had happened earlier that day	0
+1106	There were lots of questions referring to her talk	There were lots of questions [MASK] to her talk	0
+1107	This plant can be referred to a known species	This plant can be [MASK] to a known species	0
+1108	refer a patient to a specialist	[MASK] a patient to a specialist	0
+1109	Christians refer to the mother of Jesus as the Virgin Mary	Christians [MASK] to the mother of Jesus as the Virgin Mary	0
+1110	refine one's style of writing	[MASK] one's style of writing	0
+1111	refine a design or pattern	[MASK] a design or pattern	0
+1112	many valuable nutrients are refined out of the foods in our modern diet	many valuable nutrients are [MASK] out of the foods in our modern diet	0
+1113	refine a method of analysis	[MASK] a method of analysis	0
+1114	This action reflects his true beliefs	This action [MASK] his true beliefs	1
+1115	Sound is reflected well in this auditorium	Sound is [MASK] well in this auditorium	0
+1116	Drive carefully--the wet road reflects	Drive carefully--the wet road [MASK]	0
+1117	her sunglasses reflected his image	her sunglasses [MASK] his image	0
+1118	His lack of interest in the project reflects badly on him	His lack of interest in the project [MASK] badly on him	1
+1119	The mess in his dorm room reflects on the student	The mess in his dorm room [MASK] on the student	1
+1120	reform a political system	[MASK] a political system	0
+1121	The Church reformed me	The Church [MASK] me	1
+1122	reform the health system in this country	[MASK] the health system in this country	0
+1123	The lazy student promised to reform	The lazy student promised to [MASK]	0
+1124	Did this event register in your parents' minds?	Did this event [MASK] in your parents' minds?	0
+1125	register for an election	[MASK] for an election	0
+1126	Did you register any change when I pressed the button?	Did you [MASK] any change when I pressed the button?	0
+1127	Her surprise did not register	Her surprise did not [MASK]	0
+1128	I'd like to register this letter	I'd like to [MASK] this letter	0
+1129	the land rejuvenated	the land [MASK]	0
+1130	The contact with his grandchildren rejuvenated him	The contact with his grandchildren [MASK] him	0
+1131	The old man rejuvenated when he became a grandfather	The old man [MASK] when he became a grandfather	0
+1132	The witness related the events.	The witness [MASK] the events.	1
+1133	How are these two observations related?	How are these two observations [MASK]?	0
+1134	She relates well to her peers	She [MASK] well to her peers	0
+1135	He relaxed in the hot tub	He [MASK] in the hot tub	0
+1136	relax the tension on the rope	[MASK] the tension on the rope	0
+1137	A hot bath always relaxes me	A hot bath always [MASK] me	0
+1138	our new colleague relaxed when he saw that we were a friendly group	our new colleague [MASK] when he saw that we were a friendly group	0
+1139	The government relaxed the curfew after most of the rebels were caught	The government [MASK] the curfew after most of the rebels were caught	1
+1140	The rules relaxed after the new director arrived	The rules [MASK] after the new director arrived	1
+1141	I can't remember saying any such thing	I can't [MASK] saying any such thing	0
+1142	he remembered how he used to pick flowers	he [MASK] how he used to pick flowers	0
+1143	He remembered her in his will	He [MASK] her in his will	0
+1144	remember me in your prayers	[MASK] me in your prayers	0
+1145	"""After the shelling, many people lost the ability to remember"""	"""After the shelling, many people lost the ability to [MASK]"""	0
+1146	We remembered the 50th anniversary of the liberation of Auschwitz	We [MASK] the 50th anniversary of the liberation of Auschwitz	0
+1147	The taxes were remitted	The taxes were [MASK]	0
+1148	God will remit their sins	God will [MASK] their sins	0
+1149	The pain finally remitted	The pain finally [MASK]	0
+1150	She repaired her TV set	She [MASK] her TV set	0
+1151	One can never fully repair the suffering and losses of the Jews in the Third Reich	One can never fully [MASK] the suffering and losses of the Jews in the Third Reich	0
+1152	He repaired to his cabin in the woods	He [MASK] to his cabin in the woods	1
+1153	He replaced the old razor blade	He [MASK] the old razor blade	0
+1154	Smith replaced Miller as CEO after Miller left	Smith [MASK] Miller as CEO after Miller left	0
+1155	replace the book on the shelf after you have finished reading it	[MASK] the book on the shelf after you have finished reading it	0
+1156	the con artist replaced the original with a fake Rembrandt	the con artist [MASK] the original with a fake Rembrandt	0
+1157	Dozens of incidents of wife beatings are reported daily in this city	Dozens of incidents of wife beatings are [MASK] daily in this city	0
+1158	I report to work every day at 9 o'clock	I [MASK] to work every day at 9 o'clock	0
+1159	One student reported the other to the principal	One student [MASK] the other to the principal	0
+1160	Snow reported on China in the 1950's	Snow [MASK] on China in the 1950's	0
+1161	I reported her to the supervisor	I [MASK] her to the supervisor	0
+1162	These philosophers reposed the law in the people	These philosophers [MASK] the law in the people	0
+1163	Mao reposes in his mausoleum	Mao [MASK] in his mausoleum	0
+1164	The nation reposed its confidence in the King	The nation [MASK] its confidence in the King	0
+1165	reseat the old broken chair	[MASK] the old broken chair	0
+1166	reseat Carnegie Hall	[MASK] Carnegie Hall	0
+1167	The usher insisted on reseating us	The usher insisted on [MASK] us	0
+1168	restore the forest to its original pristine condition	[MASK] the forest to its original pristine condition	0
+1169	The week at the spa restored me	The week at the spa [MASK] me	0
+1170	restore law and order	[MASK] law and order	0
+1171	This soil retains water	This soil [MASK] water	0
+1172	The landlord retained the security deposit	The landlord [MASK] the security deposit	0
+1173	I cannot retain so much information	I cannot [MASK] so much information	0
+1174	They car companies retrofitted all the old models with new carburetors	They car companies [MASK] all the old models with new carburetors	0
+1175	The mansion was retrofitted with modern plumbing	The mansion was [MASK] with modern plumbing	0
+1176	The laboratory retrofitted to meet the safety codes	The laboratory [MASK] to meet the safety codes	0
+1177	let's review your situation	let's [MASK] your situation	0
+1178	She reviews books for the New York Times	She [MASK] books for the New York Times	0
+1179	I reviewed the material before the test	I [MASK] the material before the test	0
+1180	she reviewed her achievements with pride	she [MASK] her achievements with pride	0
+1181	The doctors revived the comatose man	The doctors [MASK] the comatose man	0
+1182	A hot soup will revive me	A hot soup will [MASK] me	1
+1183	Interest in ESP revived	Interest in ESP [MASK]	1
+1184	He revived this style of opera	He [MASK] this style of opera	0
+1185	right a wrongs done to the victims of the Holocaust	[MASK] a wrongs done to the victims of the Holocaust	0
+1186	They righted the sailboat that had capsized	They [MASK] the sailboat that had capsized	0
+1187	The capsized boat righted again	The capsized boat [MASK] again	0
+1188	The curtain ripped from top to bottom.	The curtain [MASK] from top to bottom.	0
+1189	The tornado ripped along the coast.	The tornado [MASK] along the coast.	1
+1190	The candidate ripped into his opponent mercilessly.	The candidate [MASK] into his opponent mercilessly.	1
+1191	this plant roots quickly	this plant [MASK] quickly	0
+1192	The problem roots in her depression	The problem [MASK] in her depression	1
+1193	the pig was rooting for truffles	the pig was [MASK] for truffles	0
+1194	We rotate the lead soprano every night	We [MASK] the lead soprano every night	0
+1195	Interns have to rotate for a few months	Interns have to [MASK] for a few months	1
+1196	We rotate the crops so as to maximize the use of the soil	We [MASK] the crops so as to maximize the use of the soil	0
+1197	She was rubricated by the pope	She was [MASK] by the pope	0
+1198	the manuscript is not rubricated	the manuscript is not [MASK]	0
+1199	"""In this beautiful book, all the place names are rubricated"""	"""In this beautiful book, all the place names are [MASK]"""	0
+1200	She wanted to ruffle his composure.	She wanted to [MASK] his composure.	1
+1201	This play is going to ruffle some people.	This play is going to [MASK] some people.	1
+1202	The bird ruffled its feathers.	The bird [MASK] its feathers.	0
+1203	The wind ruffled the surface of the water.	The wind [MASK] the surface of the water.	0
+1204	The seamstress ruffled the curtain fabric.	The seamstress [MASK] the curtain fabric.	0
+1205	You have ruined my car by pouring sugar in the tank!	You have [MASK] my car by pouring sugar in the tank!	0
+1206	This behavior will ruin your chances of winning the election	This behavior will [MASK] your chances of winning the election	0
+1207	The country lay ruined after the war	The country lay [MASK] after the war	0
+1208	We sailed the Atlantic	We [MASK] the Atlantic	0
+1209	"""I love sailing, especially on the open sea"""	"""I love [MASK] especially on the open sea"""	0
+1210	The QE2 will sail to Southampton tomorrow	The QE2 will [MASK] to Southampton tomorrow	0
+1211	the rebels had salted the fields with mines and traps	the rebels had [MASK] the fields with mines and traps	1
+1212	She salts her lectures with jokes	She [MASK] her lectures with jokes	1
+1213	people used to salt meats on ships	people used to [MASK] meats on ships	0
+1214	I meet this men every day on my way to work and he salutes me	I meet this men every day on my way to work and he [MASK] me	0
+1215	I salute your courage!	I [MASK] your courage!	1
+1216	a terrible stench saluted our nostrils	a terrible stench [MASK] our nostrils	1
+1217	"""When the officers show up, the soldiers have to salute"""	"""When the officers show up, the soldiers have to [MASK]"""	0
+1218	This bike scales only 25 pounds	This bike [MASK] only 25 pounds	0
+1219	The troops scaled the walls of the fort	The troops [MASK] the walls of the fort	0
+1220	We scaled the Mont Blanc	We [MASK] the Mont Blanc	0
+1221	This model must be scaled down	This model must be [MASK] down	0
+1222	the surgeon scanned the X-ray	the surgeon [MASK] the X-ray	0
+1223	She scanned the newspaper headlines while waiting for the taxi	She [MASK] the newspaper headlines while waiting for the taxi	0
+1224	The beams scanned the night sky	The beams [MASK] the night sky	1
+1225	The heat scorched the countryside.	The heat [MASK] the countryside.	1
+1226	The wildfire scorched the forest and several homes.	The wildfire [MASK] the forest and several homes.	0
+1227	The exposed tree scorched in the hot sun.	The exposed tree [MASK] in the hot sun.	1
+1228	The home team scored many times.	The home team [MASK] many times.	0
+1229	She scored the clay before firing it.	She [MASK] the clay before firing it.	0
+1230	She scored high on the SAT.	She [MASK] high on the SAT.	0
+1231	They scored the SAT essays.	They [MASK] the SAT essays.	0
+1232	The cat scraped at the armchair	The cat [MASK] at the armchair	0
+1233	They scraped a letter into the stone	They [MASK] a letter into the stone	0
+1234	She had scraped together enough money for college	She had [MASK] together enough money for college	1
+1235	They decided to screen the blood for the HIV virus.	They decided to [MASK] the blood for the HIV virus.	1
+1236	The officer screened the suitcases.	The officer [MASK] the suitcases.	0
+1237	The scientist screened these samples.	The scientist [MASK] these samples.	0
+1238	The host seated me next to Mrs. Smith	The host [MASK] me next to Mrs. Smith	0
+1239	"""The theater seats 2,000"""	"""The theater [MASK] 2,000"""	0
+1240	seat the camera on the tripod	[MASK] the camera on the tripod	0
+1241	the mother seated the toddler on the high chair	the mother [MASK] the toddler on the high chair	0
+1242	She seems to be sleeping	She [MASK] to be sleeping	0
+1243	It seems that he is very gifted	It [MASK] that he is very gifted	0
+1244	There seems no reason to go ahead with the project now	There [MASK] no reason to go ahead with the project now	0
+1245	I seem to be misunderstood by everyone	I [MASK] to be misunderstood by everyone	0
+1246	This neighborhood is segregated	This neighborhood is [MASK]	0
+1247	Many towns segregated into new counties	Many towns [MASK] into new counties	0
+1248	the sun segregates the carbon	the sun [MASK] the carbon	0
+1249	The sales clerk quickly seized the money on the counter	The sales clerk quickly [MASK] the money on the counter	0
+1250	The terrorists seized the politicians	The terrorists [MASK] the politicians	0
+1251	the invaders seized the land and property of the inhabitants	the invaders [MASK] the land and property of the inhabitants	0
+1252	The FBI seized the drugs	The FBI [MASK] the drugs	0
+1253	Fear seized the prisoners	Fear [MASK] the prisoners	1
+1254	These books sell like hot cakes.	These books [MASK] like hot cakes.	0
+1255	The French try to sell us their image as great lovers.	The French try to [MASK] us their image as great lovers.	1
+1256	The brothers sell shoes.	The brothers [MASK] shoes.	0
+1257	This robot can sense the presence of people in the room	This robot can [MASK] the presence of people in the room	0
+1258	I sense his hostility	I [MASK] his hostility	0
+1259	I sensed the real meaning of his letter	I [MASK] the real meaning of his letter	0
+1260	He was not sensitized to her emotional needs	He was not [MASK] to her emotional needs	0
+1261	She sensitized me with respect to gender differences in this traditional male-dominated society	She [MASK] me with respect to gender differences in this traditional male-dominated society	1
+1262	Long-term exposure to this medicine may sensitize you to the allergen	Long-term exposure to this medicine may [MASK] you to the allergen	0
+1263	sensitize the photographic film	[MASK] the photographic film	0
+1264	the estate was sequestered	the estate was [MASK]	0
+1265	The cations were sequestered	The cations were [MASK]	0
+1266	He sequestered himself in his study to write a book	He [MASK] himself in his study to write a book	0
+1267	The dentist sequesters the tooth he is working on	The dentist [MASK] the tooth he is working on	0
+1268	The bad news shook her hopes.	The bad news [MASK] her hopes.	1
+1269	I couldn't shake the car that was following me.	I couldn't [MASK] the car that was following me.	1
+1270	Shake the salt out of the salt shaker.	[MASK] the salt out of the salt shaker.	0
+1271	We had to sharpen our arguments	We had to [MASK] our arguments	1
+1272	The debate sharpened	The debate [MASK]	1
+1273	This drug will sharpen your vision	This drug will [MASK] your vision	1
+1274	He shed his image as a pushy boss.	He [MASK] his image as a pushy boss.	1
+1275	She shed a lot of tears when this happened.	She [MASK] a lot of tears when this happened.	0
+1276	Our dog sheds every Spring.	Our dog [MASK] every Spring.	0
+1277	You have shipwrecked my career.	You have [MASK] my career.	1
+1278	They were shipwrecked in one of the mysteries at sea.	They were [MASK] in one of the mysteries at sea.	0
+1279	The vessel was shipwrecked.	The vessel was [MASK].	0
+1280	He shortened his trip due to illness	He [MASK] his trip due to illness	0
+1281	The manuscript must be shortened	The manuscript must be [MASK]	0
+1282	shorten the rope by a few inches	[MASK] the rope by a few inches	0
+1283	"""In winter, the days shorten"""	"""In winter, the days [MASK]"""	0
+1284	He was showered with praise	He was [MASK] with praise	1
+1285	The guests showered rice on the couple	The guests [MASK] rice on the couple	0
+1286	You should shower after vigorous exercise	You should [MASK] after vigorous exercise	0
+1287	Meteors showered down over half of Australia	Meteors [MASK] down over half of Australia	0
+1288	He showered her with presents	He [MASK] her with presents	1
+1289	The soldiers sifted through the woods.	The soldiers [MASK] through the woods.	1
+1290	He sifted the information.	He [MASK] the information.	1
+1291	They sifted through the job candidates.	They [MASK] through the job candidates.	1
+1292	She signed the letter and sent it off.	She [MASK] the letter and sent it off.	0
+1293	He signed to play the casino on December 18.	He [MASK] to play the casino on December 18.	0
+1294	They signed two new pitchers for the next season.	They [MASK] two new pitchers for the next season.	1
+1295	He signed his disapproval with a dismissive hand gesture.	He [MASK] his disapproval with a dismissive hand gesture.	1
+1296	This road has been signed.	This road has been [MASK].	0
+1297	"""I don't know how to sign, so I could not communicate with my deaf cousin."""	"""I don't know how to [MASK], so I could not communicate with my deaf cousin."""	0
+1298	She was singing while she was cooking	She was [MASK] while she was cooking	0
+1299	The nightingale was singing	The nightingale was [MASK]	0
+1300	the kettle was singing	the kettle was [MASK]	1
+1301	When does the court of law sit?	When does the court of law [MASK]	1
+1302	The White House sits on Pennsylvania Avenue	The White House [MASK] on Pennsylvania Avenue	1
+1303	I cannot baby-sit tonight; I have too much homework to do	I cannot baby-[MASK] tonight; I have too much homework to do	1
+1304	He smashed a 3-run homer	He [MASK] a 3-run homer	1
+1305	She smashed her car against the guard rail	She [MASK] her car against the guard rail	0
+1306	The motorcycle smashed into the guard rail	The motorcycle [MASK] into the guard rail	0
+1307	The police smashed the drug ring after they were tipped off	The police [MASK] the drug ring after they were tipped off	1
+1308	smother the meat in gravy	[MASK] the meat in gravy	0
+1309	Othello smothered Desdemona with a pillow	Othello [MASK] Desdemona with a pillow	0
+1310	the butter cream smothered the cake	the butter cream [MASK] the cake	1
+1311	she snorted her disapproval of the proposed bridegroom	she [MASK] her disapproval of the proposed bridegroom	1
+1312	The critic snorted contemptuously	The critic [MASK] contemptuously	0
+1313	The addict was snorting cocaine almost every day	The addict was [MASK] cocaine almost every day	0
+1314	He never socializes with his colleagues	He never [MASK] with his colleagues	0
+1315	The children must be properly socialized	The children must be properly [MASK]	0
+1316	Children have to be socialized in school	Children have to be [MASK] in school	0
+1317	Health care should be socialized!	Health care should be [MASK]	0
+1318	Henry IV solicited the Pope for a divorce.	Henry IV [MASK] the Pope for a divorce.	0
+1319	He was solicited by a prostitute.	He was [MASK] by a prostitute.	0
+1320	He was accused of soliciting his colleagues to destroy the documents.	He was accused of [MASK] his colleagues to destroy the documents.	0
+1321	She is too shy to solicit.	She is too shy to [MASK].	0
+1322	This sounds interesting	This [MASK] interesting	0
+1323	This record sounds scratchy	This record [MASK] scratchy	0
+1324	sound a certain note	[MASK] a certain note	0
+1325	She sowed sunflower seeds	She [MASK] sunflower seeds	0
+1326	sow suspicion or beliefs	[MASK] suspicion or beliefs	1
+1327	sow the ground with sunflower seeds	[MASK] the ground with sunflower seeds	0
+1328	Bullets were spatting down on us	Bullets were [MASK] down on us	0
+1329	mollusks or oysters spat	mollusks or oysters [MASK]	0
+1330	Bullets were spatting the leaves	Bullets were [MASK] the leaves	0
+1331	She specializes in Near Eastern history	She [MASK] in Near Eastern history	0
+1332	specialize one's research	[MASK] one's research	0
+1333	She specializes in honey bees	She [MASK] in honey bees	0
+1334	How do you spell this word?	How do you [MASK] this word?	0
+1335	I'm afraid this spells trouble!	I'm afraid this [MASK] trouble!	1
+1336	He spelled the word wrong in this letter	He [MASK] the word wrong in this letter	0
+1337	She spelled her husband at the wheel	She [MASK] her husband at the wheel	1
+1338	the workers spell every four hours	the workers [MASK] every four hours	1
+1339	She splashed the water around her.	She [MASK] the water around her.	0
+1340	The mother splashed the baby's face with water.	The mother [MASK] the baby's face with water.	0
+1341	The mountain was splashed with snow.	The mountain was [MASK] with snow.	1
+1342	Water was splashing on the floor.	Water was [MASK] on the floor.	0
+1343	The wine spotted the tablecloth	The wine [MASK] the tablecloth	0
+1344	This dress spots quickly	This dress [MASK] quickly	0
+1345	spot the areas that one should clearly identify	[MASK] the areas that one should clearly identify	0
+1346	Water sprayed all over the floor	Water [MASK] all over the floor	0
+1347	spray water on someone	[MASK] water on someone	0
+1348	spray the wall with paint	[MASK] the wall with paint	0
+1349	The invaders spread their language all over the country	The invaders [MASK] their language all over the country	0
+1350	spread cheese on a piece of bread	[MASK] cheese on a piece of bread	0
+1351	the infection spread	the infection [MASK]	0
+1352	A big oil spot spread across the water	A big oil spot [MASK] across the water	0
+1353	He spread fertilizer over the lawn	He [MASK] fertilizer over the lawn	0
+1354	spread the bread with cheese	[MASK] the bread with cheese	0
+1355	square the wood with a file	[MASK] the wood with a file	0
+1356	He squared his shoulders	He [MASK] his shoulders	1
+1357	one idea squares with the other one	one idea [MASK] with the other one	1
+1358	The drunken man staggered into the room.	The drunken man [MASK] into the room.	0
+1359	He staggered along in the heavy snow.	He [MASK] along in the heavy snow.	0
+1360	The architect decided to stagger the chairs in the lecture hall.	The architect decided to [MASK] the chairs in the lecture hall.	0
+1361	She was staggered with bills after she tried to rebuild her house following the earthquake.	She was [MASK] with bills after she tried to rebuild her house following the earthquake.	1
+1362	Industry will stagnate if we do not stimulate our economy	Industry will [MASK] if we do not stimulate our economy	0
+1363	There are marshes that stagnate the waters	There are marshes that [MASK] the waters	0
+1364	blood stagnates in the capillaries	blood [MASK] in the capillaries	0
+1365	The old man sat and stagnated on his porch	The old man sat and [MASK] on his porch	0
+1366	The car stalled in the driveway	The car [MASK] in the driveway	0
+1367	"""she doesn't want to write the report, so she is stalling"""	"""she doesn't want to write the report, so she is [MASK]"""	0
+1368	The inexperienced driver kept stalling the car	The inexperienced driver kept [MASK] the car	0
+1369	a man whose name is permanently stamped on our maps	a man whose name is permanently [MASK] on our maps	1
+1370	His playing stamps him as a Romantic	His playing [MASK] him as a Romantic	1
+1371	Are the letters properly stamped?	Are the letters properly [MASK]	0
+1372	stamp fruit extract the juice	[MASK] fruit extract the juice	1
+1373	Thunderbolts can stampede animals	Thunderbolts can [MASK] animals	0
+1374	The tavern owners stampeded us into overeating	The tavern owners [MASK] us into overeating	1
+1375	Companies will now stampede to release their latest software	Companies will now [MASK] to release their latest software	1
+1376	The ship steamed off into the Pacific	The ship [MASK] off into the Pacific	0
+1377	The rain forest was literally steaming	The rain forest was literally [MASK]	0
+1378	her indifference to his amorous advances really steamed the young man	her indifference to his amorous advances really [MASK] the young man	1
+1379	steam-clean the upholstered sofa	[MASK] the upholstered sofa	0
+1380	just steam the vegetables	just [MASK] the vegetables	0
+1381	The Senator steamrollered the bill to defeat	The Senator [MASK] the bill to defeat	1
+1382	The new teacher tends to steamroller	The new teacher tends to [MASK]	1
+1383	steamroller the opposition	[MASK] the opposition	1
+1384	The Senator steamrollered the bill to defeat	The Senator [MASK] the bill to defeat	1
+1385	The new teacher tends to steamroller	The new teacher tends to [MASK]	1
+1386	steamroller the road	[MASK] the road	0
+1387	steamroller the opposition	[MASK] the opposition	1
+1388	She stepped into a life of luxury	She [MASK] into a life of luxury	1
+1389	The architect wants to step the terrace	The architect wants to [MASK] the terrace	0
+1390	step over to the blackboard	[MASK] over to the blackboard	0
+1391	The book stimulated her imagination	The book [MASK] her imagination	0
+1392	Coffee and tea stimulate me	Coffee and tea [MASK] me	0
+1393	stimulate my appetite	[MASK] my appetite	0
+1394	I won't stoop to reading other people's mail.	I won't [MASK] to reading other people's mail.	1
+1395	The eagle stooped on the mice in the field.	The eagle [MASK] on the mice in the field.	0
+1396	The rocks stooped down over the hiking path.	The rocks [MASK] down over the hiking path.	1
+1397	The old man was stooping but he could walk around without a cane.	The old man was [MASK] but he could walk around without a cane.	0
+1398	their manes streamed like stiff black pennants in the wind	their manes [MASK] like stiff black pennants in the wind	1
+1399	She was streaming with sweat	She was [MASK] with sweat	1
+1400	Tears streamed down her face	Tears [MASK] down her face	0
+1401	The child stuffed candy into his pockets	The child [MASK] candy into his pockets	0
+1402	My nose is all stuffed	My nose is all [MASK]	0
+1403	She stuffed herself at the dinner	She [MASK] herself at the dinner	1
+1404	stuff a pillow with feathers	[MASK] a pillow with feathers	0
+1405	Have you stuffed the turkey yet?	Have you [MASK] the turkey yet?	0
+1406	The drunk man stumbled about	The drunk man [MASK] about	0
+1407	She stumbled over the tree root	She [MASK] over the tree root	0
+1408	I stumbled across a long-lost cousin last night in a restaurant	I [MASK] across a long-lost cousin last night in a restaurant	1
+1409	suck the poison from the place where the snake bit	[MASK] the poison from the place where the snake bit	0
+1410	Mud was sucking at her feet	Mud was [MASK] at her feet	1
+1411	The current boom in the economy sucked many workers in from abroad	The current boom in the economy [MASK] many workers in from abroad	1
+1412	The wetnurse suckled the infant	The wetnurse [MASK] the infant	0
+1413	He supplicated the King for clemency	He [MASK] the King for clemency	0
+1414	supplicate for permission	[MASK] for permission	0
+1415	supplicate God's blessing	[MASK] God's blessing	0
+1416	The secret police suspended their victims from the ceiling and beat them.	The secret police [MASK] their victims from the ceiling and beat them.	0
+1417	The fluid suspends the particles.	The fluid [MASK] the particles.	1
+1418	They suspended payments on the loan.	They [MASK] payments on the loan.	0
+1419	The prison sentence was suspended.	The prison sentence was [MASK].	0
+1420	We sustained the diplomatic negotiations as long as possible	We [MASK] the diplomatic negotiations as long as possible	0
+1421	We sustained ourselves on bread and water	We [MASK] ourselves on bread and water	0
+1422	She alone sustained her family	She alone [MASK] her family	0
+1423	The court sustained the motion	The court [MASK] the motion	0
+1424	The Nazis swallowed the Baltic countries	The Nazis [MASK] the Baltic countries	1
+1425	The huge waves swallowed the small boat and it sank shortly thereafter	The huge waves [MASK] the small boat and it sank shortly thereafter	1
+1426	She swallowed the last words of her speech	She [MASK] the last words of her speech	1
+1427	He swallowed his words	He [MASK] his words	1
+1428	I swallowed my anger and kept quiet	I [MASK] my anger and kept quiet	1
+1429	Am I supposed to swallow that story?	Am I supposed to [MASK] that story?	1
+1430	The music swelled to a crescendo	The music [MASK] to a crescendo	1
+1431	The mother was swelling with importance when she spoke of her son	The mother was [MASK] with importance when she spoke of her son	1
+1432	The bellies of the starving children are swelling	The bellies of the starving children are [MASK]	0
+1433	The water swells the wood	The water [MASK] the wood	0
+1434	We had to swim for 20 minutes to reach the shore	We had to [MASK] for 20 minutes to reach the shore	0
+1435	my brain is swimming after the bottle of champagne	my brain is [MASK] after the bottle of champagne	1
+1436	the meat was swimming in a fatty gravy	the meat was [MASK] in a fatty gravy	1
+1437	this snake swims through the soil where it lives	this snake [MASK] through the soil where it lives	0
+1438	Let's synchronize our efforts	Let's [MASK] our efforts	0
+1439	synchronize this film	[MASK] this film	0
+1440	synchronize biblical events	[MASK] biblical events	0
+1441	The clocks synchronize	The clocks [MASK]	0
+1442	synchronize your watches	[MASK] your watches	0
+1443	tack the notice on the board	[MASK] the notice on the board	0
+1444	The sailors decided to tack the boat	The sailors decided to [MASK] the boat	0
+1445	He tacked together some verses	He [MASK] together some verses	1
+1446	Actions talk louder than words.	Actions [MASK] louder than words.	1
+1447	She talks a lot of nonsense.	She [MASK] a lot of nonsense.	0
+1448	The baby talks already.	The baby [MASK] already.	0
+1449	"""If you don't oblige me, I'll talk!"""	"""If you don't oblige me, I'll [MASK]!"""	0
+1450	Be carefu l-- his secretary talks.	Be carefu l-- his secretary [MASK].	0
+1451	She will talk at Rutgers next week.	She will [MASK] at Rutgers next week.	0
+1452	Can you taste the garlic?	Can you [MASK] the garlic?	0
+1453	This tastes of nutmeg	This [MASK] of nutmeg	0
+1454	We tasted wines last night	We [MASK] wines last night	0
+1455	The ex-slave tasted freedom shortly before she died	The ex-slave [MASK] freedom shortly before she died	1
+1456	The State taxes alcohol heavily.	The State [MASK] alcohol heavily.	0
+1457	You are taxing my patience.	You are [MASK] my patience.	1
+1458	They taxed him failure to appear in court.	They [MASK] him failure to appear in court.	1
+1459	The children teased the boy because of his stammer	The children [MASK] the boy because of his stammer	0
+1460	The children teased the new teacher	The children [MASK] the new teacher	0
+1461	The advertisement is intended to tease the customers	The advertisement is intended to [MASK] the customers	0
+1462	tease tissue for microscopic examinations	[MASK] tissue for microscopic examinations	0
+1463	the flirting man teased the young woman	the flirting man [MASK] the young woman	0
+1464	He could tell that she was unhappy	He could [MASK] that she was unhappy	0
+1465	I tell you that man is a crook!	I [MASK] you that man is a crook!	0
+1466	he was telling on all his former colleague	he was [MASK] on all his former colleague	0
+1467	We were tempted by the delicious-looking food	We were [MASK] by the delicious-looking food	0
+1468	He lured me into temptation	He lured me into [MASK]	0
+1469	the window displays tempted the shoppers	the window displays [MASK] the shoppers	0
+1470	St. Anthony was tempted in the desert	St. Anthony was [MASK] in the desert	0
+1471	the bodybuilder's neck muscles tensed;	the bodybuilder's neck muscles [MASK]	0
+1472	alternately relax and tense your calf muscle	alternately relax and [MASK] your calf muscle	0
+1473	He tensed up when he saw his opponent enter the room	He [MASK] up when he saw his opponent enter the room	0
+1474	he got a phone call from his lawyer that tensed him up	he got a phone call from his lawyer that [MASK] him up	0
+1475	The teacher tests us every week	The teacher [MASK] us every week	0
+1476	He tested positive for HIV	He [MASK] positive for HIV	0
+1477	She tested high on the LSAT and was admitted to all the good law schools	She [MASK] high on the LSAT and was admitted to all the good law schools	0
+1478	She doesn't test well	She doesn't [MASK] well	0
+1479	The men were thrilled by a loud whistle blow	The men were [MASK] by a loud whistle blow	0
+1480	he was thrilled by the speed and the roar of the engine	he was [MASK] by the speed and the roar of the engine	0
+1481	The children were thrilled at the prospect of going to the movies	The children were [MASK] at the prospect of going to the movies	0
+1482	The bus thundered down the road.	The bus [MASK] down the road.	1
+1483	The river thundered below.	The river [MASK] below.	1
+1484	They tied their victim to the chair	They [MASK] their victim to the chair	0
+1485	The teams drew a tie	The teams drew a [MASK]	0
+1486	These big jets are tied to large airports	These big jets are [MASK] to large airports	1
+1487	The fishermen tied their flies	The fishermen [MASK] their flies	0
+1488	The candidate carefully timed his appearance at the disaster scene.	The candidate carefully [MASK] his appearance at the disaster scene.	0
+1489	We time the process to manufacture our cars very precisely.	We [MASK] the process to manufacture our cars very precisely.	0
+1490	The good player times his swing so as to hit the ball squarely.	The good player [MASK] his swing so as to hit the ball squarely.	0
+1491	tip the screen upward	[MASK] the screen upward	0
+1492	tip the arrow with the small stone	[MASK] the arrow with the small stone	0
+1493	Remember to tip the waiter	Remember to [MASK] the waiter	0
+1494	He tipped off the police about the terrorist plot	He [MASK] off the police about the terrorist plot	0
+1495	The church was tithed	The church was [MASK]	0
+1496	He tithed his income to the Church	He [MASK] his income to the Church	0
+1497	"""Although she left the church officially, she still tithes"""	"""Although she left the church officially, she still [MASK]"""	0
+1498	They topped off their dinner with a cognac.	They [MASK] off their dinner with a cognac.	1
+1499	A star tops the Christmas Tree.	A star [MASK] the Christmas Tree.	0
+1500	The towers were topped with conical roofs.	The towers were [MASK] with conical roofs.	0
+1501	The hikers topped the mountain just before noon	The hikers [MASK] the mountain just before noon	1
+1502	The gardener topped the trees and bushes.	The gardener [MASK] the trees and bushes.	1
+1503	trace the outline of a figure in the sand	[MASK] the outline of a figure in the sand	0
+1504	The hunters traced the deer into the woods	The hunters [MASK] the deer into the woods	0
+1505	She traced the circumstances of her birth	She [MASK] the circumstances of her birth	1
+1506	The children traced along the edge of the dark forest	The children [MASK] along the edge of the dark forest	1
+1507	John trailed behind his class mates.	John [MASK] behind his class mates.	1
+1508	The toddler was trailing his pants.	The toddler was [MASK] his pants.	1
+1509	transfer the patient to another hospital	[MASK] the patient to another hospital	0
+1510	transfer the packet from his trouser pockets to a pocket in his jacket	[MASK] the packet from his trouser pockets to a pocket in his jacket	0
+1511	I transferred my stock holdings to my children	I [MASK] my stock holdings to my children	0
+1512	This experience transformed her completely.	This experience [MASK] her completely.	1
+1513	He transformed into a monster.	He [MASK] into a monster.	1
+1514	It can transform energy to light.	It can [MASK] energy to light.	0
+1515	I have to translate when my in-laws from Austria visit the U.S.	I have to [MASK] when my in-laws from Austria visit the U.S.	0
+1516	Braque translated collage into oil	Braque [MASK] collage into oil	1
+1517	the growth in income translates into greater purchasing power	the growth in income [MASK] into greater purchasing power	0
+1518	poetry often does not translate	poetry often does not [MASK]	0
+1519	Can you translate the instructions in this manual for a layman?	Can you [MASK] the instructions in this manual for a layman?	0
+1520	For fools rush in where angels fear to tread	For fools rush in where angels fear to [MASK]	0
+1521	tread grapes to make wine	[MASK] grapes to make wine	0
+1522	male birds tread the females	male birds [MASK] the females	0
+1523	treat the water so it can be drunk	[MASK] the water so it can be drunk	0
+1524	The doctor treated my broken leg	The doctor [MASK] my broken leg	0
+1525	Grandmother always treated us to the circus	Grandmother always [MASK] us to the circus	0
+1526	Don't worry about the expensive wine--I'm treating	Don't worry about the expensive wine--I'm [MASK]	0
+1527	they had to treat with the King	they had to [MASK] with the King	1
+1528	I treated his advances as a joke	I [MASK] his advances as a joke	0
+1529	He trenched his military camp	He [MASK] his military camp	0
+1530	letters trenched into the stone	letters [MASK] into the stone	1
+1531	trench the fallen soldiers	[MASK] the fallen soldiers	0
+1532	The National Guardsmen were sent out to trench	The National Guardsmen were sent out to [MASK]	0
+1533	The prisoner tugged at the chains	The prisoner [MASK] at the chains	0
+1534	She tugged for years to make a decent living	She [MASK] for years to make a decent living	1
+1535	The tugboat tugged the freighter into the harbor	The [MASK] tugged the freighter into the harbor	0
+1536	The horse finally tugged the cart out of the mud	The horse finally [MASK] the cart out of the mud	0
+1537	Each oar was tugged by several men	Each oar was [MASK] by several men	0
+1538	She tugged and wrestled with her conflicts	She [MASK] and wrestled with her conflicts	1
+1539	The wrestler twisted his shoulder	The wrestler [MASK] his shoulder	0
+1540	twist the dough into a braid	[MASK] the dough into a braid	0
+1541	The cord is all twisted	The cord is all [MASK]	0
+1542	Don't twist my words	Don't [MASK] my words	1
+1543	She did not understand her husband	She did not [MASK] her husband	0
+1544	She understands French	She [MASK] French	0
+1545	I understand you have no previous experience?	I [MASK] you have no previous experience?	0
+1546	You don't need to explain--I understand!	You don't need to explain--I [MASK]	0
+1547	I've upgraded my computer so I can run better software	I've [MASK] my computer so I can run better software	0
+1548	I upgraded to First Class when Coach Class was overbooked	I [MASK] to First Class when Coach Class was overbooked	0
+1549	The airline upgraded me when I arrived late and Coach Class was full	The airline [MASK] me when I arrived late and Coach Class was full	0
+1550	The war uprooted many people.	The war [MASK] many people.	1
+1551	The vestiges of political democracy were soon uprooted.	The vestiges of political democracy were soon [MASK].	1
+1552	They plan to uproot the vine that has spread all over the garden.	They plan to [MASK] the vine that has spread all over the garden.	0
+1553	we only use Spanish at home	we only [MASK] Spanish at home	0
+1554	She uses drugs rarely	She [MASK] drugs rarely	0
+1555	She uses her influential friends to get jobs	She [MASK] her influential friends to get jobs	0
+1556	use care when going down the stairs	[MASK] care when going down the stairs	0
+1557	She used to call her mother every week but now she calls only occasionally	She [MASK] to call her mother every week but now she calls only occasionally	0
+1558	The effect vanished when day broke	The effect [MASK] when day broke	0
+1559	An entire civilization vanished	An entire civilization [MASK]	0
+1560	the money vanished in las Vegas	the money [MASK] in las Vegas	0
+1561	They vegetated the hills behind their house	They [MASK] the hills behind their house	0
+1562	The fields vegetate vigorously	The fields [MASK] vigorously	0
+1563	This fungus usually vegetates vigorously	This fungus usually [MASK] vigorously	0
+1564	warts and polyps can vegetate if not removed	warts and polyps can [MASK] if not removed	0
+1565	The bacterial growth vegetated along	The bacterial growth [MASK] along	0
+1566	"""After a hard day's work, I vegetate in front of the television"""	"""After a hard day's work, I [MASK] in front of the television"""	1
+1567	They vested the council with special rights	They [MASK] the council with special rights	1
+1568	She vested her vast fortune in her two sons	She [MASK] her vast fortune in her two sons	0
+1569	The property vests in the trustees	The property [MASK] in the trustees	0
+1570	Did you ever visit Paris?	Did you ever [MASK] Paris?	0
+1571	The principal visited his rage on the students.	The principal [MASK] his rage on the students.	1
+1572	"""Every summer, we visited our relatives in the country for a month."""	"""Every summer, we [MASK] our relatives in the country for a month."""	0
+1573	He was visited with a terrible illness that killed him quickly.	He was [MASK] with a terrible illness that killed him quickly.	1
+1574	The radiologist can visualize the cancerous liver.	The radiologist can [MASK] the cancerous liver.	0
+1575	Mathematicians often visualize.	Mathematicians often [MASK].	1
+1576	"""With this machine, ultrasound can be visualized."""	"""With this machine, ultrasound can be [MASK]."""	0
+1577	Gun shots volleyed at the attackers.	Gun shots [MASK] at the attackers.	1
+1578	They began to volley the tennis ball.	They began to [MASK] the tennis ball.	0
+1579	The attackers volleyed gunshots at the civilians.	The attackers [MASK] gunshots at the civilians.	1
+1580	I heard him volley a string of curses.	I heard him [MASK] a string of curses.	1
+1581	He voted for the motion	He [MASK] for the motion	0
+1582	vote the Democratic ticket	[MASK] the Democratic ticket	0
+1583	I vote that we all go home	I [MASK] that we all go home	0
+1584	vote one's conscience	[MASK] one's conscience	0
+1585	They voted aid for the underdeveloped countries in Asia	They [MASK] aid for the underdeveloped countries in Asia	0
+1586	Will he vouch for me?	Will he [MASK] for me?	0
+1587	I vouch for the quality of my products.	I [MASK] for the quality of my products.	0
+1588	He vouched his words by his deeds.	He [MASK] his words by his deeds.	1
+1589	"""Walk, don't run!"""	"""[MASK], don't run!"""	0
+1590	The lovers held hands while walking.	The lovers held hands while [MASK].	0
+1591	I'll walk you to your car	I'll [MASK] you to your car	0
+1592	Paul walked the streets of Damascus.	Paul [MASK] the streets of Damascus.	0
+1593	We must walk with our dispossessed brothers and sisters.	We must [MASK] with our dispossessed brothers and sisters.	0
+1594	The horses walked across the meadow.	The horses [MASK] across the meadow.	0
+1595	He walks the horse up the mountain.	He [MASK] the horse up the mountain.	0
+1596	wallow in your sorrows	[MASK] in your sorrows	1
+1597	pigs were wallowing in the mud	pigs were [MASK] in the mud	0
+1598	wallow in your success!	[MASK] in your success!	1
+1599	I want to go home now	I [MASK] to go home now	0
+1600	This piano wants the attention of a competent tuner	This piano [MASK] the attention of a competent tuner	1
+1601	Your former neighbor is wanted by the FBI	Your former neighbor is [MASK] by the FBI	0
+1602	I want you here at noon!	I [MASK] you here at noon!	0
+1603	want the strength to go on living	[MASK] the strength to go on living	0
+1604	The director warned him that he might be fired.	The director [MASK] him that he might be fired.	0
+1605	I warned him not to go too far.	I [MASK] him not to go too far.	0
+1606	The old man warned the children off his property.	The old man [MASK] the children off his property.	0
+1607	I warned you that I would ask some difficult questions.	I [MASK] you that I would ask some difficult questions.	0
+1608	He wasted his inheritance on his insincere friends.	He [MASK] his inheritance on his insincere friends.	1
+1609	Don't waste a joke on an unappreciative audience.	Don't [MASK] a joke on an unappreciative audience.	1
+1610	We waste the dirty water by channeling it into the sewer.	We [MASK] the dirty water by channeling it into the sewer.	0
+1611	The water wastes back into the ocean.	The water [MASK] back into the ocean.	1
+1612	We watered the buffalo	We [MASK] the buffalo	0
+1613	My mouth watered at the prospect of a good dinner	My mouth [MASK] at the prospect of a good dinner	0
+1614	His eyes were watering	His eyes were [MASK]	0
+1615	She was wearing yellow that day	She was [MASK] yellow that day	0
+1616	He always wears a smile	He always [MASK] a smile	1
+1617	wear one's hair in a certain way	[MASK] one's hair in a certain way	0
+1618	What should I wear today?	What should I [MASK] today?	0
+1619	wharf the passengers	[MASK] the passengers	1
+1620	the big ship wharfed in the evening	the big ship [MASK] in the evening	0
+1621	The ship was wharfed	The ship was [MASK]	0
+1622	The bullets whistled past him	The bullets [MASK] past him	1
+1623	She whistled a melody	She [MASK] a melody	0
+1624	Her optimism whistled away these worries	Her optimism [MASK] away these worries	1
+1625	She whistled for her maid	She [MASK] for her maid	0
+1626	I wish I could go home now.	I [MASK] I could go home now.	0
+1627	I wish that Christmas were over.	I [MASK] that Christmas were over.	0
+1628	We wish you a nice evening!	We [MASK] you a nice evening!	0
+1629	I worry about my job	I [MASK] about my job	0
+1630	I worry about my grades	I [MASK] about my grades	0
+1631	I cannot sleep--my daughter's health is worrying me	I cannot sleep--my daughter's health is [MASK] me	0
+1632	I worry about the second Germanic consonant shift	I [MASK] about the second Germanic consonant shift	0
+1633	He wrestled all his life with his feeling of inferiority.	He [MASK] all his life with his feeling of inferiority.	1
+1634	I wrestled with this decision for years.	I [MASK] with this decision for years.	1
+1635	The children wrestled in the garden.	The children [MASK] in the garden.	0
+1636	She writes code faster than anybody else.	She [MASK] code faster than anybody else.	0
+1637	Please write to me every week.	Please [MASK] to me every week.	0
+1638	How many books did Georges Simenon write?	How many books did Georges Simenon [MASK]?	0
+1639	The twentieth century saw intensive development of new technologies	The twentieth century [MASK] intensive development of new technologies	1
+1640	Our conversation turned to the subject of “tongues”.	Our conversation [MASK] to the subject of “tongues”.	1
+1641	The resumption of school brought relief to thousands of children.	The resumption of school [MASK] relief to thousands of children.	1
+1642	Utah’s economy is moving in the right direction.	Utah’s economy is [MASK] in the right direction.	1
+1643	The service will meet your expectations.	The service will [MASK] your expectations.	1
+1644	I hope all her marketing materials live the dream.	I hope all her marketing materials [MASK] the dream.	1
+1645	Three years later, unemployment stands at 8.2 percent. 	Three years later, unemployment [MASK] at 8.2 percent. 	1
+1646	Actions talk even louder than phrases. 	Actions [MASK] even louder than phrases. 	1
+1647	This statement sits oddly in the article.	This statement [MASK] oddly in the article.	1
+1648	Personal income has not fallen because of welfare programs.	Personal income has not [MASK] because of welfare programs.	1
+1649	The silence spoke volumes, none of which he wanted to hear.	The silence [MASK] volumes, none of which he wanted to hear.	1
+1650	Our car decided to act raggedy on Friday, we had to take it to the shop.	Our car [MASK] to act raggedy on Friday, we had to take it to the shop.	1
+1651	My computer battery died.	My computer battery [MASK].	1
+1652	If you walk documents into the office, you can also pay by VISA or MasterCard.	If you [MASK] documents into the office, you can also pay by VISA or MasterCard.	1
+1653	The company is letting money walk out the door.	The company is letting money [MASK] out the door.	1
+1654	They are accidents waiting to happen.	They are accidents [MASK] to happen.	1
+1655	Texans broke their own record for electricity demand for the third time this month.	Texans [MASK] their own record for electricity demand for the third time this month.	1
+1656	Two Fridays ago, temperatures broke 100 across central Indiana.	Two Fridays ago, temperatures [MASK] 100 across central Indiana.	1
+1657	Will insurance cover my care?	Will insurance [MASK] my care?	1
+1658	He also says the state needs to cut spending on Medicaid.	He also says the state needs to [MASK] spending on Medicaid.	1
+1659	Hawaii kills proposal for home energy loans.	Hawaii [MASK] proposal for home energy loans.	1
+1660	How is consumer electronics driving innovation in the U.S. and abroad?	How is consumer electronics [MASK] innovation in the U.S. and abroad?	1
+1661	Luck loves those that expect it.	Luck [MASK] those that expect it.	1
+1662	Teenagers wear attitude like a uniform.	Teenagers [MASK] attitude like a uniform.	1
+1663	He was catching a flight to New York to attend a conference.	He was [MASK] a flight to New York to attend a conference.	1
+1664	Envy eats away at your soul.	Envy [MASK] away at your soul.	1
+1665	Some of the most disturbing data pointed to the physical pain.	Some of the most disturbing data [MASK] to the physical pain.	1
+1666	Japanese advertisers pulled their ads off the air.	Japanese advertisers [MASK] their ads off the air.	1
+1667	They wanted to close a deal with the Egyptians quickly.	They wanted to [MASK] a deal with the Egyptians quickly.	1
+1668	The police closed the investigation.	The police [MASK] the investigation.	1
+1669	Bicycle suffered major damage.	Bicycle [MASK] major damage.	1
+1670	Just wanted to let you know Tori threw a temper tantrum and hit her head on the floor	Just wanted to let you know Tori [MASK] a temper tantrum and hit her head on the floor	1
+1671	He started to look for other business opportunities and soon Fortune smiled at him.	He started to look for other business opportunities and soon Fortune [MASK] at him.	1
+1672	For a brief moment this week, excitement filled the streets of both Havana and Miami.	For a brief moment this week, excitement [MASK] the streets of both Havana and Miami.	1
+1673	Please join me as we work together to fight hunger in your community.	Please join me as we work together to [MASK] hunger in your community.	1
+1674	Competition is dropping prices.	Competition is [MASK] prices.	1
+1675	That happens once a new product really hits the market.	That happens once a new product really [MASK] the market.	1
+1676	Murkowski is pushing legislation through Congress.	Murkowski is [MASK] legislation through Congress.	1
+1677	One of the seatbelt bolts refused to budge.	One of the seatbelt bolts [MASK] to budge.	1
+1678	However, the stupid men laid the blame on innocent dogs.	However, the stupid men [MASK] the blame on innocent dogs.	1
+1679	The future of our transportation system hangs in the balance.	The future of our transportation system [MASK] in the balance.	1
+1680	The change in teaching has shaken their confidence in the Church. 	The change in teaching has [MASK] their confidence in the Church. 	1
+1681	The rumors flew that this far right group was coming again.	The rumors [MASK] that this far right group was coming again.	1
+1682	A special interest is how ideas travel among enterprises within or across different trades and nations.	A special interest is how ideas [MASK] among enterprises within or across different trades and nations.	1
+1683	Different circumstances demand a different translation.	Different circumstances [MASK] a different translation.	1
+1684	This is a Prime Minister who has got a solution staring him in the face.	This is a Prime Minister who has got a solution [MASK] him in the face.	1
+1685	On Sunday, China's manufacturing data beat expectations	On Sunday, China's manufacturing data [MASK] expectations	1
+1686	Comprehensive solutions marry ideas favored by one party and opposed by the other.	Comprehensive solutions [MASK] ideas favored by one party and opposed by the other.	1
+1687	So before anybody starts shooting down proposals, I think we need to listen.	So before anybody starts [MASK] down proposals, I think we need to listen.	1
+1688	These trucks drink as much as they can and happily spew a load of carbon into the air.	These trucks [MASK] as much as they can and happily spew a load of carbon into the air.	1
+1689	Dread settled in Hutch's chest with the ache of a bad cold.	Dread [MASK] in Hutch's chest with the ache of a bad cold.	1
+1690	Use whatever association strikes your fancy.	Use whatever association [MASK] your fancy.	1
+1691	Then came the War and tragedy struck the little community.	Then came the War and tragedy [MASK] the little community.	1
+1692	Indeed, Mr. Obama has made it clear that he will press advantages where he sees them.	Indeed, Mr. Obama has made it clear that he will [MASK] advantages where he sees them.	1
+1693	Countless marriages have survived initial problems.	Countless marriages have [MASK] initial problems.	1
+1694	The Bundestag in Germany lifted the ban on the Jesuit order of priests.	The Bundestag in Germany [MASK] the ban on the Jesuit order of priests.	1
+1695	His kindness has really touched me. 	His kindness has really [MASK] me. 	1
+1696	The good news is that even while Congress sleeps, there are those on both the right and left that recognize the dangers.	The good news is that even while Congress [MASK], there are those on both the right and left that recognize the dangers.	1
+1697	No epic adventure has fed the imagination of millions of fans worldwide quite like the Star Wars series has.	No epic adventure has [MASK] the imagination of millions of fans worldwide quite like the Star Wars series has.	1
+1698	Their hearts cry out for worship.	Their hearts [MASK] out for worship.	1
+1699	The thriller didn’t stick its landing with all folks that ended up watching it.	The thriller didn’t [MASK] its landing with all folks that ended up watching it.	1
+1700	Across the compound, a clump of trees nodded gently in the winter breeze.	Across the compound, a clump of trees [MASK] gently in the winter breeze.	1
+1701	His opponents will be attacking his credibility.	His opponents will be [MASK] his credibility.	1
+1702	Midwesterners try to spread the wealth evenly.	Midwesterners try to [MASK] the wealth evenly.	1
+1703	Rumors spread that Coco was on good terms with the Germans.	Rumors [MASK] that Coco was on good terms with the Germans.	1
+1704	By the end of Bush's presidency, unemployment climbed to 7.2%.	By the end of Bush's presidency, unemployment [MASK] to 7.2%.	1
+1705	Fate stepped in during her brother’s trip to NYC in September 2007.	Fate [MASK] in during her brother’s trip to NYC in September 2007.	1
+1706	These methodological blunders escaped the notice of the eminent reviewers.	These methodological blunders [MASK] the notice of the eminent reviewers.	1
+1707	The U.S. Supreme Court handed a victory to generic drug companies.	The U.S. Supreme Court [MASK] a victory to generic drug companies.	1
+1708	Forced overtime  burns goodwill  at an extremely high rate.	Forced overtime  [MASK] goodwill  at an extremely high rate.	1
+1709	The company’s stock jumped more than five percent,	The company’s stock [MASK] more than five percent,	1
+1710	At Southwest Airlines, they understand that success rides on friendly service.	At Southwest Airlines, they understand that success [MASK] on friendly service.	1
+1711	I find it a constant struggle to shut my brain off sometimes.	I find it a constant struggle to [MASK] my brain off sometimes.	1
+1712	Don’t go and blow your paycheck though.	Don’t go and [MASK] your paycheck though.	1
+1713	My computer slipped into coma.	My computer [MASK] into coma.	1
+1714	My difficult daily schedule slips by wayside.	My difficult daily schedule [MASK] by wayside.	1
+1715	"The courts have attached broad meaning to the term ""interstate commerce""."	"The courts have [MASK] broad meaning to the term ""interstate commerce""."	1
+1716	5 states are still solidly or strongly leaning Republican.	5 states are still solidly or strongly [MASK] Republican.	1
+1717	Instead, Bernanke leaned on Congress to do more.	Instead, Bernanke [MASK] on Congress to do more.	1
+1718	Apple has rolled out a new commercial for the iPad	Apple has [MASK] out a new commercial for the iPad	1
+1719	Look at their smiling faces and their zeal as they try to wash their sins away.	Look at their smiling faces and their zeal as they try to [MASK] their sins away.	1
+1720	Like last year, Android tablets are stealing the spotlight.	Like last year, Android tablets are [MASK] the spotlight.	1
+1721	The stress test results stole the show from the Fed.	The stress test results [MASK] the show from the Fed.	1
+1722	Out-of-control spending was hurting the economy.	Out-of-control spending was [MASK] the economy.	1
+1723	This is where some professionals may stretch the truth because they also know this is very important to you. 	This is where some professionals may [MASK] the truth because they also know this is very important to you. 	1
+1724	There are many things in life that can knock your confidence.	There are many things in life that can [MASK] your confidence.	1
+1725	Once my phone was paired the car complained that my SD card was corrupt.	Once my phone was paired the car [MASK] that my SD card was corrupt.	1
+1726	Your destiny is tied to the person you work for.	Your destiny is [MASK] to the person you work for.	1
+1727	I really hope society wakes up soon.	I really hope society [MASK] up soon.	1
+1728	This would do more to clean up government than a lot of other proposals would, but that is just my opinion.	This would do more to [MASK] up government than a lot of other proposals would, but that is just my opinion.	1
+1729	I recently landed a nursing internship, which I am currently enjoying.	I recently [MASK] a nursing internship, which I am currently enjoying.	1
+1730	We need to kick our addiction to carbon.	We need to [MASK] our addiction to carbon.	1
+1731	In his views as the primary electorate swings further right.	In his views as the primary electorate [MASK] further right.	1
+1732	The Great Depression dragged the market down with it.	The Great Depression [MASK] the market down with it.	1
+1733	Life rushes to replace death.	Life [MASK] to replace death.	1
+1734	This one speech could sink his candidacy.	This one speech could [MASK] his candidacy.	1
+1735	But it is in the company framework that buries initiative.	But it is in the company framework that [MASK] initiative.	1
+1736	Mitt Romney swept five primaries on Tuesday night.	Mitt Romney [MASK] five primaries on Tuesday night.	1
+1737	The rich are getting richer while the middle class slides into poverty.	The rich are getting richer while the middle class [MASK] into poverty.	1
+1738	Plainly, Ehud Olmert, Israel’s prime minister, should grab any opportunity to talk.	Plainly, Ehud Olmert, Israel’s prime minister, should [MASK] any opportunity to talk.	1
+1739	Headlines scream of pollution and dwindling natural resources.	Headlines [MASK] of pollution and dwindling natural resources.	1
+1740	Primary battles have torn the party apart.	Primary battles have [MASK] the party apart.	1
+1741	Nonetheless, an established cult of fans digs this activity.	Nonetheless, an established cult of fans [MASK] this activity.	1
+1742	However, the funding dried up in 2007.	However, the funding [MASK] up in 2007.	1
+1743	The German economy shrugged off the impact of eurozone debt crisis.	The German economy [MASK] off the impact of eurozone debt crisis.	1
+1744	The economy sailed through the world recession of 2001.	The economy [MASK] through the world recession of 2001.	1
+1745	The government dreams up regulations that affect pubs every day.	The government [MASK] up regulations that affect pubs every day.	1
+1746	The creativity flowed from the parents as well as the children.	The creativity [MASK] from the parents as well as the children.	1
+1747	The pride bursts from my heart.	The pride [MASK] from my heart.	1
+1748	Airports are swimming in money from passenger fees.	Airports are [MASK] in money from passenger fees.	1
+1749	Communism collapsed world-wide.	Communism [MASK] world-wide.	1
+1750	She hated strangers approaching her for any reason.	She hated strangers [MASK] her for any reason.	0
+1751	The camp smoke arose from the usual places as far as I could see.	The camp smoke [MASK] from the usual places as far as I could see.	0
+1752	The bus eventually arrived.	The bus eventually [MASK].	0
+1753	Attach a drain hose to the radiator drain.	[MASK] a drain hose to the radiator drain.	0
+1754	Somali pirates have attacked 62 ships.	Somali pirates have [MASK] 62 ships.	0
+1755	In a large bowl, beat eggs until foamy.	In a large bowl, [MASK] eggs until foamy.	0
+1756	A suicide bomber blew up his sport-utility vehicle in the middle of a village volleyball game.	A suicide bomber [MASK] up his sport-utility vehicle in the middle of a village volleyball game.	0
+1757	Amidst all of that commotion, my wife’s car broke down while she was out getting us pizza.	Amidst all of that commotion, my wife’s car [MASK] down while she was out getting us pizza.	0
+1758	Her son broke my window.	Her son [MASK] my window.	0
+1759	It is imperative that you bring your own food.	It is imperative that you [MASK] your own food.	0
+1760	I love that these candles burn clean!	I love that these candles [MASK] clean!	0
+1761	Fireworks burst over the stadium and lit the night sky.	Fireworks [MASK] over the stadium and lit the night sky.	0
+1762	The Army started burying soldiers along the northern border of the Arlington estate.	The Army started [MASK] soldiers along the northern border of the Arlington estate.	0
+1763	Ships typically carry up to 12 passengers in comfortable single or double cabins.	Ships typically [MASK] up to 12 passengers in comfortable single or double cabins.	0
+1764	We each caught another salmon that day, too.	We each [MASK] another salmon that day, too.	0
+1765	Clean a carpet stain immediately, even if you can't see it.	[MASK] a carpet stain immediately, even if you can't see it.	0
+1766	They climb the stairs to the top of the dam	They [MASK] the stairs to the top of the dam	0
+1767	The police closed the main exit road.	The police [MASK] the main exit road.	0
+1768	Jim closed the book.	Jim [MASK] the book.	0
+1769	A bridge had collapsed due to the rains.	A bridge had [MASK] due to the rains.	0
+1770	Some reviewers have complained about the smell.	Some reviewers have [MASK] about the smell.	0
+1771	By this time the young boy was crying.	By this time the young boy was [MASK].	0
+1772	I used to cut grass on a golf course when I was in college.	I used to [MASK] grass on a golf course when I was in college.	0
+1773	The judges decide on the winner of the category.	The judges [MASK] on the winner of the category.	0
+1774	The protesters demanded the release of the jailed students.	The protesters [MASK] the release of the jailed students.	0
+1775	Her father died when she was very young.	Her father [MASK] when she was very young.	0
+1776	I found them while the workmen were digging this pond.	I found them while the workmen were [MASK] this pond.	0
+1777	He dragged his suitcase up the stairs of the inn.	He [MASK] his suitcase up the stairs of the inn.	0
+1778	Some brides dream of an elegant formal ceremony in a huge castle.	Some brides [MASK] of an elegant formal ceremony in a huge castle.	0
+1779	Most informants agreed that camels drink more water in the winter than in the summer.	Most informants agreed that camels [MASK] more water in the winter than in the summer.	0
+1780	The driver was driving on the wrong side of the road and did not see Joshua.	The driver was [MASK] on the wrong side of the road and did not see Joshua.	0
+1781	This paint dries fast!	This paint [MASK] fast!	0
+1782	If you don’t eat breakfast and you’re tired by 9 am.	If you don’t [MASK] breakfast and you’re tired by 9 am.	0
+1783	Passing through the hallway visitors enter into the dining room.	Passing through the hallway visitors [MASK] into the dining room.	0
+1784	 A couple of prisoners have escaped from the jail near Reykjavik, Iceland. 	 A couple of prisoners have [MASK] from the jail near Reykjavik, Iceland. 	0
+1785	All the leaves had fallen from the trees.	All the leaves had [MASK] from the trees.	0
+1786	The farmer arrived to feed the cows.	The farmer arrived to [MASK] the cows.	0
+1787	You will be able to fill the water bottle at a fountain.	You will be able to [MASK] the water bottle at a fountain.	0
+1788	Yesterday lava flowed 90 meters wide as far out as a hundred meters from the shoreline.	Yesterday lava [MASK] 90 meters wide as far out as a hundred meters from the shoreline.	0
+1789	Contra planes flew north to the U.S., loaded with cocaine.	Contra planes [MASK] north to the U.S., loaded with cocaine.	0
+1790	A man went to a city.	A man [MASK] to a city.	0
+1791	She grabbed a towel and wrapped it around her head.	She [MASK] a towel and wrapped it around her head.	0
+1792	And then my dad had a garden, so he grew vegetables.	And then my dad had a garden, so he [MASK] vegetables.	0
+1793	A week later we handed the keys to our old apartment to our landlord.	A week later we [MASK] the keys to our old apartment to our landlord.	0
+1794	I remember my head hit the ground.	I remember my head [MASK] the ground.	0
+1795	As soon as I lie down my stomach hurts again.	As soon as I lie down my stomach [MASK] again.	0
+1796	Now the fish are jumping out of the pond right into my net!	Now the fish are [MASK] out of the pond right into my net!	0
+1797	To score this point, a kicker must kick the football through the goal posts.	To score this point, a [MASK]er must [MASK] the football through the goal posts.	0
+1798	In July, a suicide bomber killed three people including the top justice official in the region.	In July, a suicide bomber [MASK] three people including the top justice official in the region.	0
+1799	How do you feel when a salesman knocks at your door when you're hurriedly getting ready for the office?	How do you feel when a salesman [MASK] at your door when you're hurriedly getting ready for the office?	0
+1800	The helicopter landed in the snow.	The helicopter [MASK] in the snow.	0
+1801	Iran plans to launch an additional satellite.	Iran plans to [MASK] an additional satellite.	0
+1802	The couple laid a wreath at the Tomb of the Unknown Soldier.	The couple [MASK] a wreath at the Tomb of the Unknown Soldier.	0
+1803	I shouted to the driver, who was leaning his head out the window.	I shouted to the driver, who was [MASK] his head out the window.	0
+1804	The pharmacist leaned forward and said he understood.	The pharmacist [MASK] forward and said he understood.	0
+1805	These muscles are used to help lift your legs.	These muscles are used to help [MASK] your legs.	0
+1806	If my children lived nearby, I would be babysitting.	If my children [MASK] nearby, I would be babysitting.	0
+1807	People love to be asked about what they’re working on.	People [MASK] to be asked about what they’re working on.	0
+1808	My daughter has married an Indian man and we attended the traditional Hindu wedding.	My daughter has [MASK] an Indian man and we attended the traditional Hindu wedding.	0
+1809	I met a girl who claimed she was in the circus.	I [MASK] a girl who claimed she was in the circus.	0
+1810	The object then moved slowly away.	The object then [MASK] slowly away.	0
+1811	The man nodded his approval and walked around to me.	The man [MASK] his approval and walked around to me.	0
+1812	Miranda opened her mouth to reply, but no words came out.	Miranda [MASK] her mouth to reply, but no words came out.	0
+1813	Note that the antennas are pointing in different directions.	Note that the antennas are [MASK] in different directions.	0
+1814	The horse pulled his head away and lipped the man's nose.	The horse [MASK] his head away and lipped the man's nose.	0
+1815	The steam pushed the piston up and down.	The steam [MASK] the piston up and down.	0
+1816	At Pitzer College on Wednesday night, nearly 150 students raised their hands.	At Pitzer College on Wednesday night, nearly 150 students [MASK] their hands.	0
+1817	What can you do if the landlord refuses to make repairs to the premises?	What can you do if the landlord [MASK] to make repairs to the premises?	0
+1818	A pair of cowboys rode into town.	A pair of cowboys [MASK] into town.	0
+1819	Columns of smoke rose from fires burning out of control.	Columns of smoke [MASK] from fires burning out of control.	0
+1820	The tears rolled down the poor child's face.	The tears [MASK] down the poor child's face.	0
+1821	I rarely have a chance to see my horses run.	I rarely have a chance to see my horses [MASK].	0
+1822	Reporters rushed to the scene.	Reporters [MASK] to the scene.	0
+1823	The doctor said it would heal fine that way.	The doctor [MASK] it would heal fine that way.	0
+1824	The crowd screamed and sang along as usual.	The crowd [MASK] and sang along as usual.	0
+1825	Hawaii of course was settled by Polynesian immigrants from Tahiti about one thousand years ago.	Hawaii of course was [MASK] by Polynesian immigrants from Tahiti about one thousand years ago.	0
+1826	The young man shook his head.	The young man [MASK] his head.	0
+1827	He just shrugged his shoulders.	He just [MASK] his shoulders.	0
+1828	The ship was sunk by a Soviet submarine.	The ship was [MASK] by a Soviet submarine.	0
+1829	His cat was now sitting expectantly upon his feet.	His cat was now [MASK] expectantly upon his feet.	0
+1830	Most babies sleep primarily in their parent’s room for months.	Most babies [MASK] primarily in their parent’s room for months.	0
+1831	The top right-hand drawer slid open at a touch.	The top right-hand drawer [MASK] open at a touch.	0
+1832	Theo's foot slipped on the slick stone.	Theo's foot [MASK] on the slick stone.	0
+1833	Dean slips his own knife into the sheath in the back of his pants	Dean [MASK] his own knife into the sheath in the back of his pants	0
+1834	Frodo smiled amid his tears.	Frodo [MASK] amid his tears.	0
+1835	Use a small brush to spread glue on the egg.	Use a small brush to [MASK] glue on the egg.	0
+1836	For a while, the headless statue stood in the front yard of a neighboring home.	For a while, the headless statue [MASK] in the front yard of a neighboring home.	0
+1837	Frodo stared at the stone in his palm for a few moments.	Frodo [MASK] at the stone in his palm for a few moments.	0
+1838	The thief stole the photo from the museum in Prague.	The thief [MASK] the photo from the museum in Prague.	0
+1839	The engineer stole Boeing trade secrets.	The engineer [MASK] Boeing trade secrets.	0
+1840	Blair stepped out of the car to meet him.	Blair [MASK] out of the car to meet him.	0
+1841	Beth turned her head and stuck her tongue at me.	Beth turned her head and [MASK] her tongue at me.	0
+1842	Frank stretched his arm out across the length of the back of the bench.	Frank [MASK] his arm out across the length of the back of the bench.	0
+1843	Some women suffer no pain at all.	Some women [MASK] no pain at all.	0
+1844	The bar supports the full weight of the person.	The bar [MASK] the full weight of the person.	0
+1845	Can humans survive without water?	Can humans [MASK] without water?	0
+1846	The old man was sweeping the floor.	The old man was [MASK] the floor.	0
+1847	There were over a dozen whale sharks swimming around us.	There were over a dozen whale sharks [MASK] around us.	0
+1848	Have you ever seen a politician talking to a rich person on TV?	Have you ever seen a politician [MASK] to a rich person on TV?	0
+1849	Older patients may tear the rotator cuff during the dislocation.	Older patients may [MASK] the rotator cuff during the dislocation.	0
+1850	Scientists think they have discovered the first liquid sea outside of Earth on Saturn's largest moon, Titan.	Scientists [MASK] they have discovered the first liquid sea outside of Earth on Saturn's largest moon, Titan.	0
+1851	Lebanese throw rocks at Israeli soldiers.	Lebanese [MASK] rocks at Israeli soldiers.	0
+1852	Then you can also tie a ribbon around the card to make it look pretty.	Then you can also [MASK] a ribbon around the card to make it look pretty.	0
+1853	The longer of the two ladders is not touching the ground.	The longer of the two ladders is not [MASK] the ground.	0
+1854	All passengers travel in cabins, and all cabins have a private shower & toilet.	All passengers [MASK] in cabins, and all cabins have a private shower & toilet.	0
+1855	Jim turned and walked into the waiting room.	Jim [MASK] and walked into the waiting room.	0
+1856	One morning at daybreak, thunder woke him. 	One morning at daybreak, thunder [MASK] him. 	0
+1857	Misha walks his dogs in the park.	Misha [MASK] his dogs in the park.	0
+1858	Pedestrians walk between cafes and other small businesses.	Pedestrians [MASK] between cafes and other small businesses.	0
+1859	We always wear helmets when we are riding bikes.	We always [MASK] helmets when we are riding bikes.	0
+1860	Today volunteers welcome visitors and groups of all sizes.	Today volunteers [MASK] visitors and groups of all sizes.	0
