@@ -30,7 +30,7 @@ args = parser.parse_args()
 def md_classification(experiment, file_train, file_test, language):
     file_train = "data/tsvs/" + file_train
     file_test = "data/tsvs/" + file_test
-    seeds = [2, 42, 63, 1234]
+    seeds = [2, 42, 63]
 
     # read train file:
     corpus_train = Corpus(file_train)
