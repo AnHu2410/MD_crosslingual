@@ -1,0 +1,323 @@
+	sentence	subject	verb	object	label
+0	He <b>absorbed</b> the knowledge or beliefs of his tribe.		absorb	knowledge	1
+1	He <b>absorbed</b> the costs for the accident.		absorb	cost	1
+2	Her interest in butterflies <b>absorbs</b> her completely.	interest	absorb		1
+3	This boss <b>abuses</b> his workers.	boss	abuse	worker	0
+4	The actress <b>abused</b> the policeman who gave her a parking ticket.	actress	abuse	policeman	1
+5	Her husband often <b>abuses</b> alcohol.	husband	abuse	alcohol	1
+6	This hotel can <b>accommodate</b> 250 guests	hotel	accommodate	guest	0
+7	The scientists had to <b>accommodate</b> the new results with the existing theories	scientist	accommodate	result	0
+8	The program committee <b>acknowledged</b> the submission of the authors of the paper	committee	acknowledge	submission	0
+9	He never <b>acknowledges</b> his colleagues when they run into him in the hallway		acknowledge	colleague	0
+10	We must <b>acknowledge</b> the kindness she showed towards us		acknowledge	kindness	0
+11	<b>acknowledge</b> the deed		acknowledge	deed	0
+12	He <b>admitted</b> his errors		admit	error	0
+13	We cannot <b>admit</b> non-members into our club building		admit	member	0
+14	Will the new rules <b>affect</b> me?	rule	affect		0
+15	the medicine <b>affects</b> my heart rate	medicine	affect	rate	0
+16	This new ruling <b>affects</b> your business	ruling	affect	business	0
+17	The death of his child <b>aged</b> him tremendously	death	age		0
+18	He <b>aimed</b> his fists towards his opponent's face		aim	fist	0
+19	She wanted to <b>aim</b> a pun		aim	pun	1
+20	This show will <b>air</b> Saturdays at 2 P.M.	show	air		1
+21	She <b>aired</b> her opinions on welfare		air	opinion	1
+22	<b>air</b> the old winter clothes		air	clothes	0
+23	We don't <b>allow</b> dogs here		allow	dog	0
+24	The steering of my new car <b>answers</b> to the slightest touch	steering	answer		1
+25	<b>answer</b> the telephone		answer	telephone	0
+26	The defendant <b>answered</b> to all the charges of the prosecution	defendant	answer		0
+27	The drawing of the suspect <b>answers</b> to the description the victim gave	drawing	answer		0
+28	This may <b>answer</b> her needs		answer	need	0
+29	We were <b>approaching</b> our destination		approach	destination	0
+30	Winter is <b>approaching</b>	winter	approach		0
+31	We <b>ascended</b> the mountain.		ascend	mountain	0
+32	Inheritance may not <b>ascend</b> linearly.	inheritance	ascend		1
+33	The boat <b>ascended</b> the Delaware.	boat	ascend	Delaware	0
+34	The teacher <b>assigned</b> him to lead his classmates in the exercise.	teacher	assign		0
+35	The biologist <b>assigned</b> the mushroom to the proper class.	biologist	assign	mushroom	0
+36	Immigrants often want to <b>assimilate</b> quickly	immigrants	assimilate		0
+37	This country <b>assimilates</b> immigrants very quickly	country	assimilate	immigrants	0
+38	When will the new President <b>assume</b> office?	president	assume	office	0
+39	He <b>assumes</b> the lotus position		assume	position	0
+40	He <b>assumed</b> to himself the right to fill all positions in the town		assume	right	0
+41	She <b>assumed</b> indifference, even though she was seething with anger		assume	indifference	0
+42	The editors of the left-leaning paper <b>attacked</b> the new House Speaker	editor	attack	speaker	1
+43	The Serbs <b>attacked</b> the village at night	Serbs	attack	village‚	0
+44	I <b>attacked</b> the problem as soon as I got out of bed		attack	problem	1
+45	The cancer cells are <b>attacking</b> his liver	cells	attack	liver	0
+46	She <b>attends</b> class regularly		attend	class	0
+47	She <b>attends</b> the old lady in the wheelchair		attend	lady	0
+48	The children in the audience <b>attended</b> the recital quietly	children	attend	recital	0
+49	His high fever <b>attested</b> to his illness	fever	attest		1
+50	Let's <b>avoid</b> a confrontation.		avoid	confrontation	0
+51	Muslims <b>avoid</b> tobacco during the day.	Muslims	avoid	tobacco	0
+52	<b>back</b> the car into the parking spot		back	car	0
+53	Which horse are you <b>backing?</b>		back	horse	1
+54	The number `one' <b>begins</b> the sequence	number	begin	sequence	0
+55	The novel <b>begins</b> with a murder	novel	begin		0
+56	I <b>believed</b> his report		believe	report	0
+57	You cannot <b>believe</b> this man		believe	man	0
+58	This book <b>belongs</b> to me	book	belong		0
+59	This student somehow doesn't <b>belong</b>	student	belong		0
+60	Where do these books <b>belong?</b>	book	belong		0
+61	The press photographers <b>besieged</b> the movie star	photographer	besiege	star	0
+62	The Chinese would <b>bind</b> the feet of their women.	Chinese	bind	foot	0
+63	They <b>bind</b> their books in leather.		bind	book	0
+64	The hydrogen <b>binds</b> the oxygen.	hydrogen	bind	oxygen	0
+65	Her feet <b>blistered</b> during the long hike.	foot	blister		0
+66	The Senator <b>blistered</b> the administration in his speech on Friday.	senator	blister	administration	1
+67	The tight shoes and perspiration <b>blistered</b> her feet.	shoe	blister	foot	0
+68	The haze <b>blurs</b> the hills	haze	blur	hill	0
+69	The fog <b>blurs</b> my vision	fog	blur	vision	0
+70	The distinction between the two theories <b>blurred</b>	distinction	blur		1
+71	her rucksack <b>bobbed</b> gently on her back	rucksack	bob		0
+72	The listeners <b>bolted</b> when he discussed his strange ideas	listener	bolt		0
+73	The tax cut will <b>boost</b> the economy.	cut	boost	economy	1
+74	<b>Boost</b> the voltage in an electrical circuit.		boost	voltage	0
+75	Mosquitoes buzzing in my ear really <b>bothers</b> me	mosquito	bother		0
+76	Don't <b>bother</b> the professor while she is grading term papers		bother	professor	0
+77	The rubber ball <b>bounced</b>	ball	bounce		0
+78	The government <b>bowed</b> to the military pressure	government	bow		1
+79	He <b>breathed</b> new life into the old house		breathe	life	1
+80	Our new synthetic fabric <b>breathes</b> and is perfect for summer wear	fabric	breathe		1
+81	She <b>breathes</b> the Christian spirit		breathe	spirit	1
+82	Johnson <b>brushed</b> the hairs from his jacket		brush	hair	0
+83	He <b>brushed</b> the wall lightly		brush	wall	0
+84	She <b>brushed</b> the suit before hanging it back into the closet		brush	suit	0
+85	Her long skirt <b>brushed</b> the floor	skirt	brush	floor	0
+86	<b>brush</b> away the crumbs		brush	crumb	0
+87	<b>brush</b> the bread with melted butter		brush	bread	0
+88	The government is <b>building</b> new schools in this state	government	build	school	0
+89	These architects <b>build</b> in interesting and new styles	architect	build		0
+90	This sum will <b>buy</b> you a ride on the train	sum	buy	ride	0
+91	I can't <b>buy</b> this story		buy	story	1
+92	bees were <b>buzzing</b> around the hive	bee	buzz		0
+93	Planes <b>buzzed</b> the crowds in the square	plane	buzz	crowd	0
+94	This office is <b>buzzing</b> with activity	office	buzz		1
+95	<b>capture</b> the essence of Spring		capture	essence	1
+96	She <b>captured</b> all the men's hearts		capture	heart	1
+97	This nucleus has <b>captured</b> the slow-moving neutrons	nucleus	capture	neutron	0
+98	She <b>challenged</b> his claims		challenge	claim	0
+99	Father had to learn how to <b>change</b> the baby		change	baby	0
+0	The twentieth century saw intensive development of new technologies	century	see	development	1
+1	Our conversation turned to the subject of “tongues”.	conversation	turn		1
+2	The resumption of school brought relief to thousands of children.	resumption	bring	relief	1
+3	Utah’s economy is moving in the right direction.	economy	move		1
+4	The service will meet your expectations.	service	meet	expectation	1
+5	I hope all her marketing materials live the dream.	material	live	dream	1
+6	Three years later, unemployment stands at 8.2 percent. 	unemployment	stand		1
+7	Actions talk even louder than phrases. 	action	talk		1
+8	This statement sits oddly in the article.	statement	sit		1
+9	Personal income has not fallen because of welfare programs.	income	fall		1
+10	The silence spoke volumes, none of which he wanted to hear.	silence	speak	volume	1
+11	Our car decided to act raggedy on Friday, we had to take it to the shop.	car	decide		1
+12	My computer battery died.	battery	die		1
+13	If you walk documents into the office, you can also pay by VISA or MasterCard.		walk	document	1
+14	The company is letting money walk out the door.	money	walk		1
+15	They are accidents waiting to happen.	accident	wait		1
+16	Texans broke their own record for electricity demand for the third time this month.	Texan	break	record	1
+17	Two Fridays ago, temperatures broke 100 across central Indiana.	temperature	break		1
+18	Will insurance cover my care?	insurance	cover	care	1
+19	He also says the state needs to cut spending on Medicaid.	state	cut	spending	1
+20	Hawaii kills proposal for home energy loans.	Hawaii	kill 	proposal	1
+21	How is consumer electronics driving innovation in the U.S. and abroad?	electronics	drive	innovation	1
+22	Luck loves those that expect it.	luck	love		1
+23	Teenagers wear attitude like a uniform.	teenager	wear	attitude	1
+24	He was catching a flight to New York to attend a conference.		catch	flight	1
+25	Envy eats away at your soul.	envy	eat		1
+26	Some of the most disturbing data pointed to the physical pain.	data	point		1
+27	Japanese advertisers pulled their ads off the air.	advertiser	pull	ad	1
+28	They wanted to close a deal with the Egyptians quickly.		close	deal	1
+29	The police closed the investigation.	police	close	investigation	1
+30	Bicycle suffered major damage.	bicycle	suffer	damage	1
+31	Just wanted to let you know Tori threw a temper tantrum and hit her head on the floor	Tori	throw	tantrum	1
+32	He started to look for other business opportunities and soon Fortune smiled at him.	fortune	smile		1
+33	For a brief moment this week, excitement filled the streets of both Havana and Miami.	excitement	fill	street	1
+34	Please join me as we work together to fight hunger in your community.		fight	hunger	1
+35	Competition is dropping prices.	competition	drop	price	1
+36	That happens once a new product really hits the market.	product	hit	market	1
+37	Murkowski is pushing legislation through Congress.	Murkowski	push	legislation	1
+38	One of the seatbelt bolts refused to budge.	bolt	refuse		1
+39	However, the stupid men laid the blame on innocent dogs.	man	lay	blame	1
+40	The future of our transportation system hangs in the balance.	future	hang		1
+41	The change in teaching has shaken their confidence in the Church. 	change	shake	confidence	1
+42	The rumors flew that this far right group was coming again.	rumor	fly		1
+43	A special interest is how ideas travel among enterprises within or across different trades and nations.	idea	travel		1
+44	Different circumstances demand a different translation.	circumstance	demand		1
+45	This is a Prime Minister who has got a solution staring him in the face.	solution	stare		1
+46	On Sunday, China's manufacturing data beat expectations	data	beat	expectation	1
+47	Comprehensive solutions marry ideas favored by one party and opposed by the other.	solution	marry	idea	1
+48	So before anybody starts shooting down proposals, I think we need to listen.		shoot	proposal	1
+49	These trucks drink as much as they can and happily spew a load of carbon into the air.	truck	drink		1
+50	Dread settled in Hutch's chest with the ache of a bad cold.	dread	settle		1
+51	Use whatever association strikes your fancy.	association	strike	fancy	1
+52	Then came the War and tragedy struck the little community.	tragedy	strike	community	1
+53	Indeed, Mr. Obama has made it clear that he will press advantages where he sees them.		press	advantage	1
+54	Countless marriages have survived initial problems.	marriage	survive	problem	1
+55	The Bundestag in Germany lifted the ban on the Jesuit order of priests.	Bundestag	lift	ban	1
+56	His kindness has really touched me. 	kindness	touch		1
+57	The good news is that even while Congress sleeps, there are those on both the right and left that recognize the dangers.	congress	sleep		1
+58	No epic adventure has fed the imagination of millions of fans worldwide quite like the Star Wars series has.	adventure	feed	imagination	1
+59	Their hearts cry out for worship.	heart	cry		1
+60	The thriller didn’t stick its landing with all folks that ended up watching it.	thriller	stick	landing	1
+61	Across the compound, a clump of trees nodded gently in the winter breeze.	clump	nod		1
+62	His opponents will be attacking his credibility.	opponent	attack	credibility	1
+63	Midwesterners try to spread the wealth evenly.	midwesterner	spread	wealth	1
+64	Rumors spread that Coco was on good terms with the Germans.	rumor	spread		1
+65	By the end of Bush's presidency, unemployment climbed to 7.2%.	unemployment	climb		1
+66	Fate stepped in during her brother’s trip to NYC in September 2007.	fate	step		1
+67	These methodological blunders escaped the notice of the eminent reviewers.	blunder	escape	notice	1
+68	The U.S. Supreme Court handed a victory to generic drug companies.	court	hand	victory	1
+69	Forced overtime  burns goodwill  at an extremely high rate.	overtime	burn	goodwill	1
+70	The company’s stock jumped more than five percent,	stock	jump		1
+71	At Southwest Airlines, they understand that success rides on friendly service.	success	ride		1
+72	I find it a constant struggle to shut my brain off sometimes.		shut	brain	1
+73	Don’t go and blow your paycheck though.		blow	paycheck	1
+74	My computer slipped into coma.	computer	slip	coma	1
+75	My difficult daily schedule slips by wayside.	schedule	slip		1
+76	"The courts have attached broad meaning to the term ""interstate commerce""."	court	attach	meaning	1
+77	5 states are still solidly or strongly leaning Republican.	state	lean	republican	1
+78	Instead, Bernanke leaned on Congress to do more.	Bernake	lean	congress	1
+79	Apple has rolled out a new commercial for the iPad	Apple	roll	commercial	1
+80	Look at their smiling faces and their zeal as they try to wash their sins away.		wash	sin	1
+81	Like last year, Android tablets are stealing the spotlight.	tablet	steal	spotlight	1
+82	The stress test results stole the show from the Fed.	result	steal	show	1
+83	Out-of-control spending was hurting the economy.	spending	hurt	economy	1
+84	This is where some professionals may stretch the truth because they also know this is very important to you. 	professional	stretch	truth	1
+85	There are many things in life that can knock your confidence.		knock	confidence	1
+86	Once my phone was paired the car complained that my SD card was corrupt.	car	complain		1
+87	Your destiny is tied to the person you work for.		tie	destiny	1
+88	I really hope society wakes up soon.	society	wake		1
+89	This would do more to clean up government than a lot of other proposals would, but that is just my opinion.		clean	government	1
+90	I recently landed a nursing internship, which I am currently enjoying.		land	internship	1
+91	We need to kick our addiction to carbon.		kick	addiction	1
+92	In his views as the primary electorate swings further right.	electorate	swing		1
+93	The Great Depression dragged the market down with it.	depression	drag	market	1
+94	Life rushes to replace death.	life	rush		1
+95	This one speech could sink his candidacy.	speech	sink	candidacy	1
+96	But it is in the company framework that buries initiative.	framework	bury	initiative	1
+97	Mitt Romney swept five primaries on Tuesday night.	Mitt Romney	sweep	primary	1
+98	The rich are getting richer while the middle class slides into poverty.	class	slide	poverty	1
+99	Plainly, Ehud Olmert, Israel’s prime minister, should grab any opportunity to talk.	Olmert	grab	opportunity	1
+100	Headlines scream of pollution and dwindling natural resources.	headline	scream		1
+101	Primary battles have torn the party apart.	battle	tear	party	1
+102	Nonetheless, an established cult of fans digs this activity.	cult	dig	activity	1
+103	However, the funding dried up in 2007.	funding	dry		1
+104	The German economy shrugged off the impact of eurozone debt crisis.	economy	shrug	impact	1
+105	The economy sailed through the world recession of 2001.	economy	sail		1
+106	The government dreams up regulations that affect pubs every day.	government	dream	regulation	1
+107	The creativity flowed from the parents as well as the children.	creativity	flow		1
+108	The pride bursts from my heart.	pride	burst		1
+109	Airports are swimming in money from passenger fees.	airport	swim	money	1
+110	Communism collapsed world-wide.	communism	collapse		1
+111	She hated strangers approaching her for any reason.	stranger	approach		0
+112	The camp smoke arose from the usual places as far as I could see.	smoke	arise		0
+113	The bus eventually arrived.	bus	arrive		0
+114	Attach a drain hose to the radiator drain.		attach	hose	0
+115	Somali pirates have attacked 62 ships.	pirate	attack	ship	0
+116	In a large bowl, beat eggs until foamy.		beat	egg	0
+117	A suicide bomber blew up his sport-utility vehicle in the middle of a village volleyball game.	bomber	blow	vehicle	0
+118	Amidst all of that commotion, my wife’s car broke down while she was out getting us pizza.	car	break		0
+119	Her son broke my window.	son	break	window	0
+120	It is imperative that you bring your own food.		bring	food	0
+121	I love that these candles burn clean!	candle	burn		0
+122	Fireworks burst over the stadium and lit the night sky.	firework	burst		0
+123	The Army started burying soldiers along the northern border of the Arlington estate.	army	bury	soldier	0
+124	Ships typically carry up to 12 passengers in comfortable single or double cabins.	ship	carry	passenger	0
+125	We each caught another salmon that day, too.		catch	salmon	0
+126	Clean a carpet stain immediately, even if you can't see it.		clean	stain	0
+127	They climb the stairs to the top of the dam		climb	stairs	0
+128	The police closed the main exit road.	police	close	road	0
+129	Jim closed the book.	Jim	close	book	0
+130	A bridge had collapsed due to the rains.	bridge	collapse		0
+131	Some reviewers have complained about the smell.	reviewer	complain		0
+132	By this time the young boy was crying.	boy	cry		0
+133	I used to cut grass on a golf course when I was in college.		cut	grass	0
+134	The judges decide on the winner of the category.	judge	decide		0
+135	The protesters demanded the release of the jailed students.	protester	demand		0
+136	Her father died when she was very young.	father	die		0
+137	I found them while the workmen were digging this pond.	workman	dig	pond	0
+138	He dragged his suitcase up the stairs of the inn.		drag	suitcase	0
+139	Some brides dream of an elegant formal ceremony in a huge castle.	bride	dream		0
+140	Most informants agreed that camels drink more water in the winter than in the summer.	camel	drink	water	0
+141	The driver was driving on the wrong side of the road and did not see Joshua.	driver	drive		0
+142	This paint dries fast!	paint	dry		0
+143	If you don’t eat breakfast and you’re tired by 9 am.		eat	breakfast	0
+144	Passing through the hallway visitors enter into the dining room.	visitor	enter	room	0
+145	 A couple of prisoners have escaped from the jail near Reykjavik, Iceland. 	prisoner	escape		0
+146	All the leaves had fallen from the trees.	leaf	fall		0
+147	The farmer arrived to feed the cows.		feed	cow	0
+148	You will be able to fill the water bottle at a fountain.		fill	bottle	0
+149	Yesterday lava flowed 90 meters wide as far out as a hundred meters from the shoreline.	lava	flow		0
+150	Contra planes flew north to the U.S., loaded with cocaine.	plane	fly		0
+151	A man went to a city.	man	go	city	0
+152	She grabbed a towel and wrapped it around her head.		grab	towel	0
+153	And then my dad had a garden, so he grew vegetables.		grow	vegetables	0
+154	A week later we handed the keys to our old apartment to our landlord.		hand	key	0
+155	I remember my head hit the ground.	head	hit	ground	0
+156	As soon as I lie down my stomach hurts again.	stomach	hurt		0
+157	Now the fish are jumping out of the pond right into my net!	fish	jump		0
+158	To score this point, a kicker must kick the football through the goal posts.	kicker	kick	football	0
+159	In July, a suicide bomber killed three people including the top justice official in the region.	bomber	kill	person	0
+160	How do you feel when a salesman knocks at your door when you're hurriedly getting ready for the office?	salesman	knock	door	0
+161	The helicopter landed in the snow.	helicopter	land		0
+162	Iran plans to launch an additional satellite.	Iran	launch	satellite	0
+163	The couple laid a wreath at the Tomb of the Unknown Soldier.	couple	lay	wreath	0
+164	I shouted to the driver, who was leaning his head out the window.		lean	head	0
+165	The pharmacist leaned forward and said he understood.	pharmacist	lean		0
+166	These muscles are used to help lift your legs.		lift	leg	0
+167	If my children lived nearby, I would be babysitting.	child	live		0
+168	People love to be asked about what they’re working on.	person	love		0
+169	My daughter has married an Indian man and we attended the traditional Hindu wedding.	daughter	marry	man	0
+170	I met a girl who claimed she was in the circus.		meet	girl	0
+171	The object then moved slowly away.	object	move		0
+172	The man nodded his approval and walked around to me.	man	nod	approval	0
+173	Miranda opened her mouth to reply, but no words came out.	Miranda	open	mouth	0
+174	Note that the antennas are pointing in different directions.	antena	point		0
+175	The horse pulled his head away and lipped the man's nose.	horse	pull	head	0
+176	The steam pushed the piston up and down.	steam	push	piston	0
+177	At Pitzer College on Wednesday night, nearly 150 students raised their hands.	student	raise	hand	0
+178	What can you do if the landlord refuses to make repairs to the premises?	landlord	refuse		0
+179	A pair of cowboys rode into town.	cowboy	ride		0
+180	Columns of smoke rose from fires burning out of control.	column	rise		0
+181	The tears rolled down the poor child's face.	tear	roll		0
+182	I rarely have a chance to see my horses run.	horse	run		0
+183	Reporters rushed to the scene.	reporter	rush		0
+184	The doctor said it would heal fine that way.	doctor	say		0
+185	The crowd screamed and sang along as usual.	crowd	scream		0
+186	Hawaii of course was settled by Polynesian immigrants from Tahiti about one thousand years ago.	immigrant	settle	Hawaii	0
+187	The young man shook his head.	man	shake	head	0
+188	He just shrugged his shoulders.		shrug	shoulder	0
+189	The ship was sunk by a Soviet submarine.	submarine	sink	ship	0
+190	His cat was now sitting expectantly upon his feet.	cat	sit		0
+191	Most babies sleep primarily in their parent’s room for months.	baby	sleep		0
+192	The top right-hand drawer slid open at a touch.	drawer	slide		0
+193	Theo's foot slipped on the slick stone.	foot	slip		0
+194	Dean slips his own knife into the sheath in the back of his pants	Dean	slip	knife	0
+195	Frodo smiled amid his tears.	Frodo	smile		0
+196	Use a small brush to spread glue on the egg.		spread	glue	0
+197	For a while, the headless statue stood in the front yard of a neighboring home.	statue	stand		0
+198	Frodo stared at the stone in his palm for a few moments.	Frodo	stare		0
+199	The thief stole the photo from the museum in Prague.	thief	steal	photo	0
+200	The engineer stole Boeing trade secrets.	engineer	steal	secret	0
+201	Blair stepped out of the car to meet him.	Blair	step		0
+202	Beth turned her head and stuck her tongue at me.	Beth	stick	tongue	0
+203	Frank stretched his arm out across the length of the back of the bench.	Frank	stretch	arm	0
+204	Some women suffer no pain at all.	woman	suffer	pain	0
+205	The bar supports the full weight of the person.	bar	support	weight	0
+206	Can humans survive without water?	human	survive		0
+207	The old man was sweeping the floor.	man	sweep	floor	0
+208	There were over a dozen whale sharks swimming around us.	shark	swim		0
+209	Have you ever seen a politician talking to a rich person on TV?	politician	talk		0
+210	Older patients may tear the rotator cuff during the dislocation.	patient	tear	cuff	0
+211	Scientists think they have discovered the first liquid sea outside of Earth on Saturn's largest moon, Titan.	scientist	think		0
+212	Lebanese throw rocks at Israeli soldiers.	Lebanese	throw	rock	0
+213	Then you can also tie a ribbon around the card to make it look pretty.		tie	ribbon	0
+214	The longer of the two ladders is not touching the ground.	ladder	touch	ground	0
+215	All passengers travel in cabins, and all cabins have a private shower & toilet.	passenger	travel		0
+216	Jim turned and walked into the waiting room.	Jim	turn		0
+217	One morning at daybreak, thunder woke him. 	thunder	wake		0
+218	Misha walks his dogs in the park.	Misha	walk	dog	0
+219	Pedestrians walk between cafes and other small businesses.	pedestrian	walk		0
+220	We always wear helmets when we are riding bikes.		wear	helmet	0
+221	Today volunteers welcome visitors and groups of all sizes.	volunteer	welcome	visitor	0
