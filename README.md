@@ -34,3 +34,6 @@ After finishing the preparation, use the command ```python main.py -x rf -p test
 The classifier can be changed by substituting *rf* by *zero*, *few*, or *madx*.
 
 Notes: If the augmented training dataset is used, use the file 'augmented_training_dataset.tsv' for the neural classifiers and the file 'augmented_training_dataset_svo.tsv' for the random forest classifier.
+
+## Citation:
+Data and code are described in the paper "Cross-lingual Metaphor Detection for Low- to High-Resource Languages", which will soon be published at the FigLang 2024 workshop.
