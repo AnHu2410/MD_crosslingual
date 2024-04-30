@@ -1,5 +1,5 @@
 # MD_crosslingual
-4 different models for performing metaphor detection cross-lingually for low-resource languages.
+4 different models for performing metaphor detection cross-lingually for low- to high-resource languages.
 
 This repository contains the code for using English as a source language and Russian as a target language. If the models should be used on other languages, the training and test data has to be preprocessed in such a way that its format is identical to the train and test file generated in bullet point 3 (preparation, see below). Also, a one-to-many electronic dictionary is needed with format and filename identical to the format and filename of the electronic dictionary generated below in bullet point 4 (preparation). The electronic dictionary is only needed for the random forest classifier.
 
