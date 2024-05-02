@@ -1,4 +1,4 @@
-The tsv-files contain the German metaphor detection data originally gathered by Köper & Schulte im Walde (2017, https://aclanthology.org/W17-1903.pdf). The data was reduced and balanced for the purposes of the current study.
+The tsv-files contain the German metaphor detection data originally gathered by Köper & Schulte im Walde (https://aclanthology.org/W17-1903.pdf). The data was reduced and balanced for the purposes of the current study. Also, the tsv-files of the augmented training data (based on https://saifmohammad.com/WebPages/metaphor.html and https://homes.cs.washington.edu/~yuliats/) are given (once with lemmatized subjects, verbs and objects for the random forest classifier in a reduced version, once the whole dataset).
 
 The Latin metaphor detection data that was gathered by Logos for the American Standard Version of the bible (https://de.logos.com) was translated into Latin for the current study. It is not included in this repository, since it is based on a commercial software. For those interested in the dataset, please contact me: anna.huelsing@uni-hildesheim.de.
 
