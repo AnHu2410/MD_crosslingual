@@ -67,13 +67,13 @@ class Evaluator(object):
         self.accuracy = 0
         self.alpha = alpha
 
-    def get_scores(self):  # calculates the f-score for each gender
+    def get_scores(self):  # calculates the f-scores
         tp_f, fp_f, fn_f = tp_fp_fn(self.predictions, self.labels, 0)
         tp_m, fp_m, fn_m = tp_fp_fn(self.predictions, self.labels, 1)
         precision_m, recall_m = precision_recall(tp_m, fp_m, fn_m)
         precision_f, recall_f = precision_recall(tp_f, fp_f, fn_f)
-        self.f_score_lit = compute_f_score(precision_m, recall_m, self.alpha)
-        self.f_score_nonlit = compute_f_score(precision_f, recall_f, self.alpha)
+        self.f_score_nonlit = compute_f_score(precision_m, recall_m, self.alpha)
+        self.f_score_lit = compute_f_score(precision_f, recall_f, self.alpha)
         self.accuracy = compute_acc(self.predictions, self.labels)
 
     def __str__(self):
