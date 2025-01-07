@@ -12,7 +12,7 @@ def compute_acc(preds, labels):
 
 def tp_fp_fn(predictions: list, labels: list, literal_nonliteral: int) -> int:
     """This function calculates true positives,
-    false positives and false negatives for a given gender.
+    false positives and false negatives.
     """
     tp = 0
     fp = 0
@@ -68,12 +68,12 @@ class Evaluator(object):
         self.alpha = alpha
 
     def get_scores(self):  # calculates the f-scores
-        tp_f, fp_f, fn_f = tp_fp_fn(self.predictions, self.labels, 0)
-        tp_m, fp_m, fn_m = tp_fp_fn(self.predictions, self.labels, 1)
-        precision_m, recall_m = precision_recall(tp_m, fp_m, fn_m)
-        precision_f, recall_f = precision_recall(tp_f, fp_f, fn_f)
-        self.f_score_lit = compute_f_score(precision_m, recall_m, self.alpha)
-        self.f_score_nonlit = compute_f_score(precision_f, recall_f, self.alpha)
+        tp_nonlit, fp_nonlit, fn_nonlit = tp_fp_fn(self.predictions, self.labels, 0)
+        tp_lit, fp_lit, fn_lit = tp_fp_fn(self.predictions, self.labels, 1)
+        precision_nonlit, recall_nonlit = precision_recall(tp_nonlit, fp_nonlit, fn_nonlit)
+        precision_lit, recall_lit = precision_recall(tp_lit, fp_lit, fn_lit)
+        self.f_score_lit = compute_f_score(precision_lit, recall_lit, self.alpha)
+        self.f_score_nonlit = compute_f_score(precision_nonlit, recall_nonlit, self.alpha)
         self.accuracy = compute_acc(self.predictions, self.labels)
 
     def __str__(self):
