@@ -1,12 +1,14 @@
 """This file contains the neural trainer functions."""
 
+
 from datasets import Dataset
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from transformers import DataCollatorWithPadding
 from transformers import TrainingArguments, Trainer
-from transformers.adapters import AutoAdapterModel
-from transformers.adapters.composition import Stack
-from transformers import AdapterConfig, AdapterTrainer
+import adapters
+from adapters import AutoAdapterModel
+from adapters.composition import Stack
+from adapters import AdapterConfig, AdapterTrainer
 from transformers import set_seed
 import numpy as np
 
