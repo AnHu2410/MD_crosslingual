@@ -68,8 +68,8 @@ class Evaluator(object):
         self.alpha = alpha
 
     def get_scores(self):  # calculates the f-scores
-        tp_nonlit, fp_nonlit, fn_nonlit = tp_fp_fn(self.predictions, self.labels, 0)
-        tp_lit, fp_lit, fn_lit = tp_fp_fn(self.predictions, self.labels, 1)
+        tp_nonlit, fp_nonlit, fn_nonlit = tp_fp_fn(self.predictions, self.labels, 1)
+        tp_lit, fp_lit, fn_lit = tp_fp_fn(self.predictions, self.labels, 0)
         precision_nonlit, recall_nonlit = precision_recall(tp_nonlit, fp_nonlit, fn_nonlit)
         precision_lit, recall_lit = precision_recall(tp_lit, fp_lit, fn_lit)
         self.f_score_lit = compute_f_score(precision_lit, recall_lit, self.alpha)
